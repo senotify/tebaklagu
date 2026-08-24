@@ -1,0 +1,121 @@
+name: Deploy
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Image tag to deploy (a commit SHA, or 'latest'). Use this to roll back."
+        required: false
+        default: latest
+
+# packages:write also grants the read access the VPS needs to pull with this
+# job's ephemeral token, so no long-lived registry PAT has to live on the box.
+permissions:
+  contents: read
+  packages: write
+
+env:
+  IMAGE: ghcr.io/senotify/tebaklagu
+  CONTAINER: tebaklagu
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ steps.pick.outputs.tag }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: pick
+        run: echo "tag=${{ github.event.inputs.tag || github.sha }}" >> "$GITHUB_OUTPUT"
+
+      # A manual run with an existing tag is a rollback: that image is already
+      # in the registry, so rebuilding it would be wrong as well as wasteful.
+      - id: exists
+        run: |
+          if [ -n "${{ github.event.inputs.tag }}" ] && [ "${{ github.event.inputs.tag }}" != "latest" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.exists.outputs.skip == 'false'
+        uses: docker/setup-buildx-action@v3
+
+      - if: steps.exists.outputs.skip == 'false'
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ github.token }}
+
+      - if: steps.exists.outputs.skip == 'false'
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: |
+            ${{ env.IMAGE }}:${{ github.sha }}
+            ${{ env.IMAGE }}:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy over SSH
+        env:
+          SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+          HOST: ${{ secrets.VPS_HOST }}
+          USER: ${{ secrets.VPS_USER }}
+          TOKEN: ${{ github.token }}
+          ACTOR: ${{ github.actor }}
+          TAG: ${{ needs.build.outputs.tag }}
+        run: |
+          set -euo pipefail
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/deploy
+          chmod 600 ~/.ssh/deploy
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+          ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes "$USER@$HOST" \
+            IMAGE='${{ env.IMAGE }}' CONTAINER='${{ env.CONTAINER }}' \
+            TAG="$TAG" TOKEN="$TOKEN" ACTOR="$ACTOR" 'bash -euo pipefail -s' <<'REMOTE'
+            echo "$TOKEN" | docker login ghcr.io -u "$ACTOR" --password-stdin
+            trap 'docker logout ghcr.io >/dev/null 2>&1 || true' EXIT
+
+            docker pull "$IMAGE:$TAG"
+            docker rm -f "$CONTAINER" 2>/dev/null || true
+            docker run -d --name "$CONTAINER" \
+              --network proxy-network --restart unless-stopped \
+              "$IMAGE:$TAG"
+
+            docker image prune -f >/dev/null 2>&1 || true
+            echo "deployed $CONTAINER from $IMAGE:$TAG"
+          REMOTE
+
+      - name: Verify site is serving
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 10); do
+            code=$(curl -sS -m 20 --resolve "tebaklagu.senotify.com:443:${{ secrets.VPS_HOST }}" \
+                     -o /dev/null -w '%{http_code}' https://tebaklagu.senotify.com/ || echo 000)
+            echo "attempt $i: HTTP $code"
+            if [ "$code" = "200" ]; then
+              # The SPA loading proves nothing about the internal nginx that
+              # proxies api.deezer.com, and the app is dead without it.
+              hdr=$(curl -sS -m 25 --resolve "tebaklagu.senotify.com:443:${{ secrets.VPS_HOST }}" \
+                      -D- -o /dev/null "https://tebaklagu.senotify.com/api/deezer/search?q=test" || true)
+              if ! grep -qi '^x-cache-status' <<<"$hdr"; then
+                echo "Deezer proxy did not respond with a cache header:"; echo "$hdr" | head -5
+                exit 1
+              fi
+              echo "Deezer proxy OK"
+              exit 0
+            fi
+            sleep 6
+          done
+          echo "site did not return 200 after deploy"; exit 1
