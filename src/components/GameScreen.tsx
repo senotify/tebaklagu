@@ -184,7 +184,7 @@ export function GameScreen({
           {/* An ad in front of the video would play advertisement audio in place
               of the song, and a guess spent on that is a guess wasted. So the
               round stops here and offers a way out instead. */}
-          {blocked ? (
+          {blocked && !finished ? (
             <div className="flex flex-col items-center gap-3 rounded-xl border border-amber-500/20 bg-amber-500/5 px-4 py-6 text-center">
               <p className="text-sm text-amber-300">
                 YouTube memutar iklan sebelum lagu ini, jadi mode intro tidak bisa dipakai.

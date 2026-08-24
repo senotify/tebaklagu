@@ -78,6 +78,24 @@ let quotaGone = false
 /** A single non-id in a batch makes videos.list reject the whole request. */
 const VIDEO_ID = /^[A-Za-z0-9_-]{11}$/
 
+/**
+ * Could a video of this length plausibly be this track?
+ *
+ * Search happily returns "full album" uploads and hour-long compilations for a
+ * song title, and oEmbed can't tell those from the song — it only confirms a
+ * video exists and embeds. Intro mode would then play the opening of an album:
+ * "Orang Gila — Iwan Fals" resolved to a 1994 full-album upload this way.
+ *
+ * The upper bound is deliberately generous, because a music video can honestly
+ * run much longer than its recording — Thriller is 13:42 against a 5:57 track —
+ * whereas an album runs ten times over.
+ */
+const lengthAgrees = (videoSeconds, trackSeconds) =>
+  !trackSeconds || (videoSeconds >= trackSeconds * 0.5 && videoSeconds <= trackSeconds * 2.5 + 60)
+
+/** Deezer track ids whose video was rejected, so the schedule can drop it too. */
+const rejected = new Set()
+
 /** Fills in any lengths we don't have yet, when a key is available. */
 async function ensureDurations(videoIds) {
   const missing = [
@@ -155,6 +173,7 @@ for (const name of names) {
       artist: t.artist.name,
       cover: t.album.cover_medium,
       yt,
+      trackSeconds: t.duration,
     })
   }
 
@@ -164,15 +183,24 @@ for (const name of names) {
   // so it doesn't get to enter intro mode. Better a smaller intro catalog than
   // rounds that play an advertisement.
   let unmeasured = 0
-  const tracks = drafts.map(({ yt, ...rest }) => {
+  const mismatched = []
+  const tracks = drafts.map(({ yt, trackSeconds, ...rest }) => {
     const seconds = yt ? durations.get(yt) : null
     if (yt && !seconds) unmeasured++
+
+    if (yt && seconds && !lengthAgrees(seconds, trackSeconds)) {
+      mismatched.push(`${rest.title} — ${rest.artist} (${seconds}s vs ${trackSeconds}s)`)
+      rejected.add(rest.id)
+      return rest
+    }
+
     return { ...rest, ...(yt && seconds ? { youtubeId: yt, ytDuration: seconds } : {}) }
   })
 
   const withYt = tracks.filter((t) => t.youtubeId).length
   console.log(`   ${tracks.length} tracks, ${withYt} with YouTube ids`)
   if (unmeasured) console.log(`   ! ${unmeasured} ids dropped: length unknown, run again with YT_API_KEY`)
+  for (const line of mismatched) console.log(`   ! dropped, length disagrees: ${line}`)
   console.log(tracks.slice(0, 12).map((t) => `     ${t.title} — ${t.artist}`).join('\n'))
 
   if (!dryRun) {
@@ -225,12 +253,35 @@ if (!only.length) {
   // place: the scheduled track stays put, it just loses intro mode when its
   // length can't be established.
   await ensureDurations(Object.values(schedule).map((t) => t.youtubeId))
-  for (const entry of Object.values(schedule)) {
+  const todayWib = new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10)
+  let redrawn = 0
+
+  for (const [date, entry] of Object.entries(schedule)) {
     if (!entry.youtubeId) continue
     const seconds = durations.get(entry.youtubeId)
-    if (seconds) entry.ytDuration = seconds
-    else delete entry.youtubeId
+    // A video the catalog just rejected must not survive here either, or the
+    // daily would keep serving the album upload the playlists dropped.
+    if (seconds && !rejected.has(entry.id)) {
+      entry.ytDuration = seconds
+      continue
+    }
+
+    delete entry.youtubeId
   }
+
+  // Losing one track's video would otherwise take intro mode away from every
+  // daily, since the mode is only offered when the whole schedule supports it.
+  // A date still in the future can simply be re-drawn — nobody has played it, so
+  // the freeze has nothing to protect there. Today and every past date stay put:
+  // those results are already out in the world.
+  if (useBothModes) {
+    for (const [date, entry] of Object.entries(schedule)) {
+      if (entry.youtubeId || date <= todayWib) continue
+      delete schedule[date]
+      redrawn++
+    }
+  }
+  if (redrawn) console.log(`   ${redrawn} future dates re-drawn after losing their video`)
 
   // Deterministic shuffle so a given pool always fills dates the same way.
   let seed = 0x9e3779b9

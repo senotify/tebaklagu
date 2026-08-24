@@ -53,6 +53,22 @@
       <button id="run" disabled>Measure all stages</button>
       <span id="status">loading YouTube API…</span>
 
+      <div style="margin-top: 16px; border-top: 1px solid #222; padding-top: 16px">
+        <p class="sub" style="margin-bottom: 8px">
+          Ad check — useYouTubeClip tells the song from a pre-roll by comparing
+          <code>getDuration()</code> against the length in the catalog. Load a
+          monetised major-label upload here and watch what the player reports
+          while an ad is on screen.
+        </p>
+        <input
+          id="probeId"
+          value="fJ9rUzIMcZQ"
+          size="16"
+          style="background:#111;color:#e5e5e5;border:1px solid #333;border-radius:6px;padding:9px 10px"
+        />
+        <button id="probe" disabled>Probe prime</button>
+      </div>
+
       <table>
         <thead>
           <tr><th>Stage</th><th>Played (player clock)</th><th>Wall clock</th><th>Overshoot</th></tr>
@@ -83,6 +99,7 @@
             onReady: () => {
               $('status').textContent = 'ready'
               $('run').disabled = false
+              $('probe').disabled = false
             },
             onStateChange: (e) => {
               if (priming && e.data === YT.PlayerState.PLAYING) {
@@ -167,6 +184,50 @@
         log('A stage is honest when it overshoots by less than a quarter of itself.')
         log('The shortest green row is the real floor: set STAGES.intro[0] in')
         log('src/lib/game.ts to it.')
+      })
+
+      // Loads a video muted, exactly as prime() does, and reports what the
+      // player says about itself every 250ms. If a pre-roll runs, the duration
+      // column should show the ad's length first and then jump to the song's —
+      // that jump is the signal useYouTubeClip relies on. A duration that never
+      // changes while an ad is plainly playing would mean the check can't work.
+      const STATES = { '-1': 'unstarted', 0: 'ended', 1: 'playing', 2: 'paused', 3: 'buffering', 5: 'cued' }
+
+      $('probe').addEventListener('click', () => {
+        const id = $('probeId').value.trim()
+        $('probe').disabled = true
+        $('run').disabled = true
+        $('log').textContent = ''
+        log(`probing ${id} — watch the player above for an ad`)
+        log('   t     state       duration   currentTime')
+
+        player.mute()
+        player.loadVideoById(id)
+
+        const startedAt = performance.now()
+        let last = null
+        const timer = setInterval(() => {
+          const elapsed = (performance.now() - startedAt) / 1000
+          const state = STATES[String(player.getPlayerState())] ?? '?'
+          const duration = player.getDuration()
+          const line =
+            `  ${elapsed.toFixed(1)}s  ${state.padEnd(10)}  ` +
+            `${duration.toFixed(1).padStart(8)}   ${player.getCurrentTime().toFixed(1)}`
+          // Only print when something meaningful moved, so the log stays readable.
+          const fingerprint = `${state}:${duration.toFixed(1)}`
+          if (fingerprint !== last) {
+            log(line)
+            last = fingerprint
+          }
+          if (elapsed > 45) {
+            clearInterval(timer)
+            player.pauseVideo()
+            player.mute()
+            log('done — the final duration is the song; anything different before it was an ad')
+            $('probe').disabled = false
+            $('run').disabled = false
+          }
+        }, 250)
       })
 
       const tag = document.createElement('script')

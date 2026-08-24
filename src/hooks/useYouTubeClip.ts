@@ -361,7 +361,12 @@ export function useYouTubeClip(): YouTubeClipPlayer {
 
       // Priming usually catches an ad first, but not when autoplay never ran, so
       // the same check gates playback.
-      if (isOtherVideo(player)) {
+      //
+      // Only for staged clips (seconds !== null). The full play happens after the
+      // reveal, where the answer is already out and the iframe is uncovered — an
+      // ad there is visible and the player can simply skip it, so refusing to
+      // play would take away the one case that needs no protection.
+      if (seconds !== null && isOtherVideo(player)) {
         setBlocked(true)
         return
       }
@@ -390,8 +395,9 @@ export function useYouTubeClip(): YouTubeClipPlayer {
 
       const watch = () => {
         // An ad that starts once playback is under way would otherwise drive the
-        // progress bar and burn the stage on advertisement audio.
-        if (isOtherVideo(player)) {
+        // progress bar and burn the stage on advertisement audio. Again only
+        // while a clip is staged; after the reveal there is nothing to protect.
+        if (seconds !== null && isOtherVideo(player)) {
           finish()
           setBlocked(true)
           return

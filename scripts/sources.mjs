@@ -58,7 +58,10 @@ export const PLAYLISTS = {
     emoji: '🌍',
     charts: [0, 132, 116],
     chartLimit: 100,
-    tracksPerArtist: 6,
+    // Same reason legendaris goes deep: an active artist's top six by Deezer rank
+    // are their latest singles, so "Shape of You" and "Blank Space" never appear
+    // while "Azizam" and "Opalite" do. A guessing game wants the famous ones.
+    tracksPerArtist: 14,
     artists: [
       'Adele', 'Ed Sheeran', 'Bruno Mars', 'Taylor Swift', 'The Weeknd',
       'Billie Eilish', 'Dua Lipa', 'Sia', 'Shakira', 'Ariana Grande',
