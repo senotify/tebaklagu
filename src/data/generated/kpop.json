@@ -1,0 +1,768 @@
+{
+  "title": "K-Pop",
+  "emoji": "💜",
+  "tracks": [
+    {
+      "id": 3454677991,
+      "title": "JUMP",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204153972,
+      "title": "This & That",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1498546032,
+      "title": "My Universe",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9133002f605093482a187335b2dac24/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204153982,
+      "title": "After You",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204153992,
+      "title": "FARMING",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4076508981,
+      "title": "Come Over",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9eb6749e7318572f9ee3d2a292ee17df/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204153962,
+      "title": "RUN IT",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2893837431,
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bbe508aec4360f5adc963c9829d0d529/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204154002,
+      "title": "I Do",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4212946562,
+      "title": "Setsuna Hanabi",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a1d5938cc0f96c46192e492e6d0bcf1b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3664415392,
+      "title": "Do It",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d599208bbce6dbf351daaad1b3c860ad/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4037009371,
+      "title": "LEMONADE",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b81526e9d17c0c514bfafeb16db7e48c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2533705261,
+      "title": "LALALALA",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3020cc256b8bd705b1b530d01d45f984/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3412534541,
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2354707745,
+      "title": "Super Shy",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4032818971,
+      "title": "BOOMPALA",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b1b43f479b351883764bf5c564e73839/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3866248761,
+      "title": "GO",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3614444782,
+      "title": "SPAGHETTI",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3cdf87dacd1187c642269f2073a63680/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3976069491,
+      "title": "CELEBRATION",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/66efc060eb8bc54419fbd27763899be2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4149903382,
+      "title": "KISS N TELL",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/faa35c36c513d1725a680ebc73db86b5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3823100291,
+      "title": "BANG BANG",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2698f3ef04f6e290967c082e26b2e833/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3282147301,
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4581c816426c276adb0b30ce7fdf8ba8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2967699621,
+      "title": "CRAZY",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3496410431,
+      "title": "GODS",
+      "artist": "League Of Legends",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2da83f667965683428b9aecaab159771/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3125530581,
+      "title": "Strategy (feat. Megan Thee Stallion)",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0da99d80ee9ebbe451b84f7a85f6e78e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3281013531,
+      "title": "Nxde",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fc8901bbeb142773645d82d9e2deefb2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3866248781,
+      "title": "Champion",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 568846222,
+      "title": "Kiss and Make Up",
+      "artist": "Dua Lipa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/31a802fa45d60b085fcb135c86b48420/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2373775125,
+      "title": "New Jeans",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1962896187,
+      "title": "ANTIFRAGILE",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0f35a77d455830f16223be43a19263d8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4154975522,
+      "title": "NORMAL",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43de988a1fe35e50e15190c46d3b486c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3451046521,
+      "title": "THIS IS FOR",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4076509001,
+      "title": "ICONIC BY MISTAKE",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c22c441eb7f5519886c8a386a963e7c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2088671947,
+      "title": "OMG",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3973347911,
+      "title": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ea5e26aafda356365df129bbfcf239d2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4037009421,
+      "title": "Switchblade (feat. Ty Dolla $ign)",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b81526e9d17c0c514bfafeb16db7e48c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1255932992,
+      "title": "What is Love?",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8394772e6cfaecf21b3ffae7a4e149b0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2227832217,
+      "title": "I AM",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f553f9d2c8af9be28334cbdb90cd25fd/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1642054652,
+      "title": "THAT’S A NO NO",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a4712557125cdfc3c4eddb7908f726b0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3528439201,
+      "title": "Rich Man",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a8b6ad97c94c5acb22add1b58a8d1c83/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2663894712,
+      "title": "Smart",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a50a7d9797a87ad70e955e3a87b693c7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3866248771,
+      "title": "Me and my",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3069037841,
+      "title": "Supernova Love",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3497815281,
+      "title": "POP/STARS",
+      "artist": "K/DA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6404efe8fa90cdf8078434c0a0487c14/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2071104987,
+      "title": "Ditto",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/89073b58a3ce20e32384f246b92f1c76/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728552752,
+      "title": "Day 1",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/57fbde5dead4ee0aebf20ce3b2c2d268/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1533348982,
+      "title": "The Feels",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39443bfe03b4e82da2a4f35ae423cace/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2853677102,
+      "title": "Supernatural",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3282147221,
+      "title": "TOMBOY",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5309af30bf4c2971295198792d278c2d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2373775145,
+      "title": "ETA",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1737159087,
+      "title": "FEARLESS",
+      "artist": "LE SSERAFIM",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/51d4b8d7cc81bc0445c9943d441ecee2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1843514387,
+      "title": "Attention",
+      "artist": "NewJeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 45616751,
+      "title": "Fantastic Baby",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5c6bd624adc5e3a686a159d2a73ef77/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 973317122,
+      "title": "Sour Candy",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/81572deeede9e5f691e4b1889b828197/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3907717481,
+      "title": "SWIM",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3178649911,
+      "title": "ATTITUDE",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f7458688225f11986080e72e2a5825a1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3950788711,
+      "title": "Stick With You",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3ed6b0d3dcf5c2921a5dad7c5fc7cfc0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 727835802,
+      "title": "Love Shot",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1642054622,
+      "title": "WANNABE",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a4712557125cdfc3c4eddb7908f726b0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1255927852,
+      "title": "FANCY",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7ca4b5a8a53295096302ffa8f39ccdb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4178965332,
+      "title": "Surfin' Boy",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3d833a2c1c6a9fd7c1b34571ac6d61b6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1114415022,
+      "title": "I CAN'T STOP ME",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/464f5d095862d82564531ed8cfc21002/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1863618717,
+      "title": "After LIKE",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ab236c40945b8e84d5e2ff76afeabf9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3400461701,
+      "title": "Girls Will Be Girls",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6f3e6c2255435c2a34319c378aaace12/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1708995887,
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f1db0eeac1f61dd8a9c7696bdb50aea8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3153143521,
+      "title": "REBEL HEART",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dbd0646499694b1b974acaa2f2a28d87/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728092462,
+      "title": "러시안 룰렛 Russian Roulette",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1e26d9443309f860a6775d50946c4766/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3907717511,
+      "title": "Like Animals",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3345776131,
+      "title": "Love Language",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/01950bc4e7b393849e96071a4010b7f4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4090868561,
+      "title": "Gimme Dat Love",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c12bc2e91893940b45a31415e60245b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3907717421,
+      "title": "Body to Body",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1463425352,
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2512ae28f9f6a1ea418211e9c69490db/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1642053592,
+      "title": "LOCO",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3b89c0bd869b2330ef565249c7e1dbfe/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3853730971,
+      "title": "BLACKHOLE",
+      "artist": "IVE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3462560441,
+      "title": "Ghost Girl",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8ba4a1461cceb56eed07bfa4998040d8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3818726511,
+      "title": "Good Thing",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5fcc5ed1600cb185cd7ffae72bf2df74/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2247330887,
+      "title": "Super",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2607923062,
+      "title": "UNTOUCHABLE",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 835295992,
+      "title": "Psycho",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/029b5afe1180dfbe53c284154634c50a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3907717431,
+      "title": "Hooligan",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3641465642,
+      "title": "TUNNEL VISION",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3614510862,
+      "title": "THUNDER",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/373edc57c9b84cb36f389eb92f104a60/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2354707725,
+      "title": "Do It Like That",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cd3e76a34950043af2f6e8c96f37f190/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3907717461,
+      "title": "2.0",
+      "artist": "BTS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728724572,
+      "title": "Monster",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f2f7ac469bb8df4801aded36df7117db/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3275063201,
+      "title": "Super Lady",
+      "artist": "(G)I-DLE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2860072e579c9b4a708429f15082df1c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1528273532,
+      "title": "Rock with you",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1385902032,
+      "title": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2752439251,
+      "title": "MAESTRO",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4021131251,
+      "title": "Motto",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b69cb6e41c5cb42f877f0fbe78d7bcca/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4178965352,
+      "title": "Orchestra",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3d833a2c1c6a9fd7c1b34571ac6d61b6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728143922,
+      "title": "Bad Boy",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ccbd6b1ce7a44d4f15af601be6009295/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1767163017,
+      "title": "HOT",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1892629517,
+      "title": "VERY NICE",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3041140851,
+      "title": "Imaginary Friend",
+      "artist": "ITZY",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728406632,
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/79541a59cc13e41893fccaa14c53df5e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728553232,
+      "title": "CALL ME BABY",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d1df43fe10ddfe773f927385de15ad90/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1722331757,
+      "title": "Darl+ing",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7f94720d84b95bb6943530dcdc1a072b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728262532,
+      "title": "전야 前夜 The Eve",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2247330907,
+      "title": "I Don't Understand But I Luv U",
+      "artist": "SEVENTEEN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728203702,
+      "title": "으르렁 Growl",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728157542,
+      "title": "빨간 맛 Red Flavor",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e88e8dc3c161fa5945d869eddaf94716/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3498004181,
+      "title": "MORE",
+      "artist": "K/DA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2d296ab687ee3c141b3da8213c9ecb57/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 24225041,
+      "title": "Top Of The World",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c7ca6dac11a2d4f4987b8f2cf5f42b3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728422182,
+      "title": "MAMA",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/839b2c73ddd5542b5b059e5c4ab26d34/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728262542,
+      "title": "Ko Ko Bop",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728204112,
+      "title": "다시 만난 세계 Into the New World",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6cd889fa80ad5adbceeb4f65efcab7c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728704282,
+      "title": "Run Devil Run",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4af5ae9b4cd8f32b2359825b714ed6d3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728590802,
+      "title": "중독 Overdose",
+      "artist": "EXO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0b4cee00c74875369f700cc3a0bd4912/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728729032,
+      "title": "Oh!",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/325d46a830c15ca9a03584523acd27cb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728570742,
+      "title": "I GOT A BOY",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c8f8252ce424cab918e3f993f06ccd56/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 28604441,
+      "title": "Tonight",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e69040ee0823a35e48f2d73e52d834f6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 45616721,
+      "title": "Still Alive",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5c6bd624adc5e3a686a159d2a73ef77/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 45616731,
+      "title": "Monster",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5c6bd624adc5e3a686a159d2a73ef77/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 45616761,
+      "title": "Bad Boy",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5c6bd624adc5e3a686a159d2a73ef77/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 28604451,
+      "title": "High High",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e69040ee0823a35e48f2d73e52d834f6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1848896967,
+      "title": "FOREVER 1",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/04b58518030ca118ad3b6a15e0a60577/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 80630292,
+      "title": "Mr.Taxi",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dcf30e7fe7d06ef37c6b8730da516b79/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1425015742,
+      "title": "Lovesick Girls (Japan Version)",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c0901345f73aa977dff53f6cf34e4c17/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 24225031,
+      "title": "Gara Gara Go!!",
+      "artist": "Bigbang",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c7ca6dac11a2d4f4987b8f2cf5f42b3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 728729142,
+      "title": "소원을 말해봐 Genie",
+      "artist": "Girls' Generation",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/325d46a830c15ca9a03584523acd27cb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2516649651,
+      "title": "FOREVER YOUNG",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5ee196ca055678707b6ed90475c2162a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3033987511,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b62a48fd60d20e78af31bc1677c16114/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2578305302,
+      "title": "Drama",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b11bf6c3a635b8092924f601ecf206b1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3598684932,
+      "title": "Deja Vu (Japanese Ver.)",
+      "artist": "TOMORROW X TOGETHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5594ae4f36aec574b8cd738b6ea4e29f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2789110362,
+      "title": "Supernova",
+      "artist": "aespa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8e4cda8e043eb119662a4e3fef19c587/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2846707732,
+      "title": "Cosmic",
+      "artist": "Red Velvet",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7031325f5693a709234aef2d5fb924ba/250x250-000000-80-0-0.jpg"
+    }
+  ]
+}

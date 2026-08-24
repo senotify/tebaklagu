@@ -1,0 +1,177 @@
+<!doctype html>
+<!--
+  Development harness, not part of the built site (vite only builds index.html,
+  and .dockerignore keeps it out of the image).
+
+  It runs exactly the strategy useYouTubeClip uses — prime the video muted, park
+  it at 0:00, then play and stop on an animation-frame watcher — and reports how
+  much audio actually played for each intro stage. Use it to confirm the stage
+  table in src/lib/game.ts is honest on real hardware.
+
+      npm run dev   ->   http://localhost:5173/dev-yt-timing.html
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Intro clip timing harness</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 24px;
+        background: #0a0a0a;
+        color: #e5e5e5;
+        font: 14px/1.6 ui-sans-serif, system-ui, sans-serif;
+      }
+      main { max-width: 720px; margin: 0 auto; }
+      h1 { font-size: 18px; margin: 0 0 4px; }
+      p.sub { color: #888; margin: 0 0 20px; }
+      #player { width: 320px; aspect-ratio: 16/9; background: #000; border-radius: 8px; }
+      button {
+        background: #10b981; color: #000; border: 0; border-radius: 8px;
+        padding: 10px 16px; font-weight: 600; cursor: pointer; margin: 12px 8px 12px 0;
+      }
+      button:disabled { background: #333; color: #777; cursor: not-allowed; }
+      table { border-collapse: collapse; width: 100%; margin-top: 16px; }
+      th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid #222; }
+      th { color: #888; font-weight: 500; }
+      td.num { font-variant-numeric: tabular-nums; }
+      .ok { color: #10b981; }
+      .bad { color: #f43f5e; }
+      #log { color: #777; margin-top: 16px; white-space: pre-wrap; font-family: ui-monospace, monospace; font-size: 12px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Intro clip timing harness</h1>
+      <p class="sub">
+        Measures how much audio really plays per stage, using the same priming and
+        stop logic as <code>useYouTubeClip</code>.
+      </p>
+
+      <div id="player"></div>
+      <button id="run" disabled>Measure all stages</button>
+      <span id="status">loading YouTube API…</span>
+
+      <table>
+        <thead>
+          <tr><th>Stage</th><th>Played (player clock)</th><th>Wall clock</th><th>Overshoot</th></tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+
+      <div id="log"></div>
+    </main>
+
+    <script>
+      // Queen – Bohemian Rhapsody, one of the seeded ids.
+      const VIDEO_ID = 'fJ9rUzIMcZQ'
+      const STAGES = [0.1, 0.25, 0.5, 1, 2, 4, 8]
+
+      const $ = (id) => document.getElementById(id)
+      const log = (msg) => ($('log').textContent += msg + '\n')
+
+      let player
+      let priming = false
+      let readyResolve
+
+      window.onYouTubeIframeAPIReady = () => {
+        player = new YT.Player('player', {
+          videoId: VIDEO_ID,
+          playerVars: { controls: 0, disablekb: 1, modestbranding: 1, rel: 0, playsinline: 1, fs: 0 },
+          events: {
+            onReady: () => {
+              $('status').textContent = 'ready'
+              $('run').disabled = false
+            },
+            onStateChange: (e) => {
+              if (priming && e.data === YT.PlayerState.PLAYING) {
+                priming = false
+                player.pauseVideo()
+                player.seekTo(0, true)
+                player.unMute()
+                readyResolve?.()
+              }
+            },
+            onError: (e) => log('player error ' + e.data),
+          },
+        })
+      }
+
+      /** Prime: buffer the video muted and park it at 0:00. */
+      function prime() {
+        return new Promise((resolve) => {
+          priming = true
+          readyResolve = resolve
+          player.mute()
+          player.seekTo(0, true)
+          player.playVideo()
+          setTimeout(() => {
+            if (priming) { priming = false; log('prime timed out; continuing'); resolve() }
+          }, 5000)
+        })
+      }
+
+      /** Plays `seconds` and reports what actually elapsed. */
+      function playClip(seconds) {
+        return new Promise((resolve) => {
+          player.seekTo(0, true)
+          player.unMute()
+          player.playVideo()
+
+          const startedAt = performance.now()
+          let raf
+
+          const finish = () => {
+            cancelAnimationFrame(raf)
+            clearTimeout(backstop)
+            const playerTime = player.getCurrentTime()
+            player.pauseVideo()
+            player.seekTo(0, true)
+            resolve({ playerTime, wall: (performance.now() - startedAt) / 1000 })
+          }
+
+          const watch = () => {
+            if (player.getCurrentTime() >= seconds) return finish()
+            raf = requestAnimationFrame(watch)
+          }
+          raf = requestAnimationFrame(watch)
+          const backstop = setTimeout(finish, seconds * 1000 + 400)
+        })
+      }
+
+      $('run').addEventListener('click', async () => {
+        $('run').disabled = true
+        $('rows').innerHTML = ''
+        $('log').textContent = ''
+
+        for (const stage of STAGES) {
+          $('status').textContent = `measuring ${stage}s…`
+          await prime()
+          const { playerTime, wall } = await playClip(stage)
+          const overshoot = playerTime - stage
+
+          const row = document.createElement('tr')
+          const cls = Math.abs(overshoot) <= Math.max(0.1, stage * 0.25) ? 'ok' : 'bad'
+          row.innerHTML =
+            `<td class="num">${stage.toFixed(1)}s</td>` +
+            `<td class="num">${playerTime.toFixed(3)}s</td>` +
+            `<td class="num">${wall.toFixed(3)}s</td>` +
+            `<td class="num ${cls}">${overshoot >= 0 ? '+' : ''}${overshoot.toFixed(3)}s</td>`
+          $('rows').appendChild(row)
+          await new Promise((r) => setTimeout(r, 400))
+        }
+
+        $('status').textContent = 'done'
+        $('run').disabled = false
+        log('A stage is honest when it overshoots by less than a quarter of itself.')
+        log('The shortest green row is the real floor: set STAGES.intro[0] in')
+        log('src/lib/game.ts to it.')
+      })
+
+      const tag = document.createElement('script')
+      tag.src = 'https://www.youtube.com/iframe_api'
+      document.head.appendChild(tag)
+    </script>
+  </body>
+</html>

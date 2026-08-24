@@ -1,0 +1,1106 @@
+{
+  "title": "Pop Indonesia",
+  "emoji": "🇮🇩",
+  "tracks": [
+    {
+      "id": 531935901,
+      "title": "Overdose (feat. Chris Brown)",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c7aabd30e3715fd7a0009d5c81bf42d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1gTdgdJ_rMY"
+    },
+    {
+      "id": 1914507607,
+      "title": "Lost At Sea (Illa Illa 2)",
+      "artist": "B.I",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc4160374b1b9b68d1a7bc9002cbe3db/250x250-000000-80-0-0.jpg",
+      "youtubeId": "M8SwUgE6IpM"
+    },
+    {
+      "id": 1334904792,
+      "title": "Manusia Bodoh",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JRmBXQWzVEg"
+    },
+    {
+      "id": 3991213651,
+      "title": "Kekasih Gelapku",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5c6adcc08b7ab11966037129d28c28cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "SmCZJBpJehQ"
+    },
+    {
+      "id": 1145048732,
+      "title": "Asal Kau Bahagia",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d78cafda951e37e4e1996705b607843d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "py6GDNgye6k"
+    },
+    {
+      "id": 14203655,
+      "title": "Sephia",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0d60295aac30b650e83bc3d9d37306cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4tAg2H7tqD0"
+    },
+    {
+      "id": 7463424,
+      "title": "Doy",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ec2c96a50eca8ddaca7257b8e68e0d8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Sq-Uuu8CuuY"
+    },
+    {
+      "id": 13248108,
+      "title": "Dan...",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb35130431c8c23b8b8f5010bd199f2b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "dGcGbF4ex5o"
+    },
+    {
+      "id": 346345851,
+      "title": "Jikalau Kau Cinta",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/90f0a6684f41d08866916f6c2aad753f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "FXZOde_pso4"
+    },
+    {
+      "id": 1145221132,
+      "title": "Harga Diri",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Xva6fckcQX8"
+    },
+    {
+      "id": 14622555,
+      "title": "Cinta Yang Sempurna",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a1fa049dc0fb2753332934fa4d39b1c2/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MlI8BioxZ84"
+    },
+    {
+      "id": 1331459112,
+      "title": "Haruskah Ku Mati",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d736026ff56c5a86a78fe861240c1f43/250x250-000000-80-0-0.jpg",
+      "youtubeId": "233pOxCYu9w"
+    },
+    {
+      "id": 14203654,
+      "title": "Bila Kau Tak Disampingku",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0d60295aac30b650e83bc3d9d37306cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "DbVrS-1UQNU"
+    },
+    {
+      "id": 1333046362,
+      "title": "Roman Picisan",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JatwGCBZoI0"
+    },
+    {
+      "id": 135455260,
+      "title": "Mau Dibawa Kemana",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
+      "youtubeId": "acD6B_eR5yk"
+    },
+    {
+      "id": 3220478301,
+      "title": "Terima Kasih Cinta",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0f9a990bdefcadd4e1bc197f90064e04/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Hr0AAqHLLSg"
+    },
+    {
+      "id": 13249372,
+      "title": "Kasih Tak Sampai (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6561e0169687ac57867ce5c1edb8d785/250x250-000000-80-0-0.jpg",
+      "youtubeId": "v9SvqaLIGmU"
+    },
+    {
+      "id": 13248104,
+      "title": "Kita",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb35130431c8c23b8b8f5010bd199f2b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "qFZI6kPtOh0"
+    },
+    {
+      "id": 1331459122,
+      "title": "Karena Wanita (Ingin Dimengerti)",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d736026ff56c5a86a78fe861240c1f43/250x250-000000-80-0-0.jpg",
+      "youtubeId": "N9nEqewTFWk"
+    },
+    {
+      "id": 2338259125,
+      "title": "Get Loose",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/56bd9176f19cfdcf5a0afc3d28692832/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wR93L06f_tQ"
+    },
+    {
+      "id": 70971595,
+      "title": "Bawalah Cintaku",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7c7dce65f1f8965e5f3dd82db19b3d88/250x250-000000-80-0-0.jpg",
+      "youtubeId": "CPENPhizI-U"
+    },
+    {
+      "id": 1333046382,
+      "title": "Kangen",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "sjjhLDPT5_g"
+    },
+    {
+      "id": 3509628671,
+      "title": "Laskar Pelangi",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "fO1iJqBdXrc"
+    },
+    {
+      "id": 1332574892,
+      "title": "Sedang Ingin Bercinta",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ba1994affc306ff3b542ed08b4ae3113/250x250-000000-80-0-0.jpg",
+      "youtubeId": "RGvDKQRrjus"
+    },
+    {
+      "id": 76056797,
+      "title": "Tak Kan Ada Cinta Yang Lain",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/df262df4511ba8eb66382f8c6922b637/250x250-000000-80-0-0.jpg",
+      "youtubeId": "_PSPhCCUdZE"
+    },
+    {
+      "id": 15019776,
+      "title": "Aku Yang Tersakiti",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c869f3ef16b566fe69639aa52fbe0802/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9tZPmSv6DTs"
+    },
+    {
+      "id": 3991206571,
+      "title": "Tercipta Untukku",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0046e02707bc297d8a0344d467351d1a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "BURrhXkc97M"
+    },
+    {
+      "id": 3509628561,
+      "title": "Rahasia Hati",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "DGPl2Ec9XnA"
+    },
+    {
+      "id": 1145257362,
+      "title": "Tapi Bukan Aku",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4dd91a93a8c11346050ee30034e951d5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "-4A6SXIXjGs"
+    },
+    {
+      "id": 1331674382,
+      "title": "Masih Sahabatku Kekasihku",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e659810526f37d3c00fc2ef86d83b9dd/250x250-000000-80-0-0.jpg",
+      "youtubeId": "qK49p3s0r3k"
+    },
+    {
+      "id": 1334904782,
+      "title": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JoDcgE3Dujg"
+    },
+    {
+      "id": 1333046342,
+      "title": "Dewi",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "YyfmajcIZtM"
+    },
+    {
+      "id": 13248106,
+      "title": "Anugerah Terindah Yang Pernah Kumiliki",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb35130431c8c23b8b8f5010bd199f2b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "gnRCnyC8z0M"
+    },
+    {
+      "id": 3509628641,
+      "title": "Bila Aku Jatuh Cinta",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "0bbp4YEdpyo"
+    },
+    {
+      "id": 14203661,
+      "title": "Tunggu Aku Di Jakarta",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0d60295aac30b650e83bc3d9d37306cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xY6oVCZvZ7o"
+    },
+    {
+      "id": 67649167,
+      "title": "Sampai Akhir (feat. DuMa)",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
+      "youtubeId": "kE5hLWQBt_c"
+    },
+    {
+      "id": 3991206551,
+      "title": "Demi Waktu",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0046e02707bc297d8a0344d467351d1a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "cGBfLy0jbiI"
+    },
+    {
+      "id": 3991206011,
+      "title": "Luka Disini",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d802abedc3cd8bff1323e4cb228a2156/250x250-000000-80-0-0.jpg",
+      "youtubeId": "_lKEvxJQWXg"
+    },
+    {
+      "id": 67239354,
+      "title": "Bukan Dia Tapi Aku",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
+      "youtubeId": "IfPCRfaQBA0"
+    },
+    {
+      "id": 3509628581,
+      "title": "Hapus Aku",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "s1J6kVH188I"
+    },
+    {
+      "id": 1334904812,
+      "title": "Setengah Hati",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
+      "youtubeId": "cNOVn9qRRcc"
+    },
+    {
+      "id": 2476380351,
+      "title": "Ada",
+      "artist": "Lyodra",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a16dc512d89bc10a3e167e27e10b982d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "vve-1aKPqmI"
+    },
+    {
+      "id": 14299280,
+      "title": "Menanti Sebuah Jawaban",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/365e37305277beaccd2f4b652bc65cd0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nXoHBb-NsvY"
+    },
+    {
+      "id": 3810912242,
+      "title": "Bukan Cinta Biasa",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b73f7bf1c61c7c4b5448631029ff59a5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nshdkoeu_fY"
+    },
+    {
+      "id": 3991206021,
+      "title": "Dilema Cinta",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d802abedc3cd8bff1323e4cb228a2156/250x250-000000-80-0-0.jpg",
+      "youtubeId": "uCYz5EJkVrg"
+    },
+    {
+      "id": 1145221052,
+      "title": "Baik Baik Sayang",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "r6Z7Cpxl32k"
+    },
+    {
+      "id": 123867162,
+      "title": "Kamu Yang Kutunggu",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09498df4108b8b8b6fd4e74dd7249fc0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "5PQTKw907oE"
+    },
+    {
+      "id": 1145266692,
+      "title": "Demi Cinta",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wlK0erzBlGg"
+    },
+    {
+      "id": 1145266672,
+      "title": "Kesalahan Yang Sama",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "snBAQwqugIQ"
+    },
+    {
+      "id": 1145593132,
+      "title": "Ya Allah",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a995f2506a6923f9acac2eb31bf7b4d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "_Z1WAn_uJiM"
+    },
+    {
+      "id": 1145593142,
+      "title": "Tobat Maksiat (TOMAT)",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a995f2506a6923f9acac2eb31bf7b4d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MDNWviGrINE"
+    },
+    {
+      "id": 135455542,
+      "title": "Mabuk Cinta",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "oXVbv08eH1g"
+    },
+    {
+      "id": 14671966,
+      "title": "Kehilanganmu Berat Bagiku",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ebdacc270ef8fffc0fbe6cbc93c08e98/250x250-000000-80-0-0.jpg",
+      "youtubeId": "iY4Xa1srECs"
+    },
+    {
+      "id": 68853414,
+      "title": "Jodoh Pasti Bertemu",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/523a1cd38367b0021400bb5b338f789e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MV_euZ_lKH8"
+    },
+    {
+      "id": 1145221092,
+      "title": "Yank",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Oaifu0F_-Ro"
+    },
+    {
+      "id": 76056759,
+      "title": "Cinta Kan Membawamu Kembali",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a0b07f41e26a48f00d6157bcd23eda80/250x250-000000-80-0-0.jpg",
+      "youtubeId": "X8-4lpJDEcM"
+    },
+    {
+      "id": 3510120481,
+      "title": "Maaf Cintaku",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "r9g7xvW6OvI"
+    },
+    {
+      "id": 2651124712,
+      "title": "Cinta Sampai Mati",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c06181f8cb7dc449c42b807b02595883/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Xt0pDDsdbzw"
+    },
+    {
+      "id": 7463429,
+      "title": "Jangan Menangis Lagi",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ec2c96a50eca8ddaca7257b8e68e0d8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "lxVSvZd6LSM"
+    },
+    {
+      "id": 2980529391,
+      "title": "Party In Bali (PIB) [feat. Jay Park]",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1876a0bd68ec2226480e79bda27dfeb4/250x250-000000-80-0-0.jpg",
+      "youtubeId": "cv7CJIXfef4"
+    },
+    {
+      "id": 1146209332,
+      "title": "Terlalu Manis (Suka Suka Version)",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bf7bb6b4057fb0abe54d8213cc81af46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "dVFyo8pCr8c"
+    },
+    {
+      "id": 429284172,
+      "title": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e00067427a798a6ba582e60ab48ddd20/250x250-000000-80-0-0.jpg",
+      "youtubeId": "VJkxeb9kyLs"
+    },
+    {
+      "id": 68515768,
+      "title": "Tentang Aku,Kau dan Dia",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/783980aaab3c7db40fc3eba01e8f8c16/250x250-000000-80-0-0.jpg",
+      "youtubeId": "3ucQG2HQxMc"
+    },
+    {
+      "id": 3991206591,
+      "title": "Berikan Aku Cinta",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0046e02707bc297d8a0344d467351d1a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "o1_drcdbmvA"
+    },
+    {
+      "id": 1512531982,
+      "title": "I Miss U But I Hate U",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aa6fd0ce752809785f7658189d92849b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "GdgYcEysehM"
+    },
+    {
+      "id": 7463425,
+      "title": "Kembali Pulang",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9ec2c96a50eca8ddaca7257b8e68e0d8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "I_01mif-iDI"
+    },
+    {
+      "id": 1145266662,
+      "title": "Bila Rasaku Ini Rasamu",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "kSbQo03yOiI"
+    },
+    {
+      "id": 83780394,
+      "title": "Piknik '72",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/80c40c7c074bbb7eefac3e603f530a8f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "UoFB-3bY01k"
+    },
+    {
+      "id": 3393365271,
+      "title": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/daf7680474bc351aeb8cc30ed8231649/250x250-000000-80-0-0.jpg",
+      "youtubeId": "a_QUsz48A-o"
+    },
+    {
+      "id": 1146229902,
+      "title": "Virus",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/588e03c9abeb5dc493b3bdc59335ac20/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xbzT5_jIndg"
+    },
+    {
+      "id": 3991213641,
+      "title": "Cinta Dalam Hati",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5c6adcc08b7ab11966037129d28c28cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "NxITTclx7Go"
+    },
+    {
+      "id": 13248128,
+      "title": "Terbang",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1C7-7HNwyHw"
+    },
+    {
+      "id": 83780434,
+      "title": "Jikalau",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
+      "youtubeId": "3Xcrl-nhmdc"
+    },
+    {
+      "id": 76056722,
+      "title": "Kamulah Satu - Satunya",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d468bd06f15d572ce0224e51c8b76e9a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "mxoqgbC81zY"
+    },
+    {
+      "id": 1145765582,
+      "title": "Si Udin Bertanya (Robbana Atina)",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11cf8d61d00768480e20490a91faf1f4/250x250-000000-80-0-0.jpg",
+      "youtubeId": "kEBGh86UjoY"
+    },
+    {
+      "id": 135455550,
+      "title": "Hargai Aku",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Yjt_yWDAuyQ"
+    },
+    {
+      "id": 1145147702,
+      "title": "Cinta Putih",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4bf53b865ff9a4bbf60b7c68d4cf8c6c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "SOK1dMzc5UQ"
+    },
+    {
+      "id": 83780472,
+      "title": "Posessif",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/16025e06f61b05ac4bbf6c27cee22c34/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MBAvOr4CKEg"
+    },
+    {
+      "id": 4027932931,
+      "title": "Sekali Ini Saja",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/787a095b4e9e787e3460cf9c31eab0cf/250x250-000000-80-0-0.jpg",
+      "youtubeId": "ohcZzFVIJfs"
+    },
+    {
+      "id": 1331459212,
+      "title": "Jalan Cahaya (feat. Ubiet)",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d736026ff56c5a86a78fe861240c1f43/250x250-000000-80-0-0.jpg",
+      "youtubeId": "7rNCFZNh3RQ"
+    },
+    {
+      "id": 14299258,
+      "title": "Begitu Indah",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/365e37305277beaccd2f4b652bc65cd0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "bE8sO0TG9CE"
+    },
+    {
+      "id": 1145257312,
+      "title": "Mengenangmu",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4dd91a93a8c11346050ee30034e951d5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zexM-yvZqIE"
+    },
+    {
+      "id": 6626572,
+      "title": "Terbang Bersamaku",
+      "artist": "Kangen Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4741bae3f1b3e3ea8b38c1a0ba555017/250x250-000000-80-0-0.jpg",
+      "youtubeId": "ECisv158BmY"
+    },
+    {
+      "id": 1334904802,
+      "title": "Kau Auraku",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Y6lsDz8EpbM"
+    },
+    {
+      "id": 4044645431,
+      "title": "Lupakan Cinta",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/796d77203b0e1a7d0dbd6b306d2c1645/250x250-000000-80-0-0.jpg",
+      "youtubeId": "E_T3CYFzzLQ"
+    },
+    {
+      "id": 1145192632,
+      "title": "Nenekku Pahlawanku",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb8e8a000137bc55a75007e7bd8c7514/250x250-000000-80-0-0.jpg",
+      "youtubeId": "CU6rPv4xXhQ"
+    },
+    {
+      "id": 67239352,
+      "title": "Mama Papa Larang",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
+      "youtubeId": "lY7T8Mz-18s"
+    },
+    {
+      "id": 1145147642,
+      "title": "Lagu Rindu",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4bf53b865ff9a4bbf60b7c68d4cf8c6c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4FwqE_Ybl8I"
+    },
+    {
+      "id": 3509628651,
+      "title": "Arti Sahabat",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MoSrT0JbcZQ"
+    },
+    {
+      "id": 1146196932,
+      "title": "Ku Tak Bisa",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/918da949e0fd4cb9eb99fffe547bd148/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4VQk6yAc_Uc"
+    },
+    {
+      "id": 3510120441,
+      "title": "Siang Seberang Istana",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "WrmAECnw0t8"
+    },
+    {
+      "id": 13249365,
+      "title": "Semua Tak Sama (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6561e0169687ac57867ce5c1edb8d785/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MjnfbHsIz0c"
+    },
+    {
+      "id": 3509628631,
+      "title": "Biarlah",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "x_AsDhZiTTQ"
+    },
+    {
+      "id": 1145593082,
+      "title": "Cari Berkah (CABE)",
+      "artist": "Wali",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a995f2506a6923f9acac2eb31bf7b4d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "RgqjMHiYMfg"
+    },
+    {
+      "id": 3991206581,
+      "title": "Seperti Yang Dulu",
+      "artist": "Ungu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0046e02707bc297d8a0344d467351d1a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "ZRhVlI5x9W4"
+    },
+    {
+      "id": 1146209322,
+      "title": "Mawar Merah",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bf7bb6b4057fb0abe54d8213cc81af46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Fsj_oYe4NS4"
+    },
+    {
+      "id": 83780412,
+      "title": "Air & Api",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
+      "youtubeId": "fbfP-lPbCrE"
+    },
+    {
+      "id": 3509628591,
+      "title": "Jangan Lupakan",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "SOHwryNMIRI"
+    },
+    {
+      "id": 3510120451,
+      "title": "Serdadu",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "8NCyvC9OTOA"
+    },
+    {
+      "id": 1145266702,
+      "title": "Tak Lekang Oleh Waktu",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 15767699,
+      "title": "Sebuah Kisah Klasik",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0b960d60855b2a005c09c5d42b107704/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9SFdgNDlklk"
+    },
+    {
+      "id": 928862372,
+      "title": "PadaMu Kubersujud (Religi Islam)",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bd10690dff53ae2acfc55b4e1cef365b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3045767011,
+      "title": "Orang Gila (2024 Remastered)",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14987bed5d84f1a89eb0fa81c64bcd79/250x250-000000-80-0-0.jpg",
+      "youtubeId": "CCMe00bBq5k"
+    },
+    {
+      "id": 3546114631,
+      "title": "Putus Atau Terus",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a907ac7562e9a9c2a58373c9d67ea8bb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3509628571,
+      "title": "Sumpah Dan Cinta Matiku",
+      "artist": "Nidji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "fqS4yJEX1IA"
+    },
+    {
+      "id": 13341390,
+      "title": "11 Januari",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/516295876200a1ccb37e2350680c2f0b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 135455256,
+      "title": "Buka Hatimu",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
+      "youtubeId": "COfTslrnoZo"
+    },
+    {
+      "id": 3510120491,
+      "title": "Tolong Dengar Tuhan",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "BIbDl2J5VMc"
+    },
+    {
+      "id": 13248125,
+      "title": "Damainya... Cinta",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1341783032,
+      "title": "Alangkah Indahnya Indonesia",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd4c1536d65a747202087e15b895ccd8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1599345432,
+      "title": "My Facebook",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9372ff400c7b522175584239e3aff13f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1146196912,
+      "title": "Jakarta Meledak Lagi",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/918da949e0fd4cb9eb99fffe547bd148/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 758431262,
+      "title": "Benci Untuk Mencinta",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/19a21cee5fd0199697f7e5ecbd904c01/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13248129,
+      "title": "Yang T'lah Berlalu (Nirwana)",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 15767670,
+      "title": "Seberapa Pantas",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0b960d60855b2a005c09c5d42b107704/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3220478331,
+      "title": "Yang Kutahu Cinta Itu Indah",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0f9a990bdefcadd4e1bc197f90064e04/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3062096861,
+      "title": "Nusantara",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/084e7ee71f9187a80dae309bdbd7d594/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 135455254,
+      "title": "Pemilik Hati",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
+      "youtubeId": "s2iouw38zB4"
+    },
+    {
+      "id": 1146204142,
+      "title": "Kamu Harus Pulang",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d126cf556a51b7351378870d3332/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zuAYVWADxlg"
+    },
+    {
+      "id": 2377021875,
+      "title": "Things Will Get Better",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 751125202,
+      "title": "Kau Malaikatku",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0f042ce540e5870f3f2f33a26d685455/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13320595,
+      "title": "Kepastian Yang Ku Tunggu (Album Version)",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/84a2589c671c5a3dbd927ca83cfd6b64/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1146204122,
+      "title": "Generasi Biru",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d126cf556a51b7351378870d3332/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13267040,
+      "title": "Sobat (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13269511,
+      "title": "Cinta Terakhir (Album Version)",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d8f90ff99049ccdaa5284924edd845b8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1595713711,
+      "title": "Putih Putih Melati",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1248566722,
+      "title": "Bujangan",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3f9d15dcf64307e5aa98c813ac2f7cb9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2377021895,
+      "title": "Let's Fall in Love Again",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg",
+      "youtubeId": "eDzP8x48dkY"
+    },
+    {
+      "id": 1226010092,
+      "title": "Nyanyian Cinta Dari Seberang",
+      "artist": "Chrisye",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2126989c71699307f760d2983b0c272d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "PZF3SPV7JM8"
+    },
+    {
+      "id": 3510120421,
+      "title": "Sugali",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3222902181,
+      "title": "Cinta Mulia",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/95a0a56d02decb15e138e19003cdf131/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1038990932,
+      "title": "Fuckin' Boyfriend",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7607b348004cf324e3db53d61f6d331e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13248124,
+      "title": "Jalan Di Bulan",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 69580417,
+      "title": "Kedamaian Sejati",
+      "artist": "Letto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5c22b667cdab70481cbe42421da944ba/250x250-000000-80-0-0.jpg",
+      "youtubeId": "h2N-qQ3fstg"
+    },
+    {
+      "id": 1181003182,
+      "title": "Fatwa Hati",
+      "artist": "Letto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0ae2e7b3f680907cabcfae52ca9c8b8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 135455252,
+      "title": "Cinta Itu Buta",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 131417434,
+      "title": "Sebuah Rasa",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/34aae7e60f995d278a5d7310b2ee14b7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 74160735,
+      "title": "Rasa Yang Tertinggal",
+      "artist": "ST 12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c6ad5cd6b86ea5cfbddc93f423e6c54/250x250-000000-80-0-0.jpg",
+      "youtubeId": "obJf1BwVu4U"
+    },
+    {
+      "id": 83780392,
+      "title": "Mobil Balap",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/80c40c7c074bbb7eefac3e603f530a8f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 14299256,
+      "title": "Sesuatu Yang Indah",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/365e37305277beaccd2f4b652bc65cd0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "-qpS3vC41_A"
+    },
+    {
+      "id": 1226109762,
+      "title": "Buat Apa Susah",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/219dd8504542f3bae734254d0d668ef5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2298311485,
+      "title": "Andaikan Kau Datang",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/522e8c6103169c82d1120831f9ed5e97/250x250-000000-80-0-0.jpg",
+      "youtubeId": "i5efwkhpRuk"
+    },
+    {
+      "id": 76056789,
+      "title": "Masihkah Ada",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/df262df4511ba8eb66382f8c6922b637/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2377021855,
+      "title": "SHUT 'EM UP",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2202433887,
+      "title": "Seindah Rembulan",
+      "artist": "Chrisye",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/462c7e26b252ab95ccb198273bc507b5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 135455546,
+      "title": "Apa Kabar Sayang",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13249368,
+      "title": "Perjalanan Ini (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6561e0169687ac57867ce5c1edb8d785/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3045767031,
+      "title": "Satu Satu (2024 Remastered)",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14987bed5d84f1a89eb0fa81c64bcd79/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 135239428,
+      "title": "Lilin Lilin Kecil (Remastered)",
+      "artist": "Chrisye",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e456c1bee2585aa9742155d64b8e5cdd/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1273025152,
+      "title": "Kisah Ku Inginkan",
+      "artist": "Dato' Sri Siti Nurhaliza",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa0644c9f1554ecde22ef6245f7d109d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1248566702,
+      "title": "Kolam Susu",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3f9d15dcf64307e5aa98c813ac2f7cb9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3045767081,
+      "title": "Menunggu Ditimbang Malah Muntah (2024 Remastered)",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/14987bed5d84f1a89eb0fa81c64bcd79/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1598998472,
+      "title": "Haruskah",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d677ad40b6d30267568ebb3dc66d73cd/250x250-000000-80-0-0.jpg",
+      "youtubeId": "obJf1BwVu4U"
+    },
+    {
+      "id": 67239357,
+      "title": "Setengah Mati Merindu",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
+      "youtubeId": "BKjv_k13H5I"
+    },
+    {
+      "id": 2202433877,
+      "title": "Sabda Alam",
+      "artist": "Chrisye",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/462c7e26b252ab95ccb198273bc507b5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 581378662,
+      "title": "Kangen Deso",
+      "artist": "Letto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02eb17485169aae44cd8cc1d81c9bb37/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 120070452,
+      "title": "Kasih Tak Memilih",
+      "artist": "Letto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d448d03a2bab050a9c6f0f65b9d053f6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "2nadL05QYVo"
+    },
+    {
+      "id": 1345690162,
+      "title": "Kepingan Hati",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f500b49b5b86bf5e275db46af557ddf1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1595713771,
+      "title": "ST Setia",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1598998482,
+      "title": "Salam Terakhir",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d677ad40b6d30267568ebb3dc66d73cd/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xW7H4LqF__I"
+    },
+    {
+      "id": 759511462,
+      "title": "Karena Cinta Yang Menemani (Original Soundtrack from the Movie \"Susi Susanti - Love All\")",
+      "artist": "Rossa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f919f424ad107e945595cd72b054abba/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 82499870,
+      "title": "Hati Garuda",
+      "artist": "Letto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a94d83b2a1614331db2ee7c26a82fff8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1595713721,
+      "title": "Bidadari Bumi",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1595713761,
+      "title": "Penantian Tak Berujung",
+      "artist": "ST12",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg"
+    }
+  ]
+}

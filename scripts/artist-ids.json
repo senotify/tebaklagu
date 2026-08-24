@@ -1,0 +1,812 @@
+{
+  ".Feast": {
+    "id": 12529764,
+    "name": ".Feast",
+    "fans": 7045
+  },
+  "(G)I-DLE": {
+    "id": 15065941,
+    "name": "i-dle",
+    "fans": 663565
+  },
+  "a-ha": {
+    "id": 3106,
+    "name": "a-ha",
+    "fans": 1167891
+  },
+  "ABBA": {
+    "id": 180,
+    "name": "ABBA",
+    "fans": 3173634
+  },
+  "AC/DC": {
+    "id": 115,
+    "name": "AC/DC",
+    "fans": 9916207
+  },
+  "Ada Band": {
+    "id": 453387,
+    "name": "Ada Band",
+    "fans": 16782
+  },
+  "Adele": {
+    "id": 75798,
+    "name": "Adele",
+    "fans": 15447026
+  },
+  "Aerosmith": {
+    "id": 1005,
+    "name": "Aerosmith",
+    "fans": 5322590
+  },
+  "aespa": {
+    "id": 113547672,
+    "name": "aespa",
+    "fans": 456715
+  },
+  "Afgan": {
+    "id": 454895,
+    "name": "Afgan",
+    "fans": 15499
+  },
+  "Agnez Mo": {
+    "id": 5234180,
+    "name": "Agnez Mo",
+    "fans": 30575
+  },
+  "Alicia Keys": {
+    "id": 228,
+    "name": "Alicia Keys",
+    "fans": 5800583
+  },
+  "Arctic Monkeys": {
+    "id": 1182,
+    "name": "Arctic Monkeys",
+    "fans": 4946408
+  },
+  "Ardhito Pramono": {
+    "id": 12198466,
+    "name": "Ardhito Pramono",
+    "fans": 8406
+  },
+  "Ariana Grande": {
+    "id": 1562681,
+    "name": "Ariana Grande",
+    "fans": 13401415
+  },
+  "Armada": {
+    "id": 1592834,
+    "name": "Armada",
+    "fans": 44480
+  },
+  "Avicii": {
+    "id": 293585,
+    "name": "Avicii",
+    "fans": 8353296
+  },
+  "Avril Lavigne": {
+    "id": 35,
+    "name": "Avril Lavigne",
+    "fans": 5707227
+  },
+  "Ayu Ting Ting": {
+    "id": 4739543,
+    "name": "Ayu Ting Ting",
+    "fans": 2552
+  },
+  "Backstreet Boys": {
+    "id": 330,
+    "name": "Backstreet Boys",
+    "fans": 1142639
+  },
+  "Barasuara": {
+    "id": 8873664,
+    "name": "Barasuara",
+    "fans": 8628
+  },
+  "Bee Gees": {
+    "id": 1450,
+    "name": "Bee Gees",
+    "fans": 2598751
+  },
+  "Bernadya": {
+    "id": 183486337,
+    "name": "Bernadya",
+    "fans": 1709
+  },
+  "Beyoncé": {
+    "id": 145,
+    "name": "Beyoncé",
+    "fans": 12812790
+  },
+  "BIGBANG": {
+    "id": 65209,
+    "name": "BIGBANG",
+    "fans": 724562
+  },
+  "Billie Eilish": {
+    "id": 9635624,
+    "name": "Billie Eilish",
+    "fans": 9225297
+  },
+  "BLACKPINK": {
+    "id": 10803980,
+    "name": "BLACKPINK",
+    "fans": 2638269
+  },
+  "blink-182": {
+    "id": 409,
+    "name": "blink-182",
+    "fans": 2327822
+  },
+  "Bob Marley": {
+    "id": 719,
+    "name": "Bob Marley & The Wailers",
+    "fans": 12285585
+  },
+  "Bon Jovi": {
+    "id": 637,
+    "name": "Bon Jovi",
+    "fans": 5263099
+  },
+  "Britney Spears": {
+    "id": 483,
+    "name": "Britney Spears",
+    "fans": 5440346
+  },
+  "Bruno Mars": {
+    "id": 429675,
+    "name": "Bruno Mars",
+    "fans": 12740358
+  },
+  "Bryan Adams": {
+    "id": 170,
+    "name": "Bryan Adams",
+    "fans": 1746596
+  },
+  "BTS": {
+    "id": 6982223,
+    "name": "BTS",
+    "fans": 3849219
+  },
+  "Calvin Harris": {
+    "id": 12178,
+    "name": "Calvin Harris",
+    "fans": 12309140
+  },
+  "Celine Dion": {
+    "id": 198,
+    "name": "Céline Dion",
+    "fans": 3613765
+  },
+  "Charlie Puth": {
+    "id": 1362735,
+    "name": "Charlie Puth",
+    "fans": 2300757
+  },
+  "Chrisye": {
+    "id": 2126591,
+    "name": "Chrisye",
+    "fans": 12769
+  },
+  "Coldplay": {
+    "id": 892,
+    "name": "Coldplay",
+    "fans": 18354033
+  },
+  "Daft Punk": {
+    "id": 27,
+    "name": "Daft Punk",
+    "fans": 5191677
+  },
+  "David Guetta": {
+    "id": 542,
+    "name": "David Guetta",
+    "fans": 20075024
+  },
+  "Denny Caknan": {
+    "id": 68764892,
+    "name": "Denny Caknan",
+    "fans": 4887
+  },
+  "Dewa 19": {
+    "id": 12799,
+    "name": "Dewa 19",
+    "fans": 51870
+  },
+  "Didi Kempot": {
+    "id": 243341,
+    "name": "Didi Kempot",
+    "fans": 7646
+  },
+  "Dua Lipa": {
+    "id": 8706544,
+    "name": "Dua Lipa",
+    "fans": 8761071
+  },
+  "Duo Anggrek": {
+    "id": 10076940,
+    "name": "Duo Anggrek",
+    "fans": 70
+  },
+  "Eagles": {
+    "id": 210,
+    "name": "Eagles",
+    "fans": 1384080
+  },
+  "Ed Sheeran": {
+    "id": 384236,
+    "name": "Ed Sheeran",
+    "fans": 20884508
+  },
+  "Elton John": {
+    "id": 413,
+    "name": "Elton John",
+    "fans": 2982902
+  },
+  "Elvis Presley": {
+    "id": 1125,
+    "name": "Elvis Presley",
+    "fans": 3262068
+  },
+  "Elvy Sukaesih": {
+    "id": 4736240,
+    "name": "Elvy Sukaesih",
+    "fans": 530
+  },
+  "Eminem": {
+    "id": 13,
+    "name": "Eminem",
+    "fans": 19074399
+  },
+  "EXO": {
+    "id": 88684,
+    "name": "EXO",
+    "fans": 439552
+  },
+  "Feby Putri": {
+    "id": 71704792,
+    "name": "Feby Putri",
+    "fans": 4994
+  },
+  "Fleetwood Mac": {
+    "id": 169,
+    "name": "Fleetwood Mac",
+    "fans": 1657640
+  },
+  "Foo Fighters": {
+    "id": 566,
+    "name": "Foo Fighters",
+    "fans": 4580899
+  },
+  "Fourtwnty": {
+    "id": 8124343,
+    "name": "Fourtwnty",
+    "fans": 16849
+  },
+  "Frank Sinatra": {
+    "id": 617,
+    "name": "Frank Sinatra",
+    "fans": 2480269
+  },
+  "George Michael": {
+    "id": 3098,
+    "name": "George Michael",
+    "fans": 1492366
+  },
+  "GIGI": {
+    "id": 173711,
+    "name": "Gigi",
+    "fans": 15885
+  },
+  "Girls' Generation": {
+    "id": 1310497,
+    "name": "Girls' Generation",
+    "fans": 320344
+  },
+  "Green Day": {
+    "id": 52,
+    "name": "Green Day",
+    "fans": 5225050
+  },
+  "Guns N' Roses": {
+    "id": 663,
+    "name": "Guns N' Roses",
+    "fans": 8578622
+  },
+  "Happy Asmara": {
+    "id": 10794150,
+    "name": "Happy Asmara",
+    "fans": 8350
+  },
+  "Hindia": {
+    "id": 53171212,
+    "name": "Hindia",
+    "fans": 15412
+  },
+  "Imagine Dragons": {
+    "id": 416239,
+    "name": "Imagine Dragons",
+    "fans": 9508376
+  },
+  "Isyana Sarasvati": {
+    "id": 6887463,
+    "name": "Isyana Sarasvati",
+    "fans": 60775
+  },
+  "ITZY": {
+    "id": 3649631,
+    "name": "ITZY",
+    "fans": 902123
+  },
+  "IVE": {
+    "id": 153042292,
+    "name": "IVE",
+    "fans": 266709
+  },
+  "Iwan Fals": {
+    "id": 285983441,
+    "name": "Iwan Fals",
+    "fans": 183
+  },
+  "John Lennon": {
+    "id": 226,
+    "name": "John Lennon",
+    "fans": 2601412
+  },
+  "Journey": {
+    "id": 3381,
+    "name": "Journey",
+    "fans": 659727
+  },
+  "Judika": {
+    "id": 542877,
+    "name": "Judika",
+    "fans": 32645
+  },
+  "Juicy Luicy": {
+    "id": 7062765,
+    "name": "Juicy Luicy",
+    "fans": 2023
+  },
+  "Justin Timberlake": {
+    "id": 1147,
+    "name": "Justin Timberlake",
+    "fans": 6703660
+  },
+  "Kangen Band": {
+    "id": 453410,
+    "name": "Kangen Band",
+    "fans": 17240
+  },
+  "Katy Perry": {
+    "id": 144227,
+    "name": "Katy Perry",
+    "fans": 9763221
+  },
+  "Kelly Clarkson": {
+    "id": 68,
+    "name": "Kelly Clarkson",
+    "fans": 3146347
+  },
+  "Kerispatih": {
+    "id": 453408,
+    "name": "Kerispatih",
+    "fans": 13878
+  },
+  "Koes Plus": {
+    "id": 1207813,
+    "name": "Koes Plus",
+    "fans": 5710
+  },
+  "Kunto Aji": {
+    "id": 6889175,
+    "name": "Kunto Aji",
+    "fans": 8239
+  },
+  "Lady Gaga": {
+    "id": 75491,
+    "name": "Lady Gaga",
+    "fans": 9237179
+  },
+  "LE SSERAFIM": {
+    "id": 168158797,
+    "name": "LE SSERAFIM",
+    "fans": 318707
+  },
+  "Letto": {
+    "id": 462432,
+    "name": "Letto",
+    "fans": 7101
+  },
+  "Linkin Park": {
+    "id": 92,
+    "name": "Linkin Park",
+    "fans": 12201259
+  },
+  "Lyodra": {
+    "id": 14208847,
+    "name": "Lyodra",
+    "fans": 3476
+  },
+  "Madonna": {
+    "id": 290,
+    "name": "Madonna",
+    "fans": 4893728
+  },
+  "Mahalini": {
+    "id": 7569204,
+    "name": "Mahalini",
+    "fans": 2790
+  },
+  "Mariah Carey": {
+    "id": 65,
+    "name": "Mariah Carey",
+    "fans": 3441631
+  },
+  "Maroon 5": {
+    "id": 1188,
+    "name": "Maroon 5",
+    "fans": 11396034
+  },
+  "Metallica": {
+    "id": 119,
+    "name": "Metallica",
+    "fans": 8137277
+  },
+  "Michael Bublé": {
+    "id": 1478,
+    "name": "Michael Bublé",
+    "fans": 1588963
+  },
+  "Michael Jackson": {
+    "id": 259,
+    "name": "Michael Jackson",
+    "fans": 13045572
+  },
+  "Muse": {
+    "id": 705,
+    "name": "Muse",
+    "fans": 5033005
+  },
+  "My Chemical Romance": {
+    "id": 599,
+    "name": "My Chemical Romance",
+    "fans": 1833325
+  },
+  "Nadin Amizah": {
+    "id": 51162782,
+    "name": "Nadin Amizah",
+    "fans": 8523
+  },
+  "Naif": {
+    "id": 71064,
+    "name": "Naif",
+    "fans": 10914
+  },
+  "Nella Kharisma": {
+    "id": 8647884,
+    "name": "Nella Kharisma",
+    "fans": 7962
+  },
+  "Nelly": {
+    "id": 105,
+    "name": "Nelly",
+    "fans": 1603398
+  },
+  "NewJeans": {
+    "id": 178008437,
+    "name": "NewJeans",
+    "fans": 346281
+  },
+  "Nickelback": {
+    "id": 338,
+    "name": "Nickelback",
+    "fans": 3176121
+  },
+  "Nidji": {
+    "id": 334545051,
+    "name": "Nidji",
+    "fans": 110
+  },
+  "NIKI": {
+    "id": 506832,
+    "name": "NIKI",
+    "fans": 39834
+  },
+  "Nirvana": {
+    "id": 415,
+    "name": "Nirvana",
+    "fans": 10052148
+  },
+  "Oasis": {
+    "id": 927,
+    "name": "Oasis",
+    "fans": 4685553
+  },
+  "OneRepublic": {
+    "id": 74398,
+    "name": "OneRepublic",
+    "fans": 4338277
+  },
+  "Padi": {
+    "id": 173715,
+    "name": "Padi",
+    "fans": 36152
+  },
+  "Pamungkas": {
+    "id": 9927150,
+    "name": "Pamungkas",
+    "fans": 19454
+  },
+  "Paramore": {
+    "id": 10977,
+    "name": "Paramore",
+    "fans": 3142839
+  },
+  "Payung Teduh": {
+    "id": 7002959,
+    "name": "Payung Teduh",
+    "fans": 38584
+  },
+  "Phil Collins": {
+    "id": 186,
+    "name": "Phil Collins",
+    "fans": 2830964
+  },
+  "Post Malone": {
+    "id": 7543848,
+    "name": "Post Malone",
+    "fans": 4191998
+  },
+  "Queen": {
+    "id": 412,
+    "name": "Queen",
+    "fans": 12774989
+  },
+  "Radiohead": {
+    "id": 399,
+    "name": "Radiohead",
+    "fans": 4077035
+  },
+  "Raisa": {
+    "id": 1419075,
+    "name": "Raisa",
+    "fans": 56958
+  },
+  "Red Hot Chili Peppers": {
+    "id": 182,
+    "name": "Red Hot Chili Peppers",
+    "fans": 7675853
+  },
+  "Red Velvet": {
+    "id": 338654,
+    "name": "Red Velvet",
+    "fans": 796703
+  },
+  "Rhoma Irama": {
+    "id": 4728609,
+    "name": "Rhoma Irama",
+    "fans": 4307
+  },
+  "Rich Brian": {
+    "id": 13874291,
+    "name": "Rich Brian",
+    "fans": 62773
+  },
+  "Rihanna": {
+    "id": 564,
+    "name": "Rihanna",
+    "fans": 17993905
+  },
+  "Rita Sugiarto": {
+    "id": 4863044,
+    "name": "Rita Sugiarto",
+    "fans": 843
+  },
+  "Rizky Febian": {
+    "id": 6909371,
+    "name": "Rizky Febian",
+    "fans": 15192
+  },
+  "Robbie Williams": {
+    "id": 212,
+    "name": "Robbie Williams",
+    "fans": 1912616
+  },
+  "Rossa": {
+    "id": 1406106,
+    "name": "Rossa",
+    "fans": 27815
+  },
+  "Sal Priadi": {
+    "id": 13808249,
+    "name": "Sal Priadi",
+    "fans": 2794
+  },
+  "Sam Smith": {
+    "id": 1097709,
+    "name": "Sam Smith",
+    "fans": 5574832
+  },
+  "SEVENTEEN": {
+    "id": 240582,
+    "name": "SEVENTEEN",
+    "fans": 640914
+  },
+  "Shakira": {
+    "id": 160,
+    "name": "Shakira",
+    "fans": 11662981
+  },
+  "Sheila On 7": {
+    "id": 173714,
+    "name": "Sheila On 7",
+    "fans": 108258
+  },
+  "Sia": {
+    "id": 3469,
+    "name": "Sia",
+    "fans": 8700822
+  },
+  "Simple Plan": {
+    "id": 87,
+    "name": "Simple Plan",
+    "fans": 1699589
+  },
+  "Slank": {
+    "id": 455339,
+    "name": "Slank",
+    "fans": 85273
+  },
+  "Spice Girls": {
+    "id": 785,
+    "name": "Spice Girls",
+    "fans": 407314
+  },
+  "ST12": {
+    "id": 1406105,
+    "name": "ST12",
+    "fans": 13420
+  },
+  "Stevie Wonder": {
+    "id": 166,
+    "name": "Stevie Wonder",
+    "fans": 2432642
+  },
+  "Stray Kids": {
+    "id": 13923487,
+    "name": "Stray Kids",
+    "fans": 1257786
+  },
+  "Survivor": {
+    "id": 39,
+    "name": "Survivor",
+    "fans": 260539
+  },
+  "Taylor Swift": {
+    "id": 12246,
+    "name": "Taylor Swift",
+    "fans": 12691117
+  },
+  "The Beatles": {
+    "id": 1,
+    "name": "The Beatles",
+    "fans": 8104936
+  },
+  "The Black Eyed Peas": {
+    "id": 1020109,
+    "name": "Black Eyed Peas",
+    "fans": 6095021
+  },
+  "The Chainsmokers": {
+    "id": 4104927,
+    "name": "The Chainsmokers",
+    "fans": 5840958
+  },
+  "The Killers": {
+    "id": 897,
+    "name": "The Killers",
+    "fans": 2233285
+  },
+  "The Police": {
+    "id": 1981,
+    "name": "The Police",
+    "fans": 3311576
+  },
+  "The Weeknd": {
+    "id": 4050205,
+    "name": "The Weeknd",
+    "fans": 14629584
+  },
+  "Tiara Andini": {
+    "id": 86777462,
+    "name": "Tiara Andini",
+    "fans": 4400
+  },
+  "TOMORROW X TOGETHER": {
+    "id": 60552072,
+    "name": "TOMORROW X TOGETHER",
+    "fans": 929094
+  },
+  "Toto": {
+    "id": 215,
+    "name": "Toto",
+    "fans": 976278
+  },
+  "Tulus": {
+    "id": 1619043,
+    "name": "Tulus",
+    "fans": 49501
+  },
+  "Twenty One Pilots": {
+    "id": 647650,
+    "name": "Twenty One Pilots",
+    "fans": 4994809
+  },
+  "TWICE": {
+    "id": 161553,
+    "name": "TWICE",
+    "fans": 1349565
+  },
+  "U2": {
+    "id": 163,
+    "name": "U2",
+    "fans": 7313944
+  },
+  "Ungu": {
+    "id": 261368081,
+    "name": "Ungu",
+    "fans": 32
+  },
+  "Usher": {
+    "id": 17,
+    "name": "Usher",
+    "fans": 7210696
+  },
+  "Via Vallen": {
+    "id": 4726890,
+    "name": "Via Vallen",
+    "fans": 6432
+  },
+  "Wali": {
+    "id": 454896,
+    "name": "Wali",
+    "fans": 6829
+  },
+  "Weird Genius": {
+    "id": 12073944,
+    "name": "Weird Genius",
+    "fans": 5308
+  },
+  "Westlife": {
+    "id": 274,
+    "name": "Westlife",
+    "fans": 496267
+  },
+  "Wham!": {
+    "id": 216,
+    "name": "Wham!",
+    "fans": 370350
+  },
+  "Whitney Houston": {
+    "id": 174,
+    "name": "Whitney Houston",
+    "fans": 3914574
+  },
+  "Yura Yunita": {
+    "id": 5716969,
+    "name": "Yura Yunita",
+    "fans": 5549
+  },
+  "Zaskia Gotik": {
+    "id": 10017056,
+    "name": "Zaskia Gotik",
+    "fans": 459
+  },
+  "Ziva Magnolya": {
+    "id": 13629713,
+    "name": "Ziva Magnolya",
+    "fans": 1701
+  }
+}
