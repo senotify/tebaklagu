@@ -2,137 +2,201 @@
   "id": "daily-pool",
   "title": "Tantangan Harian",
   "emoji": "📅",
-  "count": 224,
-  "introCount": 224,
+  "count": 277,
+  "introCount": 277,
   "bothModes": true,
-  "scheduledDays": 404,
+  "scheduledDays": 406,
   "tracks": [
     {
       "id": 540175,
       "title": "...Baby One More Time",
       "artist": "Britney Spears",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f685d32254a59b6162be0d1082ff8805/250x250-000000-80-0-0.jpg",
-      "youtubeId": "C-u5WLJ9Yk4",
-      "ytDuration": 237
+      "youtubeId": "ix5IDxzE42A",
+      "ytDuration": 210
     },
     {
       "id": 555639,
       "title": "Thriller",
       "artist": "Michael Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/92a024220a9532489c75c9d994835697/250x250-000000-80-0-0.jpg",
-      "youtubeId": "sOnqjkJTMaA",
-      "ytDuration": 822
+      "youtubeId": "sO4vI8P88NM",
+      "ytDuration": 358
     },
     {
       "id": 565823,
       "title": "Eye of the Tiger",
       "artist": "Survivor",
       "cover": "https://cdn-images.dzcdn.net/images/cover/34a371bfe40de33e0a81c12d019c2f7c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "btPJPFnesV4",
-      "ytDuration": 245
+      "youtubeId": "-nhRZypEGmk",
+      "ytDuration": 226
     },
     {
       "id": 576431,
       "title": "Eye of the Tiger",
       "artist": "Survivor",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e66b5d3a40f69690c1633afb73cc590c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "btPJPFnesV4",
+      "youtubeId": "2D4VoVD93SA",
       "ytDuration": 245
+    },
+    {
+      "id": 582254,
+      "title": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/34265ac018fe0d973eac131fe04038a2/250x250-000000-80-0-0.jpg",
+      "youtubeId": "VU8VzSCqyyQ",
+      "ytDuration": 211
     },
     {
       "id": 624823,
       "title": "I Don't Want To Miss A Thing",
       "artist": "Aerosmith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/82bb160fe7b46cca64dc989a4f5843d0/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JkK8g6FMEXE",
-      "ytDuration": 293
+      "youtubeId": "6_uYSLZizy0",
+      "ytDuration": 300
     },
     {
       "id": 625643,
       "title": "Don't Stop Believin'",
       "artist": "Journey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b4ec4a1a920d792dd7d8d15dc29f0a39/250x250-000000-80-0-0.jpg",
-      "youtubeId": "1k8craCGpgs",
-      "ytDuration": 251
+      "youtubeId": "kG2p2CVkiYk",
+      "ytDuration": 249
     },
     {
       "id": 629466,
       "title": "If I Ain't Got You",
       "artist": "Alicia Keys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cef30c1c2a5a63c773d26d56049c81e5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Ju8Hr50Ckwk",
-      "ytDuration": 210
+      "youtubeId": "_jXfgPSf4Yo",
+      "ytDuration": 228
     },
     {
       "id": 664107,
       "title": "Take on Me",
       "artist": "a-ha",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/250x250-000000-80-0-0.jpg",
-      "youtubeId": "djV11Xbc914",
-      "ytDuration": 244
+      "youtubeId": "1G1eTMV3v7k",
+      "ytDuration": 225
     },
     {
       "id": 664507,
       "title": "Like a Prayer",
       "artist": "Madonna",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cb3560d83ededa230d78f7bf047c583a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "79fzeNUqQbQ",
-      "ytDuration": 338
+      "youtubeId": "qFh1wQ_5soM",
+      "ytDuration": 341
+    },
+    {
+      "id": 676171,
+      "title": "Crawling",
+      "artist": "Linkin Park",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "NV4R5cnDB9E",
+      "ytDuration": 209
     },
     {
       "id": 676183,
       "title": "In the End",
       "artist": "Linkin Park",
       "cover": "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "eVTXPUF4Oz4",
-      "ytDuration": 219
+      "youtubeId": "0JE6jrD-Vvk",
+      "ytDuration": 217
+    },
+    {
+      "id": 676847,
+      "title": "What I've Done",
+      "artist": "Linkin Park",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2dd699adcd68089f49f3ab558a2bd296/250x250-000000-80-0-0.jpg",
+      "youtubeId": "UzjltM2qv_0",
+      "ytDuration": 206
     },
     {
       "id": 677232,
       "title": "Numb",
       "artist": "Linkin Park",
       "cover": "https://cdn-images.dzcdn.net/images/cover/44df4f6fb2534768f4924365c103d0f7/250x250-000000-80-0-0.jpg",
-      "youtubeId": "kXYiU_JCYtU",
-      "ytDuration": 188
+      "youtubeId": "2n4NWZqXGaw",
+      "ytDuration": 187
     },
     {
       "id": 880181,
       "title": "Your Song",
       "artist": "Elton John",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dba55570a13a8be5d20e457a75091dd5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "GlPlfCy1urI",
-      "ytDuration": 229
+      "youtubeId": "VgGaJTI4-I8",
+      "ytDuration": 243
+    },
+    {
+      "id": 916424,
+      "title": "Without Me",
+      "artist": "Eminem",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+      "youtubeId": "IcW7s5sryUc",
+      "ytDuration": 289
+    },
+    {
+      "id": 916829,
+      "title": "Apologize",
+      "artist": "OneRepublic",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/565b424faee4bdc6e6db39db8d6fc333/250x250-000000-80-0-0.jpg",
+      "youtubeId": "5MM3qxg2edg",
+      "ytDuration": 206
     },
     {
       "id": 925106,
       "title": "Umbrella",
       "artist": "Rihanna",
       "cover": "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CvBfHwUxHIk",
-      "ytDuration": 255
+      "youtubeId": "KFGHQ5GaKnA",
+      "ytDuration": 275
+    },
+    {
+      "id": 925108,
+      "title": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wegIc-y81KM",
+      "ytDuration": 268
+    },
+    {
+      "id": 959183,
+      "title": "Fallin'",
+      "artist": "Alicia Keys",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d83318951e3899a096ed96c6fd422032/250x250-000000-80-0-0.jpg",
+      "youtubeId": "tHo2FW3uPLo",
+      "ytDuration": 211
+    },
+    {
+      "id": 969494,
+      "title": "Cry Me a River",
+      "artist": "Justin Timberlake",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7cba368fa8466d72d149264577cb19d7/250x250-000000-80-0-0.jpg",
+      "youtubeId": "DfKD9pDfRNc",
+      "ytDuration": 288
     },
     {
       "id": 1036590,
       "title": "Last Christmas (Pudding Mix)",
       "artist": "Wham!",
       "cover": "https://cdn-images.dzcdn.net/images/cover/02a714c827c267c60b3d3d99ab4499a4/250x250-000000-80-0-0.jpg",
-      "youtubeId": "E8gmARGvPlI",
-      "ytDuration": 279
+      "youtubeId": "7-dts2X9BXM",
+      "ytDuration": 407
     },
     {
       "id": 1079668,
       "title": "Africa",
       "artist": "Toto",
       "cover": "https://cdn-images.dzcdn.net/images/cover/153332e88a14255a8c3d5959a5a21882/250x250-000000-80-0-0.jpg",
-      "youtubeId": "FTQbiNvZqaY",
-      "ytDuration": 272
+      "youtubeId": "zvkI4PCaWUQ",
+      "ytDuration": 296
     },
     {
       "id": 1109731,
       "title": "Lose Yourself",
       "artist": "Eminem",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_Yhyp-_hX2s",
+      "youtubeId": "BETUM7WsWjE",
       "ytDuration": 324
     },
     {
@@ -140,47 +204,95 @@
       "title": "Lose Yourself",
       "artist": "Eminem",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_Yhyp-_hX2s",
+      "youtubeId": "BETUM7WsWjE",
       "ytDuration": 324
+    },
+    {
+      "id": 1109737,
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hZ5EdgT65JQ",
+      "ytDuration": 285
+    },
+    {
+      "id": 1109739,
+      "title": "Mockingbird",
+      "artist": "Eminem",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "ZcT4hPSS-6M",
+      "ytDuration": 251
+    },
+    {
+      "id": 1165301,
+      "title": "This Love",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg",
+      "youtubeId": "aqB77l-fvpw",
+      "ytDuration": 206
+    },
+    {
+      "id": 1165303,
+      "title": "She Will Be Loved",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zd4hI1GLvas",
+      "ytDuration": 258
+    },
+    {
+      "id": 2447443,
+      "title": "Dilemma",
+      "artist": "Nelly",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/250x250-000000-80-0-0.jpg",
+      "youtubeId": "iupwbhxL1a0",
+      "ytDuration": 289
     },
     {
       "id": 2466262,
       "title": "No One",
       "artist": "Alicia Keys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9f3ff7c0514902ec94751360154f25b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "rywUS-ohqeE",
-      "ytDuration": 249
+      "youtubeId": "x2NoEGq3754",
+      "ytDuration": 254
     },
     {
       "id": 2525864,
       "title": "Every Breath You Take",
       "artist": "The Police",
       "cover": "https://cdn-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/250x250-000000-80-0-0.jpg",
-      "youtubeId": "OMOGaugKpzs",
-      "ytDuration": 229
+      "youtubeId": "SqGkSoWADks",
+      "ytDuration": 252
     },
     {
       "id": 2796446,
       "title": "Single Ladies (Put a Ring on It) (Album Version)",
       "artist": "Beyoncé",
       "cover": "https://cdn-images.dzcdn.net/images/cover/16ebb61d676b820efc64607798e97f1c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4m1EFMoRFvY",
-      "ytDuration": 201
+      "youtubeId": "g6aVz5kxUBI",
+      "ytDuration": 193
     },
     {
       "id": 3098840,
       "title": "The Scientist",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg",
-      "youtubeId": "RB-RcX5DS5A",
-      "ytDuration": 266
+      "youtubeId": "PfFXr-nlzVM",
+      "ytDuration": 310
+    },
+    {
+      "id": 3098841,
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg",
+      "youtubeId": "g9u9bE4dNOU",
+      "ytDuration": 307
     },
     {
       "id": 3106505,
       "title": "Fix You",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8a1a3e7c5e46b5f763328d95431ac19a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "k4V3Mo61fJM",
+      "youtubeId": "br87IW_c3Ac",
       "ytDuration": 294
     },
     {
@@ -188,23 +300,31 @@
       "title": "Yellow",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/970dce98eeea6729244c0ae71707a83d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "yKNxeF4KMsY",
-      "ytDuration": 273
+      "youtubeId": "ViPGYiTSs0M",
+      "ytDuration": 267
+    },
+    {
+      "id": 3129407,
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "HyHNuVaZJ-k",
+      "ytDuration": 255
     },
     {
       "id": 3133738,
       "title": "Wannabe",
       "artist": "Spice Girls",
       "cover": "https://cdn-images.dzcdn.net/images/cover/18c4f2d9608910a2b8eb1835052e895b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "gJLIiF15wjQ",
-      "ytDuration": 236
+      "youtubeId": "wQEV951AWrw",
+      "ytDuration": 172
     },
     {
       "id": 3157972,
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/eede3cd0dc3a5a87c7a5b1085b022e2d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dvgZkm1xWPE",
+      "youtubeId": "U0P-EGP-q-w",
       "ytDuration": 243
     },
     {
@@ -212,88 +332,120 @@
       "title": "Haven't Met You Yet",
       "artist": "Michael Bublé",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg",
-      "youtubeId": "1AJmKkU5POA",
-      "ytDuration": 253
+      "youtubeId": "1D_xQnNWG5c",
+      "ytDuration": 245
     },
     {
       "id": 4311360,
       "title": "Halo",
       "artist": "Beyoncé",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
-      "youtubeId": "bnVUHWCynig",
-      "ytDuration": 225
+      "youtubeId": "98HY6IWu4wg",
+      "ytDuration": 262
+    },
+    {
+      "id": 4311360,
+      "title": "Halo",
+      "artist": "Beyoncé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
+      "youtubeId": "98HY6IWu4wg",
+      "ytDuration": 262
     },
     {
       "id": 4603400,
       "title": "Smooth Criminal (Remastered Radio Edit)",
       "artist": "Michael Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "h_D3VFfhvs4",
-      "ytDuration": 566
+      "youtubeId": "mWGNEHGhkn4",
+      "ytDuration": 258
     },
     {
       "id": 4603408,
       "title": "Billie Jean",
       "artist": "Michael Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Zi_XLOBDo_Y",
-      "ytDuration": 296
+      "youtubeId": "FcimpLy_e8M",
+      "ytDuration": 293
+    },
+    {
+      "id": 4603408,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "FcimpLy_e8M",
+      "ytDuration": 293
+    },
+    {
+      "id": 4709944,
+      "title": "Telephone",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EhXQS-7Jykk",
+      "ytDuration": 220
+    },
+    {
+      "id": 4709950,
+      "title": "Paparazzi",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "yQLA4sb5EMg",
+      "ytDuration": 209
     },
     {
       "id": 4763165,
       "title": "Beat It",
       "artist": "Michael Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "oRdxUFDoQe0",
-      "ytDuration": 299
-    },
-    {
-      "id": 4763165,
-      "title": "Beat It",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "oRdxUFDoQe0",
-      "ytDuration": 299
+      "youtubeId": "369Pr_EI9XY",
+      "ytDuration": 259
     },
     {
       "id": 4945407,
       "title": "I Wanna Dance with Somebody (Who Loves Me)",
       "artist": "Whitney Houston",
       "cover": "https://cdn-images.dzcdn.net/images/cover/982ca08031f33ab45fb4208e422f7786/250x250-000000-80-0-0.jpg",
-      "youtubeId": "eH3giaIzONA",
-      "ytDuration": 315
+      "youtubeId": "hxmDhnGpwis",
+      "ytDuration": 293
     },
     {
-      "id": 6626573,
-      "title": "Nilailah Aku",
+      "id": 6461440,
+      "title": "Love The Way You Lie",
+      "artist": "Eminem",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg",
+      "youtubeId": "GL9IrfmNJe0",
+      "ytDuration": 264
+    },
+    {
+      "id": 6626572,
+      "title": "Terbang Bersamaku",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4741bae3f1b3e3ea8b38c1a0ba555017/250x250-000000-80-0-0.jpg",
-      "youtubeId": "EL6-ETVTzUU",
-      "ytDuration": 203
+      "youtubeId": "C8x2TiGci5g",
+      "ytDuration": 241
     },
     {
       "id": 7193834,
       "title": "Imagine (Remastered 2010)",
       "artist": "John Lennon",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/250x250-000000-80-0-0.jpg",
-      "youtubeId": "YkgkThdzX-8",
-      "ytDuration": 234
+      "youtubeId": "fAmwLV78LzM",
+      "ytDuration": 185
     },
     {
       "id": 7463424,
       "title": "Doy",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9ec2c96a50eca8ddaca7257b8e68e0d8/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Sq-Uuu8CuuY",
-      "ytDuration": 208
+      "youtubeId": "VY_4kLDOehI",
+      "ytDuration": 205
     },
     {
-      "id": 7463428,
-      "title": "Dinda",
+      "id": 7463425,
+      "title": "Kembali Pulang",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9ec2c96a50eca8ddaca7257b8e68e0d8/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wjjcC3mkBGo",
-      "ytDuration": 289
+      "youtubeId": "95Ak3GZbff4",
+      "ytDuration": 218
     },
     {
       "id": 7463429,
@@ -308,119 +460,127 @@
       "title": "I Will Always Love You",
       "artist": "Whitney Houston",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg",
-      "youtubeId": "3JWTaaS7LdU",
-      "ytDuration": 274
+      "youtubeId": "0NWxVQTuniw",
+      "ytDuration": 271
+    },
+    {
+      "id": 8011850,
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg",
+      "youtubeId": "7SCSgWSZFk8",
+      "ytDuration": 220
     },
     {
       "id": 8086126,
       "title": "Rolling in the Deep",
       "artist": "Adele",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg",
-      "youtubeId": "rYEDA3JcQqw",
-      "ytDuration": 234
+      "youtubeId": "DunnPtcJFB8",
+      "ytDuration": 229
     },
     {
       "id": 13141170,
       "title": "I Want It That Way",
       "artist": "Backstreet Boys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d61eaad8f321ea876a5f5c7219aae892/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4fndeDfaWCg",
-      "ytDuration": 220
+      "youtubeId": "cNQTxhM-h6s",
+      "ytDuration": 214
+    },
+    {
+      "id": 13248104,
+      "title": "Kita",
+      "artist": "Sheila On 7",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb35130431c8c23b8b8f5010bd199f2b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hv00T3jdIhc",
+      "ytDuration": 277
     },
     {
       "id": 13248108,
       "title": "Dan...",
       "artist": "Sheila On 7",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bb35130431c8c23b8b8f5010bd199f2b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dGcGbF4ex5o",
-      "ytDuration": 284
+      "youtubeId": "T-pVT3pr7IY",
+      "ytDuration": 288
+    },
+    {
+      "id": 13248123,
+      "title": "Andai",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zHta9vAslxo",
+      "ytDuration": 306
     },
     {
       "id": 13248125,
       "title": "Damainya... Cinta",
       "artist": "Gigi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wYR05VjeM4g",
-      "ytDuration": 273
-    },
-    {
-      "id": 13248128,
-      "title": "Terbang",
-      "artist": "Gigi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "1C7-7HNwyHw",
-      "ytDuration": 308
-    },
-    {
-      "id": 13248129,
-      "title": "Yang T'lah Berlalu (Nirwana)",
-      "artist": "Gigi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/33fb40356df207c7215be7762494432c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4C7k3KFv0BA",
-      "ytDuration": 259
-    },
-    {
-      "id": 13249365,
-      "title": "Semua Tak Sama (Album Version)",
-      "artist": "Padi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6561e0169687ac57867ce5c1edb8d785/250x250-000000-80-0-0.jpg",
-      "youtubeId": "MjnfbHsIz0c",
-      "ytDuration": 337
+      "youtubeId": "FbheEXNyvDo",
+      "ytDuration": 254
     },
     {
       "id": 13249372,
       "title": "Kasih Tak Sampai (Album Version)",
       "artist": "Padi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6561e0169687ac57867ce5c1edb8d785/250x250-000000-80-0-0.jpg",
-      "youtubeId": "v9SvqaLIGmU",
-      "ytDuration": 268
+      "youtubeId": "TNKhZzwZRLU",
+      "ytDuration": 294
     },
     {
-      "id": 13267033,
-      "title": "Sudahlah...! (Album Version)",
-      "artist": "Padi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg",
-      "youtubeId": "hRRyog74DYw",
-      "ytDuration": 224
+      "id": 13263120,
+      "title": "Terbang (Album Version)",
+      "artist": "Gigi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2fc9cc0f38ebac250e3ab03e2f0a6db7/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nmJjKy7E568",
+      "ytDuration": 308
     },
     {
       "id": 13267036,
       "title": "Begitu Indah (Album Version)",
       "artist": "Padi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg",
-      "youtubeId": "bE8sO0TG9CE",
-      "ytDuration": 253
+      "youtubeId": "F2y17Tvs9XE",
+      "ytDuration": 309
+    },
+    {
+      "id": 13267037,
+      "title": "Mahadewi (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg",
+      "youtubeId": "T1RyWfqICwc",
+      "ytDuration": 252
+    },
+    {
+      "id": 13267037,
+      "title": "Mahadewi (Album Version)",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg",
+      "youtubeId": "T1RyWfqICwc",
+      "ytDuration": 252
     },
     {
       "id": 13267040,
       "title": "Sobat (Album Version)",
       "artist": "Padi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e77804010af3c502e0e3e476ab700425/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ASskyLrKoCM",
-      "ytDuration": 323
-    },
-    {
-      "id": 13275216,
-      "title": "Pemuja Rahasia (Album Version)",
-      "artist": "Sheila On 7",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f9d7bdd18acd6d65e1e9fc6c45ba5e94/250x250-000000-80-0-0.jpg",
-      "youtubeId": "HvSW5Kap81o",
-      "ytDuration": 235
+      "youtubeId": "R_3krkRxjLc",
+      "ytDuration": 324
     },
     {
       "id": 13320595,
       "title": "Kepastian Yang Ku Tunggu (Album Version)",
       "artist": "Gigi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/84a2589c671c5a3dbd927ca83cfd6b64/250x250-000000-80-0-0.jpg",
-      "youtubeId": "XmcJiaMDZrc",
-      "ytDuration": 278
+      "youtubeId": "oITmy_97xjg",
+      "ytDuration": 271
     },
     {
       "id": 13341389,
       "title": "Nakal",
       "artist": "Gigi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/516295876200a1ccb37e2350680c2f0b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Jgo7nK1FdTk",
+      "youtubeId": "OupoXBV4nk0",
       "ytDuration": 233
     },
     {
@@ -428,47 +588,39 @@
       "title": "11 Januari",
       "artist": "Gigi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/516295876200a1ccb37e2350680c2f0b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "o9PicvdxNnY",
+      "youtubeId": "Fbk3DYucdlA",
       "ytDuration": 212
     },
     {
-      "id": 13356192,
-      "title": "Betapa",
-      "artist": "Sheila On 7",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bba359ce79c4e211c19d03f817b613ef/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dKVVfIm-0_g",
-      "ytDuration": 224
+      "id": 13529563,
+      "title": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/250x250-000000-80-0-0.jpg",
+      "youtubeId": "aqewRNer6nE",
+      "ytDuration": 235
     },
     {
       "id": 13783449,
       "title": "Yeah! (feat. Lil Jon & Ludacris)",
       "artist": "USHER",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b89c20012cccb051c8a4e04d98386f95/250x250-000000-80-0-0.jpg",
-      "youtubeId": "GxBSyx85Kp8",
-      "ytDuration": 253
+      "youtubeId": "EHhmIDjENIg",
+      "ytDuration": 250
     },
     {
       "id": 14203654,
       "title": "Bila Kau Tak Disampingku",
       "artist": "Sheila On 7",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0d60295aac30b650e83bc3d9d37306cb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "DbVrS-1UQNU",
-      "ytDuration": 257
+      "youtubeId": "kuG1njuJHRQ",
+      "ytDuration": 254
     },
     {
-      "id": 14203655,
-      "title": "Sephia",
-      "artist": "Sheila On 7",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0d60295aac30b650e83bc3d9d37306cb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4tAg2H7tqD0",
-      "ytDuration": 297
-    },
-    {
-      "id": 14299255,
-      "title": "Tempat Terakhir",
-      "artist": "Padi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/365e37305277beaccd2f4b652bc65cd0/250x250-000000-80-0-0.jpg",
-      "youtubeId": "QREWmfvWkHg",
+      "id": 14241633,
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/790f5653c73d01fe3bd55d2990ee3db6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9p41pzw10iY",
       "ytDuration": 221
     },
     {
@@ -476,128 +628,232 @@
       "title": "Menanti Sebuah Jawaban",
       "artist": "Padi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/365e37305277beaccd2f4b652bc65cd0/250x250-000000-80-0-0.jpg",
-      "youtubeId": "nXoHBb-NsvY",
+      "youtubeId": "A1q4ozHbphQ",
+      "ytDuration": 276
+    },
+    {
+      "id": 14299589,
+      "title": "Paradise",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0dd8263dfed37c50a868abbf65fd7da/250x250-000000-80-0-0.jpg",
+      "youtubeId": "3QNl4cMxFXI",
       "ytDuration": 278
+    },
+    {
+      "id": 14525574,
+      "title": "We Found Love (Album Version)",
+      "artist": "Rihanna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5199f89d5113a83b5086463d5d0c9415/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EYevdq3Li8I",
+      "ytDuration": 216
+    },
+    {
+      "id": 14525574,
+      "title": "We Found Love (Album Version)",
+      "artist": "Rihanna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5199f89d5113a83b5086463d5d0c9415/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EYevdq3Li8I",
+      "ytDuration": 216
     },
     {
       "id": 14622555,
       "title": "Cinta Yang Sempurna",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a1fa049dc0fb2753332934fa4d39b1c2/250x250-000000-80-0-0.jpg",
-      "youtubeId": "MlI8BioxZ84",
-      "ytDuration": 225
+      "youtubeId": "RbmZi5BF-ks",
+      "ytDuration": 313
     },
     {
-      "id": 14671966,
-      "title": "Kehilanganmu Berat Bagiku",
-      "artist": "Kangen Band",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ebdacc270ef8fffc0fbe6cbc93c08e98/250x250-000000-80-0-0.jpg",
-      "youtubeId": "iY4Xa1srECs",
-      "ytDuration": 225
+      "id": 14628995,
+      "title": "Somewhere I Belong",
+      "artist": "Linkin Park",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg",
+      "youtubeId": "6oUSQ6HsqsU",
+      "ytDuration": 215
+    },
+    {
+      "id": 14628999,
+      "title": "Faint",
+      "artist": "Linkin Park",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nD06PvZVw-I",
+      "ytDuration": 163
     },
     {
       "id": 15019776,
       "title": "Aku Yang Tersakiti",
       "artist": "Judika",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c869f3ef16b566fe69639aa52fbe0802/250x250-000000-80-0-0.jpg",
-      "youtubeId": "9tZPmSv6DTs",
-      "ytDuration": 252
+      "youtubeId": "X36kjrIMnp0",
+      "ytDuration": 242
     },
     {
       "id": 15189075,
       "title": "Careless Whisper",
       "artist": "George Michael",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg",
-      "youtubeId": "izGwDsrQ1eQ",
-      "ytDuration": 301
+      "youtubeId": "zHKGBjq4k0I",
+      "ytDuration": 391
     },
     {
       "id": 15587465,
       "title": "Complicated",
       "artist": "Avril Lavigne",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5NPBIwQyPWE",
-      "ytDuration": 254
-    },
-    {
-      "id": 15587465,
-      "title": "Complicated",
-      "artist": "Avril Lavigne",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5NPBIwQyPWE",
-      "ytDuration": 254
+      "youtubeId": "cg20IRwtu18",
+      "ytDuration": 245
     },
     {
       "id": 15767670,
       "title": "Seberapa Pantas",
       "artist": "Sheila On 7",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0b960d60855b2a005c09c5d42b107704/250x250-000000-80-0-0.jpg",
-      "youtubeId": "OdDwIwoiZwU",
-      "ytDuration": 235
+      "youtubeId": "1fcgU9KXodM",
+      "ytDuration": 242
     },
     {
-      "id": 15767681,
-      "title": "Itu Aku",
+      "id": 15767699,
+      "title": "Sebuah Kisah Klasik",
       "artist": "Sheila On 7",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0b960d60855b2a005c09c5d42b107704/250x250-000000-80-0-0.jpg",
-      "youtubeId": "a4a_mhXgGSg",
-      "ytDuration": 281
+      "youtubeId": "O2o1okvERU4",
+      "ytDuration": 243
+    },
+    {
+      "id": 17135109,
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "KlyXNRrsk4A",
+      "ytDuration": 485
+    },
+    {
+      "id": 17135114,
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "lbaVbgbeKaI",
+      "ytDuration": 228
+    },
+    {
+      "id": 38934641,
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/81d7aae96ab55297abdfd5370f6b38a0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "M_lwyt3eHe4",
+      "ytDuration": 233
+    },
+    {
+      "id": 60978718,
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a1b2457fcd12bb9ed5488e4bbd01ec25/250x250-000000-80-0-0.jpg",
+      "youtubeId": "yN-GMJt0kKQ",
+      "ytDuration": 225
+    },
+    {
+      "id": 61542462,
+      "title": "Girl on Fire",
+      "artist": "Alicia Keys",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36c185941d3fd043ff9861d89040ba46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hpnoPpr92C4",
+      "ytDuration": 225
     },
     {
       "id": 62710442,
       "title": "All I Want for Christmas Is You",
       "artist": "Mariah Carey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg",
-      "youtubeId": "yXQViqx6GMY",
-      "ytDuration": 235
+      "youtubeId": "jW_IkbYAg0M",
+      "ytDuration": 240
+    },
+    {
+      "id": 62724015,
+      "title": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "LjceADT9itM",
+      "ytDuration": 234
+    },
+    {
+      "id": 62724019,
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "g9ywto6BVP0",
+      "ytDuration": 214
     },
     {
       "id": 62847142,
       "title": "Titanium (feat. Sia)",
       "artist": "David Guetta",
       "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JRfuAukYTKg",
+      "youtubeId": "SNLOHs5ZjAQ",
       "ytDuration": 246
+    },
+    {
+      "id": 63510361,
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4Z4vh2M_HvU",
+      "ytDuration": 177
+    },
+    {
+      "id": 65356224,
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f409c33ab781a565ab46f06ba3415a31/250x250-000000-80-0-0.jpg",
+      "youtubeId": "mFpqyuq3MVo",
+      "ytDuration": 484
     },
     {
       "id": 66609426,
       "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
       "artist": "Daft Punk",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bc49adb87758e0c8c4e508a9c5cce85d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5NV6Rdv1a3I",
-      "ytDuration": 249
+      "youtubeId": "C6CYfFhlwkc",
+      "ytDuration": 248
+    },
+    {
+      "id": 67239353,
+      "title": "Bukan Rayuan Gombal",
+      "artist": "Judika",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wkLXW6808LU",
+      "ytDuration": 282
     },
     {
       "id": 67239354,
       "title": "Bukan Dia Tapi Aku",
       "artist": "Judika",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
-      "youtubeId": "IfPCRfaQBA0",
-      "ytDuration": 223
-    },
-    {
-      "id": 67239357,
-      "title": "Setengah Mati Merindu",
-      "artist": "Judika",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
-      "youtubeId": "BKjv_k13H5I",
-      "ytDuration": 272
+      "youtubeId": "7QLOATzedjM",
+      "ytDuration": 275
     },
     {
       "id": 67649167,
       "title": "Sampai Akhir (feat. DuMa)",
       "artist": "Judika",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8a5c18205a46f9f88ab657057b9e4a90/250x250-000000-80-0-0.jpg",
-      "youtubeId": "kE5hLWQBt_c",
-      "ytDuration": 207
+      "youtubeId": "z06-uUzuA2M",
+      "ytDuration": 205
     },
     {
       "id": 68515768,
       "title": "Tentang Aku,Kau dan Dia",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/783980aaab3c7db40fc3eba01e8f8c16/250x250-000000-80-0-0.jpg",
-      "youtubeId": "3ucQG2HQxMc",
-      "ytDuration": 347
+      "youtubeId": "PP-3vasUUYk",
+      "ytDuration": 343
+    },
+    {
+      "id": 68853414,
+      "title": "Jodoh Pasti Bertemu",
+      "artist": "Afgan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/523a1cd38367b0021400bb5b338f789e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "cJMuv_P4fp0",
+      "ytDuration": 246
     },
     {
       "id": 69580417,
@@ -616,84 +872,60 @@
       "ytDuration": 277
     },
     {
-      "id": 70971594,
-      "title": "Wajahmu Mengalihkan Duniaku",
-      "artist": "Afgan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7c7dce65f1f8965e5f3dd82db19b3d88/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Z_17woj3JNE",
-      "ytDuration": 192
-    },
-    {
       "id": 70971595,
       "title": "Bawalah Cintaku",
       "artist": "Afgan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7c7dce65f1f8965e5f3dd82db19b3d88/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CPENPhizI-U",
-      "ytDuration": 303
-    },
-    {
-      "id": 70971596,
-      "title": "Dia Dia Dia",
-      "artist": "Afgan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7c7dce65f1f8965e5f3dd82db19b3d88/250x250-000000-80-0-0.jpg",
-      "youtubeId": "XK7r9HSA_KM",
-      "ytDuration": 188
+      "youtubeId": "wLb-MbEcNfU",
+      "ytDuration": 234
     },
     {
       "id": 71645431,
       "title": "Roar",
       "artist": "Katy Perry",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fe781ecd9879a82beed80f6d3e80745b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CevxZvSJLk8",
-      "ytDuration": 270
+      "youtubeId": "uKDGXXSW5Eg",
+      "ytDuration": 223
+    },
+    {
+      "id": 72464097,
+      "title": "Intim Berdua",
+      "artist": "Ada Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aee93cfe80e8abfd8208b055f343e7e5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "IwX44zNIw8o",
+      "ytDuration": 211
     },
     {
       "id": 76056722,
       "title": "Kamulah Satu - Satunya",
       "artist": "Dewa 19",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d468bd06f15d572ce0224e51c8b76e9a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "mxoqgbC81zY",
-      "ytDuration": 238
+      "youtubeId": "b2hY3-Yi2q0",
+      "ytDuration": 242
     },
     {
       "id": 76056756,
       "title": "Kirana",
       "artist": "Dewa 19",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0b07f41e26a48f00d6157bcd23eda80/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5KExOQ5S8uc",
-      "ytDuration": 261
-    },
-    {
-      "id": 76056757,
-      "title": "Aku Milikmu",
-      "artist": "Dewa 19",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a0b07f41e26a48f00d6157bcd23eda80/250x250-000000-80-0-0.jpg",
-      "youtubeId": "lHC_pKJKKg8",
-      "ytDuration": 249
-    },
-    {
-      "id": 76056759,
-      "title": "Cinta Kan Membawamu Kembali",
-      "artist": "Dewa 19",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a0b07f41e26a48f00d6157bcd23eda80/250x250-000000-80-0-0.jpg",
-      "youtubeId": "X8-4lpJDEcM",
-      "ytDuration": 282
-    },
-    {
-      "id": 76056797,
-      "title": "Tak Kan Ada Cinta Yang Lain",
-      "artist": "Dewa 19",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/df262df4511ba8eb66382f8c6922b637/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_PSPhCCUdZE",
-      "ytDuration": 292
+      "youtubeId": "WRzo8Dqk-ds",
+      "ytDuration": 262
     },
     {
       "id": 79587580,
       "title": "Chandelier",
       "artist": "Sia",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4275db12f5e284b3c2f3e20726187b64/250x250-000000-80-0-0.jpg",
-      "youtubeId": "2vjPBrBU-TM",
-      "ytDuration": 232
+      "youtubeId": "vG5sbGhLafk",
+      "ytDuration": 216
+    },
+    {
+      "id": 82199332,
+      "title": "Womanizer",
+      "artist": "Britney Spears",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/16d60157d51a9e21ffac61b50a7d02d0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "b9npk-LAF4E",
+      "ytDuration": 223
     },
     {
       "id": 82499870,
@@ -704,76 +936,108 @@
       "ytDuration": 260
     },
     {
+      "id": 83124206,
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f7b886ae6d349bccfdb39ef827cab8e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MxGWoPK2wcg",
+      "ytDuration": 231
+    },
+    {
       "id": 83780412,
       "title": "Air & Api",
       "artist": "Naif",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
-      "youtubeId": "fbfP-lPbCrE",
-      "ytDuration": 207
+      "youtubeId": "BTJOJlOBVfc",
+      "ytDuration": 198
+    },
+    {
+      "id": 83780414,
+      "title": "Piknik 72",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
+      "youtubeId": "PzyLBbJKJi4",
+      "ytDuration": 205
+    },
+    {
+      "id": 83780418,
+      "title": "Mobil Balap",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
+      "youtubeId": "bxvwg9OEApo",
+      "ytDuration": 220
+    },
+    {
+      "id": 83780430,
+      "title": "Posessif",
+      "artist": "Naif",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1VkzGhU1DZ8",
+      "ytDuration": 263
     },
     {
       "id": 83780434,
       "title": "Jikalau",
       "artist": "Naif",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
-      "youtubeId": "3Xcrl-nhmdc",
-      "ytDuration": 192
+      "youtubeId": "D7-OU9yRIuA",
+      "ytDuration": 187
     },
     {
       "id": 83780436,
       "title": "Aku Rela",
       "artist": "Naif",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Xwda6_k-kPs",
-      "ytDuration": 146
+      "youtubeId": "nRn1fv5FCco",
+      "ytDuration": 144
     },
     {
       "id": 83780440,
       "title": "Dia Adalah Pusaka Sejuta Umat Yang Ada Diseluruh Dunia",
       "artist": "Naif",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
-      "youtubeId": "M8Psd7IGLaA",
-      "ytDuration": 233
-    },
-    {
-      "id": 83780442,
-      "title": "Senang Bersamamu",
-      "artist": "Naif",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
-      "youtubeId": "6o6JPgJmIWA",
-      "ytDuration": 200
-    },
-    {
-      "id": 83780472,
-      "title": "Posessif",
-      "artist": "Naif",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/16025e06f61b05ac4bbf6c27cee22c34/250x250-000000-80-0-0.jpg",
-      "youtubeId": "MBAvOr4CKEg",
-      "ytDuration": 269
+      "youtubeId": "bBMHuZmLThU",
+      "ytDuration": 229
     },
     {
       "id": 88936747,
       "title": "Summer",
       "artist": "Calvin Harris",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ebXbLfLACGM",
-      "ytDuration": 234
+      "youtubeId": "A2qMYoKYDhg",
+      "ytDuration": 221
+    },
+    {
+      "id": 89077547,
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/68b4e986958b17f05b062ffa8d7ae114/250x250-000000-80-0-0.jpg",
+      "youtubeId": "oKeBAiWJ8cg",
+      "ytDuration": 232
     },
     {
       "id": 90632837,
       "title": "The Nights",
       "artist": "Avicii",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6e58a99f59a150e9b4aefbeb2d6fc856/250x250-000000-80-0-0.jpg",
-      "youtubeId": "UtF6Jej8yb4",
-      "ytDuration": 191
+      "youtubeId": "Fz_dd-GN_nc",
+      "ytDuration": 179
+    },
+    {
+      "id": 92734438,
+      "title": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3734366a73152d0367a83a4b09fd163f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "tFYLL8ElXE8",
+      "ytDuration": 270
     },
     {
       "id": 99976952,
       "title": "Stressed Out",
       "artist": "Twenty One Pilots",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dbbde1014cda9b101412a8e27add0ad2/250x250-000000-80-0-0.jpg",
-      "youtubeId": "pXRviuL6vMY",
-      "ytDuration": 226
+      "youtubeId": "hVKoL0iQzWY",
+      "ytDuration": 203
     },
     {
       "id": 104952384,
@@ -788,16 +1052,16 @@
       "title": "Stay With Me",
       "artist": "Sam Smith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/231c66c0ed260c708163eff3bb8458da/250x250-000000-80-0-0.jpg",
-      "youtubeId": "pB-5XG-DbAA",
-      "ytDuration": 210
+      "youtubeId": "DFCiHOwglfM",
+      "ytDuration": 173
     },
     {
       "id": 114811546,
       "title": "Hymn for the Weekend",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5df065fdcbaffd0f83d09789bad9d2db/250x250-000000-80-0-0.jpg",
-      "youtubeId": "YykjpeuMNEk",
-      "ytDuration": 261
+      "youtubeId": "SAJtWlUYjtc",
+      "ytDuration": 258
     },
     {
       "id": 120070452,
@@ -812,160 +1076,224 @@
       "title": "Kamu Yang Kutunggu",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/09498df4108b8b8b6fd4e74dd7249fc0/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5PQTKw907oE",
-      "ytDuration": 309
+      "youtubeId": "i53rGd9Sigc",
+      "ytDuration": 255
+    },
+    {
+      "id": 123883254,
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zCh4jIWOKrI",
+      "ytDuration": 222
+    },
+    {
+      "id": 123883254,
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zCh4jIWOKrI",
+      "ytDuration": 222
+    },
+    {
+      "id": 124603286,
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/250x250-000000-80-0-0.jpg",
+      "youtubeId": "8DNM9sigSa4",
+      "ytDuration": 269
     },
     {
       "id": 129310248,
       "title": "Closer",
       "artist": "The Chainsmokers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0a7b86a0e2f2bd3e41515adb83e3322b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "PT2_F-1esPk",
-      "ytDuration": 262
-    },
-    {
-      "id": 131417434,
-      "title": "Sebuah Rasa",
-      "artist": "Agnez Mo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/34aae7e60f995d278a5d7310b2ee14b7/250x250-000000-80-0-0.jpg",
-      "youtubeId": "XNQoWURf8lI",
-      "ytDuration": 250
+      "youtubeId": "KQ5ko-fUY24",
+      "ytDuration": 247
     },
     {
       "id": 135239428,
       "title": "Lilin Lilin Kecil (Remastered)",
       "artist": "Chrisye",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e456c1bee2585aa9742155d64b8e5cdd/250x250-000000-80-0-0.jpg",
-      "youtubeId": "MGL6mYnKeIc",
-      "ytDuration": 298
+      "youtubeId": "_jk3RrG9b7Q",
+      "ytDuration": 268
+    },
+    {
+      "id": 135455252,
+      "title": "Cinta Itu Buta",
+      "artist": "Armada",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
+      "youtubeId": "49kvCYnpRyk",
+      "ytDuration": 243
     },
     {
       "id": 135455256,
       "title": "Buka Hatimu",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
-      "youtubeId": "COfTslrnoZo",
-      "ytDuration": 276
+      "youtubeId": "1u0A7S7GnXk",
+      "ytDuration": 275
     },
     {
       "id": 135455260,
       "title": "Mau Dibawa Kemana",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
-      "youtubeId": "acD6B_eR5yk",
-      "ytDuration": 233
+      "youtubeId": "8MsKD4unTOE",
+      "ytDuration": 240
     },
     {
       "id": 135455266,
       "title": "Kuingin Setia",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a990d1d85e9b4f9785849b85d8be1234/250x250-000000-80-0-0.jpg",
-      "youtubeId": "WHgU75VYrqs",
-      "ytDuration": 268
+      "youtubeId": "zawYV2jfNKA",
+      "ytDuration": 271
     },
     {
       "id": 135455542,
       "title": "Mabuk Cinta",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "oXVbv08eH1g",
-      "ytDuration": 241
+      "youtubeId": "6PppTBeyevQ",
+      "ytDuration": 240
     },
     {
       "id": 135455550,
       "title": "Hargai Aku",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Yjt_yWDAuyQ",
+      "youtubeId": "4E-lSFGagys",
       "ytDuration": 246
     },
     {
-      "id": 135455552,
-      "title": "Bebaskan Diriku",
-      "artist": "Armada",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/77eccefe569ef73795392665f19b991a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "BQwdf22PaRY",
-      "ytDuration": 246
+      "id": 136889400,
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "CCgdJdY1QsA",
+      "ytDuration": 230
+    },
+    {
+      "id": 136889434,
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JPT8OBTdCow",
+      "ytDuration": 270
     },
     {
       "id": 139138743,
       "title": "Stayin Alive",
       "artist": "Bee Gees",
       "cover": "https://cdn-images.dzcdn.net/images/cover/abf272cffad9fb2b1552421ac6fac9c2/250x250-000000-80-0-0.jpg",
-      "youtubeId": "I_izvAbhExY",
-      "ytDuration": 250
+      "youtubeId": "a42kuQVmBhg",
+      "ytDuration": 285
+    },
+    {
+      "id": 142706538,
+      "title": "Something Just Like This",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4czFIlaCgYU",
+      "ytDuration": 245
+    },
+    {
+      "id": 142706538,
+      "title": "Something Just Like This",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4czFIlaCgYU",
+      "ytDuration": 245
     },
     {
       "id": 142986206,
       "title": "Perfect",
       "artist": "Ed Sheeran",
       "cover": "https://cdn-images.dzcdn.net/images/cover/000a9228cecfcc7c2093d9cd7bb66447/250x250-000000-80-0-0.jpg",
-      "youtubeId": "2Vv-BfVoq4g",
-      "ytDuration": 282
-    },
-    {
-      "id": 346345811,
-      "title": "Jadi Aku Sebentar Saja",
-      "artist": "Judika",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/90f0a6684f41d08866916f6c2aad753f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Oo9BsGPWWV0",
-      "ytDuration": 244
+      "youtubeId": "Dk2xKhFBtdc",
+      "ytDuration": 264
     },
     {
       "id": 346345851,
       "title": "Jikalau Kau Cinta",
       "artist": "Judika",
       "cover": "https://cdn-images.dzcdn.net/images/cover/90f0a6684f41d08866916f6c2aad753f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "FXZOde_pso4",
-      "ytDuration": 242
+      "youtubeId": "iQ1DdygttiQ",
+      "ytDuration": 243
     },
     {
       "id": 349385251,
       "title": "Attention",
       "artist": "Charlie Puth",
       "cover": "https://cdn-images.dzcdn.net/images/cover/da7eb4c99604b2fda5f123aba3897850/250x250-000000-80-0-0.jpg",
-      "youtubeId": "nfs8NYg7yQM",
-      "ytDuration": 232
+      "youtubeId": "vxUBYHz_q1I",
+      "ytDuration": 212
     },
     {
       "id": 366297921,
       "title": "New Rules",
       "artist": "Dua Lipa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0ce25be244d0f09009da83b66b080bc4/250x250-000000-80-0-0.jpg",
-      "youtubeId": "k2qgadSvNyU",
-      "ytDuration": 225
+      "youtubeId": "f4byOZY2hoo",
+      "ytDuration": 210
     },
     {
       "id": 429284172,
       "title": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e00067427a798a6ba582e60ab48ddd20/250x250-000000-80-0-0.jpg",
-      "youtubeId": "VJkxeb9kyLs",
-      "ytDuration": 234
+      "youtubeId": "-1TUGZpWHrk",
+      "ytDuration": 235
     },
     {
       "id": 455300942,
       "title": "Heaven",
       "artist": "Isyana Sarasvati",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef9e721ca34193676069947bbbf4b0e7/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_OVHczHMHF0",
-      "ytDuration": 220
+      "youtubeId": "hkgYALqOLqI",
+      "ytDuration": 219
+    },
+    {
+      "id": 455300942,
+      "title": "Heaven",
+      "artist": "Isyana Sarasvati",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef9e721ca34193676069947bbbf4b0e7/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hkgYALqOLqI",
+      "ytDuration": 219
     },
     {
       "id": 530300641,
       "title": "Three Little Birds",
       "artist": "Bob Marley & The Wailers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "zaGUr6wzyT8",
-      "ytDuration": 181
+      "youtubeId": "9YLhb_AP1G0",
+      "ytDuration": 182
     },
     {
       "id": 531935901,
       "title": "Overdose (feat. Chris Brown)",
       "artist": "Agnez Mo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0c7aabd30e3715fd7a0009d5c81bf42d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "1gTdgdJ_rMY",
-      "ytDuration": 172
+      "youtubeId": "Axgel3QUF-A",
+      "ytDuration": 175
+    },
+    {
+      "id": 533609232,
+      "title": "God's Plan",
+      "artist": "Drake",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b69d3bcbd130ad4cc9259de543889e30/250x250-000000-80-0-0.jpg",
+      "youtubeId": "m1a_GqJf02M",
+      "ytDuration": 199
+    },
+    {
+      "id": 561856742,
+      "title": "Shallow",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88a8288e14f61ffa39c14ac2ef9210d8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "bo_efYhYU2A",
+      "ytDuration": 217
     },
     {
       "id": 581378662,
@@ -980,103 +1308,135 @@
       "title": "Superstition",
       "artist": "Stevie Wonder",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg",
-      "youtubeId": "0CFuCYNx-1g",
-      "ytDuration": 268
+      "youtubeId": "pOMejIeE5V0",
+      "ytDuration": 245
+    },
+    {
+      "id": 602456552,
+      "title": "Sunflower (Spider-Man: Into the Spider-Verse)",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1aa3dfe91b3e5d3bc71eca6b6e9c8d39/250x250-000000-80-0-0.jpg",
+      "youtubeId": "i2-VaXhZBtM",
+      "ytDuration": 158
+    },
+    {
+      "id": 629899852,
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EEhZAHZQyf4",
+      "ytDuration": 208
     },
     {
       "id": 686746862,
       "title": "In the Air Tonight ('88 Remix)",
       "artist": "Phil Collins",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2d6a03f57098b6354d18782f28bb8476/250x250-000000-80-0-0.jpg",
-      "youtubeId": "YkADj0TPrJA",
-      "ytDuration": 285
+      "youtubeId": "vOQo-lheXS0",
+      "ytDuration": 307
     },
     {
       "id": 742744952,
       "title": "Circles",
       "artist": "Post Malone",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6fb46005a49df7aeba49f1ca117f3710/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wXhTHyIgQ_U",
-      "ytDuration": 227
+      "youtubeId": "zDlQxh0CVWU",
+      "ytDuration": 215
     },
     {
       "id": 758431262,
       "title": "Benci Untuk Mencinta",
       "artist": "Naif",
       "cover": "https://cdn-images.dzcdn.net/images/cover/19a21cee5fd0199697f7e5ecbd904c01/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ut_IIKIgfYY",
-      "ytDuration": 243
+      "youtubeId": "CFFOyc067tU",
+      "ytDuration": 241
     },
     {
       "id": 759511462,
       "title": "Karena Cinta Yang Menemani (Original Soundtrack from the Movie \"Susi Susanti - Love All\")",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f919f424ad107e945595cd72b054abba/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wbQ0OrA1dR0",
-      "ytDuration": 256
+      "youtubeId": "aPywxzGuEzg",
+      "ytDuration": 257
     },
     {
       "id": 908604612,
       "title": "Blinding Lights",
       "artist": "The Weeknd",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4NRXx6U8ABQ",
-      "ytDuration": 263
+      "youtubeId": "ZxAK3IXUZ08",
+      "ytDuration": 201
+    },
+    {
+      "id": 908604632,
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "qWXaFIhuSN4",
+      "ytDuration": 216
+    },
+    {
+      "id": 1145044282,
+      "title": "Tertatih",
+      "artist": "Kerispatih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/13b746916d1a4ecd687c669c62a9e094/250x250-000000-80-0-0.jpg",
+      "youtubeId": "idgVs3Cdb88",
+      "ytDuration": 274
     },
     {
       "id": 1145048732,
       "title": "Asal Kau Bahagia",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d78cafda951e37e4e1996705b607843d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "py6GDNgye6k",
-      "ytDuration": 259
+      "youtubeId": "AA4-n4CZ3Dw",
+      "ytDuration": 245
     },
     {
       "id": 1145147612,
       "title": "Kejujuran Hati",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4bf53b865ff9a4bbf60b7c68d4cf8c6c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ffEYcRU9YyU",
-      "ytDuration": 280
+      "youtubeId": "rCfzLTrrK-U",
+      "ytDuration": 361
     },
     {
       "id": 1145147642,
       "title": "Lagu Rindu",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4bf53b865ff9a4bbf60b7c68d4cf8c6c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4FwqE_Ybl8I",
-      "ytDuration": 311
+      "youtubeId": "1AGm_1EqSxk",
+      "ytDuration": 280
     },
     {
       "id": 1145192622,
       "title": "Doaku Untukmu Sayang",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bb8e8a000137bc55a75007e7bd8c7514/250x250-000000-80-0-0.jpg",
-      "youtubeId": "vCIpDmRvBcM",
-      "ytDuration": 230
+      "youtubeId": "vWswWHoMmVk",
+      "ytDuration": 227
     },
     {
       "id": 1145192632,
       "title": "Nenekku Pahlawanku",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bb8e8a000137bc55a75007e7bd8c7514/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CU6rPv4xXhQ",
-      "ytDuration": 259
+      "youtubeId": "rWfDhNmIiTw",
+      "ytDuration": 256
     },
     {
       "id": 1145221042,
       "title": "Cari Jodoh",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dERdrEKmOHE",
-      "ytDuration": 192
+      "youtubeId": "82fGq1us-r4",
+      "ytDuration": 251
     },
     {
       "id": 1145221052,
       "title": "Baik Baik Sayang",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "r6Z7Cpxl32k",
+      "youtubeId": "btrUjpbMN_s",
       "ytDuration": 252
     },
     {
@@ -1084,80 +1444,64 @@
       "title": "Yank",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Oaifu0F_-Ro",
-      "ytDuration": 283
+      "youtubeId": "ldUvW-rtlSc",
+      "ytDuration": 275
     },
     {
       "id": 1145221132,
       "title": "Harga Diri",
       "artist": "Wali",
       "cover": "https://cdn-images.dzcdn.net/images/cover/02f9ba674b213eeff6d8d0361e7765eb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Xva6fckcQX8",
-      "ytDuration": 259
-    },
-    {
-      "id": 1145239402,
-      "title": "Aku Harus Jujur",
-      "artist": "Kerispatih",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b6817242d98fa481527cbd304b012a12/250x250-000000-80-0-0.jpg",
-      "youtubeId": "tkZuhp4fRCc",
-      "ytDuration": 267
+      "youtubeId": "uoXOHxNr6Ag",
+      "ytDuration": 258
     },
     {
       "id": 1145257312,
       "title": "Mengenangmu",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4dd91a93a8c11346050ee30034e951d5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "zexM-yvZqIE",
-      "ytDuration": 280
+      "youtubeId": "ARChr7PG9vw",
+      "ytDuration": 278
     },
     {
       "id": 1145257362,
       "title": "Tapi Bukan Aku",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4dd91a93a8c11346050ee30034e951d5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "-4A6SXIXjGs",
-      "ytDuration": 283
+      "youtubeId": "EsId3PGsQF0",
+      "ytDuration": 271
     },
     {
       "id": 1145266662,
       "title": "Bila Rasaku Ini Rasamu",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
-      "youtubeId": "kSbQo03yOiI",
-      "ytDuration": 280
+      "youtubeId": "gmqobyv2uQU",
+      "ytDuration": 273
     },
     {
       "id": 1145266672,
       "title": "Kesalahan Yang Sama",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
-      "youtubeId": "snBAQwqugIQ",
-      "ytDuration": 270
+      "youtubeId": "wHioCbe33vk",
+      "ytDuration": 255
     },
     {
       "id": 1145266692,
       "title": "Demi Cinta",
       "artist": "Kerispatih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/07d1b759578e6946773ec9cbaafccc1e/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wlK0erzBlGg",
-      "ytDuration": 302
+      "youtubeId": "O9wqqT7-KI0",
+      "ytDuration": 283
     },
     {
-      "id": 1145593082,
-      "title": "Cari Berkah (CABE)",
+      "id": 1145765582,
+      "title": "Si Udin Bertanya (Robbana Atina)",
       "artist": "Wali",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6a995f2506a6923f9acac2eb31bf7b4d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "RgqjMHiYMfg",
-      "ytDuration": 265
-    },
-    {
-      "id": 1145593132,
-      "title": "Ya Allah",
-      "artist": "Wali",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6a995f2506a6923f9acac2eb31bf7b4d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_Z1WAn_uJiM",
-      "ytDuration": 236
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11cf8d61d00768480e20490a91faf1f4/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1kcMKrU2kI4",
+      "ytDuration": 260
     },
     {
       "id": 1146196932,
@@ -1168,27 +1512,35 @@
       "ytDuration": 264
     },
     {
-      "id": 1146197042,
-      "title": "Suit Suit...He..He.. (Gadis Sexy)",
+      "id": 1146204142,
+      "title": "Kamu Harus Pulang",
       "artist": "SLANK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/34cdda4aa958cb0d2e8aaa9fdf7a5aaa/250x250-000000-80-0-0.jpg",
-      "youtubeId": "sIFweKvqQY0",
-      "ytDuration": 211
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d126cf556a51b7351378870d3332/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zuAYVWADxlg",
+      "ytDuration": 301
     },
     {
-      "id": 1146197062,
-      "title": "Maafkan",
+      "id": 1146204162,
+      "title": "Nggak Perawan Lagi",
       "artist": "SLANK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/34cdda4aa958cb0d2e8aaa9fdf7a5aaa/250x250-000000-80-0-0.jpg",
-      "youtubeId": "LkPV7UnU_F0",
-      "ytDuration": 292
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d126cf556a51b7351378870d3332/250x250-000000-80-0-0.jpg",
+      "youtubeId": "21YhukngZVY",
+      "ytDuration": 115
+    },
+    {
+      "id": 1146204182,
+      "title": ".....",
+      "artist": "SLANK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d341d126cf556a51b7351378870d3332/250x250-000000-80-0-0.jpg",
+      "youtubeId": "InFTbroVP3Q",
+      "ytDuration": 149
     },
     {
       "id": 1146209322,
       "title": "Mawar Merah",
       "artist": "SLANK",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bf7bb6b4057fb0abe54d8213cc81af46/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Fsj_oYe4NS4",
+      "youtubeId": "W0Le6uN89Sk",
       "ytDuration": 276
     },
     {
@@ -1196,16 +1548,16 @@
       "title": "Terlalu Manis (Suka Suka Version)",
       "artist": "SLANK",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bf7bb6b4057fb0abe54d8213cc81af46/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dVFyo8pCr8c",
-      "ytDuration": 304
+      "youtubeId": "PUek3-rOuEs",
+      "ytDuration": 303
     },
     {
-      "id": 1146209352,
-      "title": "Bali Bagus",
+      "id": 1146209332,
+      "title": "Terlalu Manis (Suka Suka Version)",
       "artist": "SLANK",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bf7bb6b4057fb0abe54d8213cc81af46/250x250-000000-80-0-0.jpg",
-      "youtubeId": "QrHbEvw_6SQ",
-      "ytDuration": 281
+      "youtubeId": "PUek3-rOuEs",
+      "ytDuration": 303
     },
     {
       "id": 1146209422,
@@ -1244,32 +1596,24 @@
       "title": "Buat Apa Susah",
       "artist": "Koes Plus",
       "cover": "https://cdn-images.dzcdn.net/images/cover/219dd8504542f3bae734254d0d668ef5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "xfQj7fMRyOI",
-      "ytDuration": 195
-    },
-    {
-      "id": 1248566702,
-      "title": "Kolam Susu",
-      "artist": "Koes Plus",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3f9d15dcf64307e5aa98c813ac2f7cb9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "LqbpI60MJiI",
-      "ytDuration": 152
+      "youtubeId": "Bq6PN4Ukyn0",
+      "ytDuration": 239
     },
     {
       "id": 1248566722,
       "title": "Bujangan",
       "artist": "Koes Plus",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3f9d15dcf64307e5aa98c813ac2f7cb9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "rYxD9FZxuug",
-      "ytDuration": 137
+      "youtubeId": "RbOWTNzkr2I",
+      "ytDuration": 157
     },
     {
       "id": 1273025152,
       "title": "Kisah Ku Inginkan",
       "artist": "Dato' Sri Siti Nurhaliza",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fa0644c9f1554ecde22ef6245f7d109d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "6UFsB6mGjEE",
-      "ytDuration": 270
+      "youtubeId": "FynIkAhkiT0",
+      "ytDuration": 269
     },
     {
       "id": 1331459112,
@@ -1284,8 +1628,8 @@
       "title": "Karena Wanita (Ingin Dimengerti)",
       "artist": "Ada Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d736026ff56c5a86a78fe861240c1f43/250x250-000000-80-0-0.jpg",
-      "youtubeId": "N9nEqewTFWk",
-      "ytDuration": 278
+      "youtubeId": "n9xT9saRRGQ",
+      "ytDuration": 277
     },
     {
       "id": 1331674382,
@@ -1300,39 +1644,31 @@
       "title": "Roman Picisan",
       "artist": "Dewa 19",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JatwGCBZoI0",
-      "ytDuration": 294
+      "youtubeId": "JBVaZm6Iot8",
+      "ytDuration": 246
+    },
+    {
+      "id": 1333046372,
+      "title": "Separuh Nafas",
+      "artist": "Dewa 19",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "kitkOTxGfjI",
+      "ytDuration": 223
     },
     {
       "id": 1333046382,
       "title": "Kangen",
       "artist": "Dewa 19",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4d621930e6f5503389642c98f5be5f2f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "sjjhLDPT5_g",
+      "youtubeId": "SfbDxmADvhg",
       "ytDuration": 301
-    },
-    {
-      "id": 1333130262,
-      "title": "Ough!!",
-      "artist": "Ada Band",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c720d107dbf31d42ef627c6bcd5384b4/250x250-000000-80-0-0.jpg",
-      "youtubeId": "cXZMi-quXoU",
-      "ytDuration": 245
-    },
-    {
-      "id": 1334822372,
-      "title": "Nyawa Hidupku",
-      "artist": "Ada Band",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d92e96f86b3115ee63e5e90619d6b515/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CfR6_VMce90",
-      "ytDuration": 245
     },
     {
       "id": 1334904782,
       "title": "Yang Terbaik Bagimu (Jangan Lupakan Ayah) [feat. Gita Gutawa]",
       "artist": "Ada Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JoDcgE3Dujg",
+      "youtubeId": "djgcRJ92bhE",
       "ytDuration": 253
     },
     {
@@ -1340,40 +1676,32 @@
       "title": "Manusia Bodoh",
       "artist": "Ada Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JRmBXQWzVEg",
-      "ytDuration": 256
+      "youtubeId": "lgY2lwBjMjk",
+      "ytDuration": 258
     },
     {
       "id": 1334904812,
       "title": "Setengah Hati",
       "artist": "Ada Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg",
-      "youtubeId": "cNOVn9qRRcc",
-      "ytDuration": 272
+      "youtubeId": "gTk0AnY2d04",
+      "ytDuration": 275
     },
     {
       "id": 1345690162,
       "title": "Kepingan Hati",
       "artist": "ST12",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f500b49b5b86bf5e275db46af557ddf1/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ZK2NrK7s920",
-      "ytDuration": 436
-    },
-    {
-      "id": 1438361822,
-      "title": "Risalah Hati",
-      "artist": "Dewa 19",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/764647d986a02ad44bd2f1affe5cad6d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "J6i53rCB0y8",
-      "ytDuration": 294
+      "youtubeId": "5prksoVONHg",
+      "ytDuration": 254
     },
     {
       "id": 1595713711,
       "title": "Putih Putih Melati",
       "artist": "ST12",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg",
-      "youtubeId": "HHd5pmvQ6JA",
-      "ytDuration": 154
+      "youtubeId": "v7ApCyWNR7I",
+      "ytDuration": 156
     },
     {
       "id": 1595713721,
@@ -1404,40 +1732,32 @@
       "title": "Haruskah",
       "artist": "ST12",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d677ad40b6d30267568ebb3dc66d73cd/250x250-000000-80-0-0.jpg",
-      "youtubeId": "obJf1BwVu4U",
-      "ytDuration": 250
+      "youtubeId": "kK0MTKDLa0I",
+      "ytDuration": 251
     },
     {
       "id": 1598998482,
       "title": "Salam Terakhir",
       "artist": "ST12",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d677ad40b6d30267568ebb3dc66d73cd/250x250-000000-80-0-0.jpg",
-      "youtubeId": "xW7H4LqF__I",
+      "youtubeId": "D_EV0GVzIPo",
       "ytDuration": 378
     },
     {
-      "id": 1599345432,
-      "title": "My Facebook",
-      "artist": "Gigi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9372ff400c7b522175584239e3aff13f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "3EIgDYCCrCY",
-      "ytDuration": 291
-    },
-    {
-      "id": 1599345462,
-      "title": "Ya.. Ya.. Ya..",
-      "artist": "Gigi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9372ff400c7b522175584239e3aff13f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "eamqt8Nu9SQ",
-      "ytDuration": 241
+      "id": 1697351967,
+      "title": "Where Is The Love?",
+      "artist": "The Black Eyed Peas",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0e4b70f9985801a0acbcef1782bd18eb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "jRtzg7JAxzk",
+      "ytDuration": 273
     },
     {
       "id": 1734597317,
       "title": "Awas Jatuh Cinta",
       "artist": "Armada",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b2080dcaec27193d240a628f29ac145f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "gR5I408_tCc",
-      "ytDuration": 386
+      "youtubeId": "hcMcN8Ntnt4",
+      "ytDuration": 261
     },
     {
       "id": 1914507607,
@@ -1448,20 +1768,28 @@
       "ytDuration": 206
     },
     {
+      "id": 2105158337,
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/98610629a40996b61b3d24bd5ab8c2e1/250x250-000000-80-0-0.jpg",
+      "youtubeId": "njoGuCFbjc8",
+      "ytDuration": 200
+    },
+    {
       "id": 2202433877,
       "title": "Sabda Alam",
       "artist": "Chrisye",
       "cover": "https://cdn-images.dzcdn.net/images/cover/462c7e26b252ab95ccb198273bc507b5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "K9CsvtaRaOg",
-      "ytDuration": 292
+      "youtubeId": "eGyl5JN2xn0",
+      "ytDuration": 371
     },
     {
       "id": 2202433887,
       "title": "Seindah Rembulan",
       "artist": "Chrisye",
       "cover": "https://cdn-images.dzcdn.net/images/cover/462c7e26b252ab95ccb198273bc507b5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "vxofWCiEZME",
-      "ytDuration": 207
+      "youtubeId": "Uih2GBUJ69Q",
+      "ytDuration": 202
     },
     {
       "id": 2298311485,
@@ -1484,32 +1812,72 @@
       "title": "Doa Suciku",
       "artist": "Koes Plus",
       "cover": "https://cdn-images.dzcdn.net/images/cover/522e8c6103169c82d1120831f9ed5e97/250x250-000000-80-0-0.jpg",
-      "youtubeId": "f_ydj5bpSCk",
-      "ytDuration": 172
+      "youtubeId": "vdaYsQ1q4iw",
+      "ytDuration": 178
     },
     {
       "id": 2338259125,
       "title": "Get Loose",
       "artist": "Agnez Mo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/56bd9176f19cfdcf5a0afc3d28692832/250x250-000000-80-0-0.jpg",
-      "youtubeId": "wR93L06f_tQ",
-      "ytDuration": 186
+      "youtubeId": "Btx4-TVL4Eg",
+      "ytDuration": 148
     },
     {
-      "id": 2377021875,
-      "title": "Things Will Get Better",
+      "id": 2377021805,
+      "title": "Hide and Seek",
       "artist": "Agnez Mo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg",
-      "youtubeId": "fVzrxdO7uFU",
-      "ytDuration": 246
+      "youtubeId": "ghDi7CmiiYE",
+      "ytDuration": 227
     },
     {
-      "id": 2377021895,
-      "title": "Let's Fall in Love Again",
+      "id": 2377021815,
+      "title": "Walk",
       "artist": "Agnez Mo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg",
-      "youtubeId": "eDzP8x48dkY",
-      "ytDuration": 196
+      "youtubeId": "w6KR8XzZYmU",
+      "ytDuration": 199
+    },
+    {
+      "id": 2377021835,
+      "title": "Be Brave",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg",
+      "youtubeId": "H1lJrQaGIQc",
+      "ytDuration": 228
+    },
+    {
+      "id": 2377021845,
+      "title": "Flyin' High",
+      "artist": "Agnez Mo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/aca18662cb46453d4cdfd93cae6affae/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Ak13h2pE788",
+      "ytDuration": 172
+    },
+    {
+      "id": 2476380351,
+      "title": "Ada",
+      "artist": "Lyodra",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a16dc512d89bc10a3e167e27e10b982d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "7gVl8v8sNW0",
+      "ytDuration": 211
+    },
+    {
+      "id": 2476380351,
+      "title": "Ada",
+      "artist": "Lyodra",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a16dc512d89bc10a3e167e27e10b982d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "7gVl8v8sNW0",
+      "ytDuration": 211
+    },
+    {
+      "id": 2610711672,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ab1ae3011977aa3c7f0a5f025a99cac9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JrRVHDVCc0w",
+      "ytDuration": 181
     },
     {
       "id": 2613173232,
@@ -1524,8 +1892,40 @@
       "title": "Cinta Sampai Mati",
       "artist": "Kangen Band",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c06181f8cb7dc449c42b807b02595883/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Xt0pDDsdbzw",
-      "ytDuration": 231
+      "youtubeId": "lUysu565ZN4",
+      "ytDuration": 224
+    },
+    {
+      "id": 2743578151,
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e3221287a77eb262944e6528766eeba4/250x250-000000-80-0-0.jpg",
+      "youtubeId": "eVli-tstM5E",
+      "ytDuration": 201
+    },
+    {
+      "id": 2801558052,
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "jPjRXPFvlVQ",
+      "ytDuration": 211
+    },
+    {
+      "id": 2947516331,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "FG9pT0J47pA",
+      "ytDuration": 250
+    },
+    {
+      "id": 2947516331,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "FG9pT0J47pA",
+      "ytDuration": 250
     },
     {
       "id": 2980529391,
@@ -1536,36 +1936,36 @@
       "ytDuration": 173
     },
     {
-      "id": 3045767031,
-      "title": "Satu Satu (2024 Remastered)",
+      "id": 3045767011,
+      "title": "Orang Gila (2024 Remastered)",
       "artist": "Iwan Fals",
       "cover": "https://cdn-images.dzcdn.net/images/cover/14987bed5d84f1a89eb0fa81c64bcd79/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ZUqBLDIWVZg",
-      "ytDuration": 278
+      "youtubeId": "R91nvX3P2UA",
+      "ytDuration": 335
     },
     {
-      "id": 3045767081,
-      "title": "Menunggu Ditimbang Malah Muntah (2024 Remastered)",
-      "artist": "Iwan Fals",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/14987bed5d84f1a89eb0fa81c64bcd79/250x250-000000-80-0-0.jpg",
-      "youtubeId": "gUG5_btn-Kc",
-      "ytDuration": 406
+      "id": 3050380851,
+      "title": "APT.",
+      "artist": "ROSÉ",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/258e6042338ce64bb4157c0c94b232ac/250x250-000000-80-0-0.jpg",
+      "youtubeId": "gQEfr1_Bmdo",
+      "ytDuration": 170
+    },
+    {
+      "id": 3062096861,
+      "title": "Nusantara",
+      "artist": "Koes Plus",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/084e7ee71f9187a80dae309bdbd7d594/250x250-000000-80-0-0.jpg",
+      "youtubeId": "rjFGcPdZm2w",
+      "ytDuration": 156
     },
     {
       "id": 3220478301,
       "title": "Terima Kasih Cinta",
       "artist": "Afgan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0f9a990bdefcadd4e1bc197f90064e04/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Hr0AAqHLLSg",
-      "ytDuration": 248
-    },
-    {
-      "id": 3220478361,
-      "title": "Sadis",
-      "artist": "Afgan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0f9a990bdefcadd4e1bc197f90064e04/250x250-000000-80-0-0.jpg",
-      "youtubeId": "f45peONgdIY",
-      "ytDuration": 202
+      "youtubeId": "1vmRQ7SVv7o",
+      "ytDuration": 250
     },
     {
       "id": 3222902181,
@@ -1580,63 +1980,63 @@
       "title": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/daf7680474bc351aeb8cc30ed8231649/250x250-000000-80-0-0.jpg",
-      "youtubeId": "a_QUsz48A-o",
-      "ytDuration": 266
+      "youtubeId": "ayccfa3ORVk",
+      "ytDuration": 259
     },
     {
       "id": 3450210911,
       "title": "Dreams (2018 Remaster)",
       "artist": "Fleetwood Mac",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3727c332d6fc4bba65e4954d2c3bf925/250x250-000000-80-0-0.jpg",
-      "youtubeId": "mrZRURcb1cM",
-      "ytDuration": 254
+      "youtubeId": "tt9e_guNhYA",
+      "ytDuration": 258
     },
     {
       "id": 3509628561,
       "title": "Rahasia Hati",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "DGPl2Ec9XnA",
-      "ytDuration": 334
+      "youtubeId": "KtcqE2UMNfM",
+      "ytDuration": 251
     },
     {
       "id": 3509628571,
       "title": "Sumpah Dan Cinta Matiku",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "fqS4yJEX1IA",
-      "ytDuration": 290
+      "youtubeId": "Qte9NkNcCtM",
+      "ytDuration": 286
     },
     {
       "id": 3509628581,
       "title": "Hapus Aku",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "s1J6kVH188I",
-      "ytDuration": 254
+      "youtubeId": "u6Q_ysurHew",
+      "ytDuration": 253
     },
     {
       "id": 3509628591,
       "title": "Jangan Lupakan",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "SOHwryNMIRI",
-      "ytDuration": 286
+      "youtubeId": "cGgfpsfxHB8",
+      "ytDuration": 288
     },
     {
       "id": 3509628631,
       "title": "Biarlah",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "x_AsDhZiTTQ",
-      "ytDuration": 233
+      "youtubeId": "2AK424fWxDs",
+      "ytDuration": 239
     },
     {
       "id": 3509628641,
       "title": "Bila Aku Jatuh Cinta",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "0bbp4YEdpyo",
+      "youtubeId": "JUPsYXEJ5I8",
       "ytDuration": 240
     },
     {
@@ -1644,16 +2044,16 @@
       "title": "Arti Sahabat",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "MoSrT0JbcZQ",
-      "ytDuration": 266
+      "youtubeId": "uY4r7Q0SWzg",
+      "ytDuration": 248
     },
     {
       "id": 3509628671,
       "title": "Laskar Pelangi",
       "artist": "Nidji",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9999b1663ee0589eb9d4c4d81f30ce5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "fO1iJqBdXrc",
-      "ytDuration": 225
+      "youtubeId": "OthSgKuDi8I",
+      "ytDuration": 231
     },
     {
       "id": 3510120421,
@@ -1662,6 +2062,14 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
       "youtubeId": "FSvOw6lZ7Hs",
       "ytDuration": 295
+    },
+    {
+      "id": 3510120431,
+      "title": "Rindu Tebal",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "bj80KfeLW3g",
+      "ytDuration": 222
     },
     {
       "id": 3510120441,
@@ -1680,6 +2088,14 @@
       "ytDuration": 310
     },
     {
+      "id": 3510120461,
+      "title": "Nak",
+      "artist": "Iwan Fals",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c9cc9b9466e07677b69f0f9e04ea915/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1AxICwdI87w",
+      "ytDuration": 159
+    },
+    {
       "id": 3510120481,
       "title": "Maaf Cintaku",
       "artist": "Iwan Fals",
@@ -1696,28 +2112,44 @@
       "ytDuration": 472
     },
     {
-      "id": 3546114631,
-      "title": "Putus Atau Terus",
+      "id": 3513039721,
+      "title": "Tenang",
       "artist": "Judika",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a907ac7562e9a9c2a58373c9d67ea8bb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "47SpkXg_sYY",
-      "ytDuration": 263
+      "cover": "https://cdn-images.dzcdn.net/images/cover/32eac640d6bcfbab8843c7394c3f60db/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1XZiECettw8",
+      "ytDuration": 298
     },
     {
-      "id": 3628668582,
-      "title": "Ego",
+      "id": 3784299292,
+      "title": "Berbalik Arah",
       "artist": "Padi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1600a560e3cd012705a03f02d1a7e1e9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "E96tsVunWaw",
-      "ytDuration": 312
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e66f3b8ac7b9ce3ce589e2756e1ce000/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Uimfhpp-lHs",
+      "ytDuration": 352
+    },
+    {
+      "id": 3784299352,
+      "title": "Punah",
+      "artist": "Padi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e66f3b8ac7b9ce3ce589e2756e1ce000/250x250-000000-80-0-0.jpg",
+      "youtubeId": "YDZ0RUzOVN4",
+      "ytDuration": 273
     },
     {
       "id": 3810912242,
       "title": "Bukan Cinta Biasa",
       "artist": "Afgan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b73f7bf1c61c7c4b5448631029ff59a5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "nshdkoeu_fY",
-      "ytDuration": 259
+      "youtubeId": "x32MH5RLPRw",
+      "ytDuration": 252
+    },
+    {
+      "id": 3892381741,
+      "title": "California Gurls",
+      "artist": "Katy Perry",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11d43ee0b1fe44d8fb028bbf2d2d33ea/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9v3a9K55KIE",
+      "ytDuration": 234
     },
     {
       "id": 3991205561,
@@ -1768,14 +2200,6 @@
       "ytDuration": 269
     },
     {
-      "id": 3991206581,
-      "title": "Seperti Yang Dulu",
-      "artist": "Ungu",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0046e02707bc297d8a0344d467351d1a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ZRhVlI5x9W4",
-      "ytDuration": 258
-    },
-    {
       "id": 3991213651,
       "title": "Kekasih Gelapku",
       "artist": "Ungu",
@@ -1788,16 +2212,16 @@
       "title": "Sekali Ini Saja",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/787a095b4e9e787e3460cf9c31eab0cf/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ohcZzFVIJfs",
-      "ytDuration": 239
+      "youtubeId": "gY2joaPFEk4",
+      "ytDuration": 203
     },
     {
       "id": 4044645431,
       "title": "Lupakan Cinta",
       "artist": "Rossa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/796d77203b0e1a7d0dbd6b306d2c1645/250x250-000000-80-0-0.jpg",
-      "youtubeId": "E_T3CYFzzLQ",
-      "ytDuration": 227
+      "youtubeId": "krzr6_pcum8",
+      "ytDuration": 229
     }
   ]
 }

@@ -4,13 +4,11 @@ import { searchTracks, type Suggestion } from '../lib/deezer'
 type Props = {
   disabled?: boolean
   onGuess: (track: Suggestion) => void
-  onSkip: () => void
-  skipLabel: string
 }
 
 const DEBOUNCE_MS = 320
 
-export function GuessInput({ disabled, onGuess, onSkip, skipLabel }: Props) {
+export function GuessInput({ disabled, onGuess }: Props) {
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<Suggestion[]>([])
   const [highlight, setHighlight] = useState(0)
@@ -119,14 +117,6 @@ export function GuessInput({ disabled, onGuess, onSkip, skipLabel }: Props) {
         )}
       </div>
 
-      <button
-        type="button"
-        onClick={onSkip}
-        disabled={disabled}
-        className="mt-3 w-full rounded-xl border border-white/10 py-3 text-sm text-white/70 transition hover:bg-white/5 disabled:opacity-40"
-      >
-        {skipLabel}
-      </button>
     </div>
   )
 }

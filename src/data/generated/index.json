@@ -4,15 +4,15 @@
       "id": "indo-pop",
       "title": "Pop Indonesia",
       "emoji": "🇮🇩",
-      "count": 163,
-      "introCount": 160
+      "count": 165,
+      "introCount": 149
     },
     {
       "id": "indo-kekinian",
       "title": "Indo Kekinian",
       "emoji": "✨",
-      "count": 194,
-      "introCount": 1
+      "count": 196,
+      "introCount": 3
     },
     {
       "id": "dangdut",
@@ -25,8 +25,8 @@
       "id": "global-hits",
       "title": "Global Hits",
       "emoji": "🌍",
-      "count": 472,
-      "introCount": 15
+      "count": 488,
+      "introCount": 40
     },
     {
       "id": "legendaris",
@@ -40,14 +40,14 @@
       "title": "Barat 2000-an",
       "emoji": "📀",
       "count": 158,
-      "introCount": 18
+      "introCount": 55
     },
     {
       "id": "rock",
       "title": "Rock",
       "emoji": "🎸",
-      "count": 189,
-      "introCount": 40
+      "count": 190,
+      "introCount": 36
     },
     {
       "id": "kpop",
@@ -61,9 +61,9 @@
     "id": "daily-pool",
     "title": "Tantangan Harian",
     "emoji": "📅",
-    "count": 224,
-    "introCount": 224,
+    "count": 277,
+    "introCount": 277,
     "bothModes": true,
-    "scheduledDays": 404
+    "scheduledDays": 406
   }
 }

@@ -19,7 +19,7 @@
 
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { api, normalize } from './lib/deezer.mjs'
-import { oembed, videoDurations } from './lib/youtube.mjs'
+import { describesTrack, oembed, videoDurations } from './lib/youtube.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
 const SEED_FILE = new URL('./youtube-seed.json', import.meta.url)
@@ -57,19 +57,6 @@ function findTrack({ artist, title }) {
   return matches.find((t) => !t.youtubeId) ?? matches[0] ?? null
 }
 
-/**
- * Does the video's own title and channel name the song we asked for? Uploaders
- * decorate titles freely ("(Official Video) [4K]"), so this only insists the
- * song title appears somewhere and that the artist shows up in title or channel.
- */
-function describesTrack(info, { artist, title }) {
-  // Normalised but NOT bracket-stripped: uploaders put the artist after the
-  // decoration ("Faint (Official Music Video) [4K UPGRADE] – Linkin Park"), so
-  // cutting at the first bracket would throw away the very name being checked.
-  const haystack = normalize(`${info.title} ${info.author_name}`)
-  return haystack.includes(key(title)) && haystack.includes(key(artist))
-}
-
 const accepted = []
 const rejected = []
 
@@ -92,7 +79,7 @@ for (const candidate of candidates) {
     rejected.push(`${label}: ${videoId} is not embeddable`)
     continue
   }
-  if (!describesTrack(info, candidate)) {
+  if (!describesTrack({ title: info.title, channel: info.author_name }, candidate)) {
     rejected.push(`${label}: ${videoId} is "${info.title}" [${info.author_name}]`)
     continue
   }

@@ -11,6 +11,21 @@ export type ClipPlayer = {
   load: (source: string, expectedDuration?: number) => void
   /** Plays the opening `seconds` of the clip, then stops. */
   play: (seconds: number) => void
+  /**
+   * Lets a clip that is already playing run on to a longer limit, without
+   * restarting it. Skipping mid-clip unlocks more of the song, and cutting the
+   * audio off at the old boundary only to make the player press play again
+   * would be a worse way to deliver the thing they just earned. No-op when
+   * nothing is playing, or when the new limit isn't longer.
+   */
+  extend: (seconds: number) => void
+  /**
+   * Moves the playhead. The caller is responsible for keeping `seconds` inside
+   * what the player has unlocked — seeking past that would hand them song they
+   * haven't earned. A clip that is playing carries on from the new point and
+   * still stops at its limit; one that is paused resumes from here on next play.
+   */
+  seek: (seconds: number) => void
   /** Plays the clip in full, used after the answer is revealed. */
   playFull: () => void
   stop: () => void

@@ -109,6 +109,12 @@ export function useYouTubeClip(): YouTubeClipPlayer {
   const frameRef = useRef<number | null>(null)
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
   const probeRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+  // The running clip's stop point, re-read every frame so extend() can move it
+  // mid-playback. Null when no staged clip is running.
+  const limitRef = useRef<number | null>(null)
+  const finishRef = useRef<(() => void) | null>(null)
+  // Where the next play should start, moved by seek() and reset when a clip ends.
+  const headRef = useRef(0)
   const primingRef = useRef(false)
   // The video this round wants, and how long it should run. Kept (not cleared on
   // use) so that rebuilding the player — after a mode switch or a dismissed
@@ -167,9 +173,41 @@ export function useYouTubeClip(): YouTubeClipPlayer {
     } catch {
       // Player torn down mid-call; nothing to stop.
     }
+    limitRef.current = null
+    finishRef.current = null
+    headRef.current = 0
     setIsPlaying(false)
     setPosition(0)
   }, [clearTimers])
+
+  const seek = useCallback((seconds: number) => {
+    const player = playerRef.current
+    if (!player) return
+    const target = Math.max(0, seconds)
+    headRef.current = target
+    try {
+      player.seekTo(target, true)
+    } catch {
+      // Player torn down; the head still holds for the next play.
+    }
+    setPosition(target)
+  }, [])
+
+  const extend = useCallback((seconds: number) => {
+    const player = playerRef.current
+    const current = limitRef.current
+    if (!player || current === null || seconds <= current) return
+
+    limitRef.current = seconds
+    if (timerRef.current !== null) clearTimeout(timerRef.current)
+    let played = 0
+    try {
+      played = player.getCurrentTime()
+    } catch {
+      // Player torn down; the watcher will finish on its own next frame.
+    }
+    timerRef.current = setTimeout(() => finishRef.current?.(), Math.max(0, seconds - played) * 1000 + 400)
+  }, [])
 
   /**
    * Buffers a video and parks it at 0:00 so the next play starts promptly.
@@ -333,6 +371,7 @@ export function useYouTubeClip(): YouTubeClipPlayer {
       setPosition(0)
       setIsReady(false)
       setBlocked(false)
+      headRef.current = 0
       currentVideoRef.current = videoId
       expectedRef.current = expectedDuration ?? null
 
@@ -372,7 +411,9 @@ export function useYouTubeClip(): YouTubeClipPlayer {
       }
 
       try {
-        player.seekTo(0, true)
+        // A head at or past the limit means the clip already ran out, so play
+        // starts it over rather than resuming at the finish line.
+        player.seekTo(seconds !== null && headRef.current >= seconds ? 0 : headRef.current, true)
         player.unMute()
         player.playVideo()
       } catch {
@@ -380,9 +421,13 @@ export function useYouTubeClip(): YouTubeClipPlayer {
         return
       }
       setIsPlaying(true)
+      limitRef.current = seconds
 
       const finish = () => {
         clearTimers()
+        limitRef.current = null
+        finishRef.current = null
+        headRef.current = 0
         try {
           player.pauseVideo()
           player.seekTo(0, true)
@@ -392,6 +437,7 @@ export function useYouTubeClip(): YouTubeClipPlayer {
         setIsPlaying(false)
         setPosition(0)
       }
+      finishRef.current = finish
 
       const watch = () => {
         // An ad that starts once playback is under way would otherwise drive the
@@ -410,7 +456,7 @@ export function useYouTubeClip(): YouTubeClipPlayer {
           finish()
           return
         }
-        if (seconds !== null && current >= seconds) {
+        if (seconds !== null && current >= (limitRef.current ?? seconds)) {
           finish()
           return
         }
@@ -434,6 +480,8 @@ export function useYouTubeClip(): YouTubeClipPlayer {
     containerRef,
     load,
     play,
+    extend,
+    seek,
     playFull,
     stop,
     isPlaying,

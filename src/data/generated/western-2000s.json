@@ -6,34 +6,40 @@
       "id": 2947516331,
       "title": "Die With A Smile",
       "artist": "Lady Gaga",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "FG9pT0J47pA",
+      "ytDuration": 250
     },
     {
       "id": 925108,
       "title": "Don't Stop The Music",
       "artist": "Rihanna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wegIc-y81KM",
+      "ytDuration": 268
     },
     {
       "id": 14525574,
       "title": "We Found Love (Album Version)",
       "artist": "Rihanna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5199f89d5113a83b5086463d5d0c9415/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5199f89d5113a83b5086463d5d0c9415/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EYevdq3Li8I",
+      "ytDuration": 216
     },
     {
       "id": 676183,
       "title": "In the End",
       "artist": "Linkin Park",
       "cover": "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "eVTXPUF4Oz4",
-      "ytDuration": 219
+      "youtubeId": "0JE6jrD-Vvk",
+      "ytDuration": 217
     },
     {
       "id": 1109731,
       "title": "Lose Yourself",
       "artist": "Eminem",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "_Yhyp-_hX2s",
+      "youtubeId": "BETUM7WsWjE",
       "ytDuration": 324
     },
     {
@@ -41,8 +47,8 @@
       "title": "Numb",
       "artist": "Linkin Park",
       "cover": "https://cdn-images.dzcdn.net/images/cover/44df4f6fb2534768f4924365c103d0f7/250x250-000000-80-0-0.jpg",
-      "youtubeId": "kXYiU_JCYtU",
-      "ytDuration": 188
+      "youtubeId": "2n4NWZqXGaw",
+      "ytDuration": 187
     },
     {
       "id": 71645432,
@@ -54,37 +60,49 @@
       "id": 17135114,
       "title": "The One That Got Away",
       "artist": "Katy Perry",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "lbaVbgbeKaI",
+      "ytDuration": 228
     },
     {
       "id": 123883254,
       "title": "This Is What You Came For",
       "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zCh4jIWOKrI",
+      "ytDuration": 222
     },
     {
       "id": 561856742,
       "title": "Shallow",
       "artist": "Lady Gaga",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/88a8288e14f61ffa39c14ac2ef9210d8/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88a8288e14f61ffa39c14ac2ef9210d8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "bo_efYhYU2A",
+      "ytDuration": 217
     },
     {
       "id": 13529563,
       "title": "Only Girl (In The World)",
       "artist": "Rihanna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/250x250-000000-80-0-0.jpg",
+      "youtubeId": "aqewRNer6nE",
+      "ytDuration": 235
     },
     {
       "id": 1109739,
       "title": "Mockingbird",
       "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "ZcT4hPSS-6M",
+      "ytDuration": 251
     },
     {
       "id": 916424,
       "title": "Without Me",
       "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+      "youtubeId": "IcW7s5sryUc",
+      "ytDuration": 289
     },
     {
       "id": 3214169391,
@@ -97,8 +115,8 @@
       "title": "Umbrella",
       "artist": "Rihanna",
       "cover": "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CvBfHwUxHIk",
-      "ytDuration": 255
+      "youtubeId": "KFGHQ5GaKnA",
+      "ytDuration": 275
     },
     {
       "id": 62376291,
@@ -111,14 +129,16 @@
       "title": "...Baby One More Time",
       "artist": "Britney Spears",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f685d32254a59b6162be0d1082ff8805/250x250-000000-80-0-0.jpg",
-      "youtubeId": "C-u5WLJ9Yk4",
-      "ytDuration": 237
+      "youtubeId": "ix5IDxzE42A",
+      "ytDuration": 210
     },
     {
       "id": 60978718,
       "title": "Diamonds",
       "artist": "Rihanna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a1b2457fcd12bb9ed5488e4bbd01ec25/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a1b2457fcd12bb9ed5488e4bbd01ec25/250x250-000000-80-0-0.jpg",
+      "youtubeId": "yN-GMJt0kKQ",
+      "ytDuration": 225
     },
     {
       "id": 3537990861,
@@ -130,14 +150,16 @@
       "id": 17135109,
       "title": "Last Friday Night (T.G.I.F.)",
       "artist": "Katy Perry",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "KlyXNRrsk4A",
+      "ytDuration": 485
     },
     {
       "id": 3157972,
       "title": "Viva La Vida",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/eede3cd0dc3a5a87c7a5b1085b022e2d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dvgZkm1xWPE",
+      "youtubeId": "U0P-EGP-q-w",
       "ytDuration": 243
     },
     {
@@ -157,42 +179,48 @@
       "title": "The Scientist",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg",
-      "youtubeId": "RB-RcX5DS5A",
-      "ytDuration": 266
+      "youtubeId": "PfFXr-nlzVM",
+      "ytDuration": 310
     },
     {
       "id": 3128096,
       "title": "Yellow",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/970dce98eeea6729244c0ae71707a83d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "yKNxeF4KMsY",
-      "ytDuration": 273
+      "youtubeId": "ViPGYiTSs0M",
+      "ytDuration": 267
     },
     {
       "id": 14628999,
       "title": "Faint",
       "artist": "Linkin Park",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nD06PvZVw-I",
+      "ytDuration": 163
     },
     {
       "id": 1109737,
       "title": "The Real Slim Shady",
       "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hZ5EdgT65JQ",
+      "ytDuration": 285
     },
     {
       "id": 114811546,
       "title": "Hymn for the Weekend",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5df065fdcbaffd0f83d09789bad9d2db/250x250-000000-80-0-0.jpg",
-      "youtubeId": "YykjpeuMNEk",
-      "ytDuration": 261
+      "youtubeId": "SAJtWlUYjtc",
+      "ytDuration": 258
     },
     {
       "id": 6461440,
       "title": "Love The Way You Lie",
       "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg",
+      "youtubeId": "GL9IrfmNJe0",
+      "ytDuration": 264
     },
     {
       "id": 2658723742,
@@ -201,30 +229,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e50407841497a26457036110eab49f1b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 17135110,
-      "title": "California Gurls",
-      "artist": "Katy Perry",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/99578b0bb8c838383c414a5b62b5e15d/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 14299589,
       "title": "Paradise",
       "artist": "Coldplay",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e0dd8263dfed37c50a868abbf65fd7da/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0dd8263dfed37c50a868abbf65fd7da/250x250-000000-80-0-0.jpg",
+      "youtubeId": "3QNl4cMxFXI",
+      "ytDuration": 278
     },
     {
       "id": 71645431,
       "title": "Roar",
       "artist": "Katy Perry",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fe781ecd9879a82beed80f6d3e80745b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "CevxZvSJLk8",
-      "ytDuration": 270
+      "youtubeId": "uKDGXXSW5Eg",
+      "ytDuration": 223
     },
     {
       "id": 676847,
       "title": "What I've Done",
       "artist": "Linkin Park",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2dd699adcd68089f49f3ab558a2bd296/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2dd699adcd68089f49f3ab558a2bd296/250x250-000000-80-0-0.jpg",
+      "youtubeId": "UzjltM2qv_0",
+      "ytDuration": 206
     },
     {
       "id": 7375556,
@@ -236,25 +262,33 @@
       "id": 14628995,
       "title": "Somewhere I Belong",
       "artist": "Linkin Park",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/250x250-000000-80-0-0.jpg",
+      "youtubeId": "6oUSQ6HsqsU",
+      "ytDuration": 215
     },
     {
       "id": 38934641,
       "title": "Payphone",
       "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/81d7aae96ab55297abdfd5370f6b38a0/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/81d7aae96ab55297abdfd5370f6b38a0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "M_lwyt3eHe4",
+      "ytDuration": 233
     },
     {
       "id": 83124206,
       "title": "Animals",
       "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f7b886ae6d349bccfdb39ef827cab8e/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f7b886ae6d349bccfdb39ef827cab8e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "MxGWoPK2wcg",
+      "ytDuration": 231
     },
     {
       "id": 3098841,
       "title": "Clocks",
       "artist": "Coldplay",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg",
+      "youtubeId": "g9u9bE4dNOU",
+      "ytDuration": 307
     },
     {
       "id": 1764283667,
@@ -267,8 +301,8 @@
       "title": "Yeah! (feat. Lil Jon & Ludacris)",
       "artist": "USHER",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b89c20012cccb051c8a4e04d98386f95/250x250-000000-80-0-0.jpg",
-      "youtubeId": "GxBSyx85Kp8",
-      "ytDuration": 253
+      "youtubeId": "EHhmIDjENIg",
+      "ytDuration": 250
     },
     {
       "id": 1109730,
@@ -287,20 +321,24 @@
       "title": "Fix You",
       "artist": "Coldplay",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8a1a3e7c5e46b5f763328d95431ac19a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "k4V3Mo61fJM",
+      "youtubeId": "br87IW_c3Ac",
       "ytDuration": 294
     },
     {
       "id": 4709944,
       "title": "Telephone",
       "artist": "Lady Gaga",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EhXQS-7Jykk",
+      "ytDuration": 220
     },
     {
       "id": 4709950,
       "title": "Paparazzi",
       "artist": "Lady Gaga",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "yQLA4sb5EMg",
+      "ytDuration": 209
     },
     {
       "id": 4131547751,
@@ -312,15 +350,17 @@
       "id": 916829,
       "title": "Apologize",
       "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/565b424faee4bdc6e6db39db8d6fc333/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/565b424faee4bdc6e6db39db8d6fc333/250x250-000000-80-0-0.jpg",
+      "youtubeId": "5MM3qxg2edg",
+      "ytDuration": 206
     },
     {
       "id": 13141170,
       "title": "I Want It That Way",
       "artist": "Backstreet Boys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d61eaad8f321ea876a5f5c7219aae892/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4fndeDfaWCg",
-      "ytDuration": 220
+      "youtubeId": "cNQTxhM-h6s",
+      "ytDuration": 214
     },
     {
       "id": 72160317,
@@ -332,19 +372,25 @@
       "id": 142706538,
       "title": "Something Just Like This",
       "artist": "Coldplay",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4czFIlaCgYU",
+      "ytDuration": 245
     },
     {
       "id": 2447443,
       "title": "Dilemma",
       "artist": "Nelly",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/250x250-000000-80-0-0.jpg",
+      "youtubeId": "iupwbhxL1a0",
+      "ytDuration": 289
     },
     {
       "id": 676171,
       "title": "Crawling",
       "artist": "Linkin Park",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg",
+      "youtubeId": "NV4R5cnDB9E",
+      "ytDuration": 209
     },
     {
       "id": 15489383,
@@ -359,28 +405,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/76763b33422eb22b46ffa7c1d8bfe910/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 11747933,
+      "title": "Judas",
+      "artist": "Lady Gaga",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0f256c4bebac58a7c4122e0e639303a8/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 959183,
       "title": "Fallin'",
       "artist": "Alicia Keys",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d83318951e3899a096ed96c6fd422032/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4709938,
-      "title": "Alejandro",
-      "artist": "Lady Gaga",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/62f368993ddb68c5364cd03221d07ac6/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d83318951e3899a096ed96c6fd422032/250x250-000000-80-0-0.jpg",
+      "youtubeId": "tHo2FW3uPLo",
+      "ytDuration": 211
     },
     {
       "id": 61542462,
       "title": "Girl on Fire",
       "artist": "Alicia Keys",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/36c185941d3fd043ff9861d89040ba46/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36c185941d3fd043ff9861d89040ba46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "hpnoPpr92C4",
+      "ytDuration": 225
     },
     {
       "id": 82199332,
       "title": "Womanizer",
       "artist": "Britney Spears",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/16d60157d51a9e21ffac61b50a7d02d0/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/16d60157d51a9e21ffac61b50a7d02d0/250x250-000000-80-0-0.jpg",
+      "youtubeId": "b9npk-LAF4E",
+      "ytDuration": 223
     },
     {
       "id": 1400843202,
@@ -393,22 +445,16 @@
       "title": "No One",
       "artist": "Alicia Keys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9f3ff7c0514902ec94751360154f25b/250x250-000000-80-0-0.jpg",
-      "youtubeId": "rywUS-ohqeE",
-      "ytDuration": 249
+      "youtubeId": "x2NoEGq3754",
+      "ytDuration": 254
     },
     {
       "id": 629466,
       "title": "If I Ain't Got You",
       "artist": "Alicia Keys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cef30c1c2a5a63c773d26d56049c81e5/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Ju8Hr50Ckwk",
-      "ytDuration": 210
-    },
-    {
-      "id": 15597245,
-      "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
-      "artist": "USHER",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b5df072f3a995bb40c2f78f6c3e0fac7/250x250-000000-80-0-0.jpg"
+      "youtubeId": "_jXfgPSf4Yo",
+      "ytDuration": 228
     },
     {
       "id": 4619463,
@@ -421,14 +467,22 @@
       "title": "Complicated",
       "artist": "Avril Lavigne",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/250x250-000000-80-0-0.jpg",
-      "youtubeId": "5NPBIwQyPWE",
-      "ytDuration": 254
+      "youtubeId": "cg20IRwtu18",
+      "ytDuration": 245
+    },
+    {
+      "id": 677219,
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/44df4f6fb2534768f4924365c103d0f7/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 969494,
       "title": "Cry Me a River",
       "artist": "Justin Timberlake",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7cba368fa8466d72d149264577cb19d7/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7cba368fa8466d72d149264577cb19d7/250x250-000000-80-0-0.jpg",
+      "youtubeId": "DfKD9pDfRNc",
+      "ytDuration": 288
     },
     {
       "id": 565131,
@@ -443,12 +497,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9068f5d64721a5abf79636de39e3d58b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 13142617,
-      "title": "Oops!...I Did It Again",
-      "artist": "Britney Spears",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2ee378abaa92e28306850b4b0efe2f03/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 15608663,
       "title": "Everybody (Backstreet's Back) (Radio Edit)",
       "artist": "Backstreet Boys",
@@ -458,13 +506,17 @@
       "id": 1165303,
       "title": "She Will Be Loved",
       "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zd4hI1GLvas",
+      "ytDuration": 258
     },
     {
       "id": 1697351967,
       "title": "Where Is The Love?",
       "artist": "The Black Eyed Peas",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0e4b70f9985801a0acbcef1782bd18eb/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0e4b70f9985801a0acbcef1782bd18eb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "jRtzg7JAxzk",
+      "ytDuration": 273
     },
     {
       "id": 44230981,
@@ -494,19 +546,31 @@
       "id": 1165301,
       "title": "This Love",
       "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/39fe38574c7af3181d1e56ad7c03fce3/250x250-000000-80-0-0.jpg",
+      "youtubeId": "aqB77l-fvpw",
+      "ytDuration": 206
     },
     {
       "id": 14241633,
       "title": "Stronger (What Doesn't Kill You)",
       "artist": "Kelly Clarkson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/790f5653c73d01fe3bd55d2990ee3db6/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/790f5653c73d01fe3bd55d2990ee3db6/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9p41pzw10iY",
+      "ytDuration": 221
+    },
+    {
+      "id": 4129124721,
+      "title": "Leave Me Behind",
+      "artist": "Nickelback",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c703df579523d56edef50b19c0715c59/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 65356224,
       "title": "Mirrors",
       "artist": "Justin Timberlake",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f409c33ab781a565ab46f06ba3415a31/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f409c33ab781a565ab46f06ba3415a31/250x250-000000-80-0-0.jpg",
+      "youtubeId": "mFpqyuq3MVo",
+      "ytDuration": 484
     },
     {
       "id": 669486722,
@@ -515,16 +579,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4d45ee37ae8c1f8e7201d1d1d9d7c839/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1842063487,
-      "title": "CUFF IT",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c3e2a951678a28a3f541a69c866583d4/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 10287270,
       "title": "Criminal",
       "artist": "Britney Spears",
       "cover": "https://cdn-images.dzcdn.net/images/cover/be502f78a0b035b5a8f366d2f26d080c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4619462,
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ea30377840f4ef9ac62406c5e16e9c4b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4761593,
@@ -563,10 +627,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/be502f78a0b035b5a8f366d2f26d080c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1879746947,
-      "title": "Hold Me Closer",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e899057a79bfe5b111c79159cf89b821/250x250-000000-80-0-0.jpg"
+      "id": 2292149325,
+      "title": "RUNAWAY",
+      "artist": "OneRepublic",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/53c89d9d8dcbe63e6eb9dd2597fb6959/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 990604232,
@@ -623,22 +687,36 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a3b50e2c23bbffb1428aceee83f2effc/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3840037991,
-      "title": "Give Me Something (for Arknights Endfield)",
-      "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9d57ff979b499204cdccdf5fdccb56a4/250x250-000000-80-0-0.jpg"
+      "id": 72569034,
+      "title": "Work Bitch",
+      "artist": "Britney Spears",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d1a4a86f6841de681aa8fd329656c4fc/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1364016952,
-      "title": "Run",
-      "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3a8e28a5dbf341cc35e63533b9c0d381/250x250-000000-80-0-0.jpg"
+      "id": 62118993,
+      "title": "Since U Been Gone",
+      "artist": "Kelly Clarkson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4e96bc714cb67543de9b30461a2de88e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 15597227,
       "title": "OMG (feat. will.i.am)",
       "artist": "USHER",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f1aa5306342e4098b0cc8328bff78b75/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2447436,
+      "title": "Hot In Herre",
+      "artist": "Nelly",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4311360,
+      "title": "Halo",
+      "artist": "Beyoncé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
+      "youtubeId": "98HY6IWu4wg",
+      "ytDuration": 262
     },
     {
       "id": 3412535111,
@@ -653,30 +731,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1130d6301d5e87976279ea2f706fcc26/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 565134,
-      "title": "Summer Love",
-      "artist": "Justin Timberlake",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9d629455f0bfad0de744182df2549b5b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4311360,
-      "title": "Halo",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
-      "youtubeId": "bnVUHWCynig",
-      "ytDuration": 225
-    },
-    {
       "id": 477008492,
       "title": "I'm Just a Kid",
       "artist": "Simple Plan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a7d40c947c9e12707967aacf6822e75b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 78527813,
-      "title": "If I Lose Myself (Alesso vs OneRepublic)",
+      "id": 3840037991,
+      "title": "Give Me Something (for Arknights Endfield)",
       "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/63bb716faf92942d967f5c053fc8720c/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9d57ff979b499204cdccdf5fdccb56a4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4051720391,
@@ -691,10 +755,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7192369759eb6901c04dc45aa6426112/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2447436,
-      "title": "Hot In Herre",
-      "artist": "Nelly",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/632fa55096ecab62a0c2556fa9e958c1/250x250-000000-80-0-0.jpg"
+      "id": 5425214,
+      "title": "Secrets",
+      "artist": "OneRepublic",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8b42c224852884f09af2aa0f44e71282/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3924276621,
+      "title": "Need Your Love",
+      "artist": "OneRepublic",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1c8ff59fa0c6d76cee8b90670f4cb314/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 15527509,
@@ -769,22 +839,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3e150c4bd64c9a0f2e2ccfa97dbe0936/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 107369616,
-      "title": "Moves Like Jagger",
-      "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c673f9397dd6eca59786537172af79df/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 71828738,
-      "title": "Animals",
-      "artist": "Nickelback",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bc844f574c47ba2f0db583115916472f/250x250-000000-80-0-0.jpg"
+      "id": 629463,
+      "title": "You Don't Know My Name",
+      "artist": "Alicia Keys",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cef30c1c2a5a63c773d26d56049c81e5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 606018,
       "title": "My Happy Ending",
       "artist": "Avril Lavigne",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a2415367827a13b3a47670998a5edc77/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 582254,
+      "title": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/34265ac018fe0d973eac131fe04038a2/250x250-000000-80-0-0.jpg",
+      "youtubeId": "VU8VzSCqyyQ",
+      "ytDuration": 211
     },
     {
       "id": 4274199,
@@ -823,22 +895,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a7d40c947c9e12707967aacf6822e75b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4678214,
-      "title": "My Place",
-      "artist": "Nelly",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4b021d0ef6fdc4bd5c97827065bac037/250x250-000000-80-0-0.jpg"
+      "id": 1842052087,
+      "title": "CUFF IT",
+      "artist": "Beyoncé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c3e2a951678a28a3f541a69c866583d4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3121836,
       "title": "Call On Me",
       "artist": "Janet Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/80b364b65b2d3271e19b06cacd647c17/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3363599241,
-      "title": "Heavy Is the Crown",
-      "artist": "Linkin Park",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/91043dc582be268d9f6aa3c8208f2b6c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 93029240,
@@ -853,12 +919,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4e96bc714cb67543de9b30461a2de88e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3658125,
-      "title": "Shut Up!",
-      "artist": "Simple Plan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2cbb404447884a04d378046ebb8c90cc/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3363599321,
       "title": "Up From the Bottom",
       "artist": "Linkin Park",
@@ -871,6 +931,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ce2a4077de90c1b5c9ce0f46321611a8/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4678214,
+      "title": "My Place",
+      "artist": "Nelly",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4b021d0ef6fdc4bd5c97827065bac037/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 846583,
       "title": "Take My Hand",
       "artist": "Simple Plan",
@@ -879,6 +945,12 @@
     {
       "id": 3658135,
       "title": "Untitled (How Could This Happen to Me?)",
+      "artist": "Simple Plan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2cbb404447884a04d378046ebb8c90cc/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3658125,
+      "title": "Shut Up!",
       "artist": "Simple Plan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2cbb404447884a04d378046ebb8c90cc/250x250-000000-80-0-0.jpg"
     },
@@ -913,6 +985,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b448b3ea65a447ea14a7bc0e6a0c6162/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 15597237,
+      "title": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artist": "USHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f1aa5306342e4098b0cc8328bff78b75/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3580261,
       "title": "Rockstar",
       "artist": "Nickelback",
@@ -925,12 +1003,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f3649b61f5418db4c51c726beac9964e/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 13113525,
+      "title": "Moves Like Jagger (Studio Recording From \"The Voice\" Performance)",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bab47018c958e2b9d313b9bb18180271/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 2796446,
       "title": "Single Ladies (Put a Ring on It) (Album Version)",
       "artist": "Beyoncé",
       "cover": "https://cdn-images.dzcdn.net/images/cover/16ebb61d676b820efc64607798e97f1c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "4m1EFMoRFvY",
-      "ytDuration": 201
+      "youtubeId": "g6aVz5kxUBI",
+      "ytDuration": 193
     },
     {
       "id": 15626761,
@@ -939,22 +1023,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/438e2e737a239379ee4a52e4fb0cf675/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 13783465,
-      "title": "My Boo",
-      "artist": "USHER",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b89c20012cccb051c8a4e04d98386f95/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 13547559,
       "title": "Jet Lag (feat. Natasha Bedingfield)",
       "artist": "Simple Plan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1574de894eb94b512489473f2c15d1d2/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 850953132,
-      "title": "RITMO (Bad Boys For Life)",
-      "artist": "The Black Eyed Peas",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/180625c6398b4c09567ecc2dddc416c4/250x250-000000-80-0-0.jpg"
+      "id": 13783465,
+      "title": "My Boo",
+      "artist": "USHER",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b89c20012cccb051c8a4e04d98386f95/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 5638184,
@@ -963,10 +1041,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a7e36566b83689da998be02ddcbc854e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 10101569,
-      "title": "Since U Been Gone",
-      "artist": "Kelly Clarkson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d6275db691de713ae6dab53ec01f14db/250x250-000000-80-0-0.jpg"
+      "id": 1110615742,
+      "title": "Maps",
+      "artist": "Maroon 5",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dbbd166650b8df9781fd1909488aa73a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1094264012,
@@ -975,16 +1053,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8438a61b216c2c625da26b7b792480e3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3498057711,
-      "title": "RUNAWAY",
-      "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/905e49fc3b378b044fdb303bcc1afb43/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 100649458,
-      "title": "Maps",
-      "artist": "Maroon 5",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f7eec13bfada1d61dd95e4fc333b7bf6/250x250-000000-80-0-0.jpg"
+      "id": 3892381741,
+      "title": "California Gurls",
+      "artist": "Katy Perry",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/11d43ee0b1fe44d8fb028bbf2d2d33ea/250x250-000000-80-0-0.jpg",
+      "youtubeId": "9v3a9K55KIE",
+      "ytDuration": 234
     }
   ]
 }

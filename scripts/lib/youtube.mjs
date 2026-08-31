@@ -5,6 +5,11 @@
 //   - oEmbed needs no key and confirms a known id is real and embeddable
 // So search finds candidates and oEmbed vets them before they reach the game.
 
+import { normalize } from './deezer.mjs'
+
+/** Title with any "(Remastered 2011)" / "[4K]" decoration cut off, normalised. */
+const bare = (value) => normalize(String(value).replace(/\s*[([].*$/, ''))
+
 /**
  * Returns { title, author_name } for a video, or null when it can't be embedded
  * — wrong id, private, deleted, or embedding disabled by the uploader.
@@ -27,14 +32,16 @@ export async function oembed(videoId) {
 export class QuotaError extends Error {}
 
 /**
- * Searches for the official upload of a track. Each call costs 100 of the
- * default 10,000 daily quota units, so roughly 100 tracks map per day.
+ * Searches for uploads of a track. Each call costs 100 of the default 10,000
+ * daily quota units regardless of how many results it returns, so asking for
+ * several candidates instead of one is free — and necessary, because the first
+ * hit is usually the music video rather than the audio (see pickBestVideo).
  */
-export async function searchVideo(apiKey, { title, artist }) {
+export async function searchVideos(apiKey, { title, artist }, max = 5) {
   const q = `${artist} ${title} official audio`
   const url =
     'https://www.googleapis.com/youtube/v3/search?part=snippet&type=video' +
-    `&videoCategoryId=10&videoEmbeddable=true&maxResults=1&q=${encodeURIComponent(q)}&key=${apiKey}`
+    `&videoCategoryId=10&videoEmbeddable=true&maxResults=${max}&q=${encodeURIComponent(q)}&key=${apiKey}`
 
   const res = await fetch(url, { signal: AbortSignal.timeout(15000) })
 
@@ -52,10 +59,16 @@ export async function searchVideo(apiKey, { title, artist }) {
     throw new Error(`YouTube rejected the API key (${reason}): ${body.error?.message ?? ''}`)
   }
 
-  if (!res.ok) return null
+  if (!res.ok) return []
 
   const body = await res.json()
-  return body.items?.[0]?.id?.videoId ?? null
+  return (body.items ?? [])
+    .filter((item) => item.id?.videoId)
+    .map((item) => ({
+      videoId: item.id.videoId,
+      title: item.snippet?.title ?? '',
+      channel: item.snippet?.channelTitle ?? '',
+    }))
 }
 
 /** "PT3M52S" -> 232. Returns null for the shapes the API shouldn't produce. */
@@ -110,4 +123,94 @@ export async function videoDurations(apiKey, videoIds) {
   }
 
   return out
+}
+
+/**
+ * Does a video's own title and channel name the song we asked for?
+ *
+ * Normalised but NOT bracket-stripped: uploaders put the artist after the
+ * decoration ("Faint (Official Music Video) [4K UPGRADE] – Linkin Park"), so
+ * cutting at the first bracket would throw away the very name being checked.
+ */
+export function describesTrack({ title, channel }, want) {
+  const haystack = normalize(`${title} ${channel}`)
+  return haystack.includes(bare(want.title)) && haystack.includes(bare(want.artist))
+}
+
+/** How much longer than the recording a video may run before it's suspect. */
+const MAX_RATIO = 2.5
+const MIN_RATIO = 0.5
+
+/**
+ * Picks the upload that is most likely to *start with the music*.
+ *
+ * The first search hit is usually the official music video, and those open with
+ * anything but the song — "God's Plan" runs 5:57 against a 3:19 recording, the
+ * difference being two and a half minutes of short film before a note is
+ * played. Intro mode would serve fifteen seconds of dialogue.
+ *
+ * The signal that sorts this out is length. YouTube's auto-generated "Artist -
+ * Topic" uploads are audio only and match the recording almost to the second,
+ * so ranking candidates by how close they are to Deezer's duration finds them
+ * without depending on the channel naming convention — which varies, and which
+ * plenty of legitimate official-audio uploads don't follow. Channel name is
+ * used only to break ties between candidates of near-equal length.
+ *
+ * Ranking happens strictly *among* candidates that already passed the name
+ * check: duration alone would happily match a completely different 3:19 song.
+ */
+/**
+ * Is this plausibly the rightsholder's own upload?
+ *
+ * Matters because the name and length gates can't tell a faithful cover, a live
+ * take or a sped-up re-upload from the recording — a channel called "Rap
+ * Samurai" posting "Katy Perry - Last Friday Night" at exactly the right length
+ * passes both. In a guessing game the wrong recording is a wrong answer.
+ */
+const isOfficial = (channel, artist) =>
+  /-\s*topic$/i.test(channel.trim()) ||
+  /vevo/i.test(channel) ||
+  normalize(channel).includes(normalize(artist))
+
+export async function pickBestVideo(apiKey, { title, artist, trackSeconds }, { requireOfficial = false } = {}) {
+  const candidates = await searchVideos(apiKey, { title, artist })
+  if (!candidates.length) return null
+
+  const lengths = await videoDurations(apiKey, candidates.map((c) => c.videoId))
+  const scored = []
+
+  for (const candidate of candidates) {
+    if (!describesTrack(candidate, { title, artist })) continue
+
+    const seconds = lengths.get(candidate.videoId)
+    if (!seconds) continue
+    if (trackSeconds && (seconds < trackSeconds * MIN_RATIO || seconds > trackSeconds * MAX_RATIO + 60)) {
+      continue
+    }
+
+    // oEmbed last: it is the slowest gate and the cheapest to skip.
+    if (!(await oembed(candidate.videoId))) continue
+
+    scored.push({
+      ...candidate,
+      seconds,
+      gap: trackSeconds ? Math.abs(seconds - trackSeconds) : 0,
+      isTopic: /-\s*topic$/i.test(candidate.channel.trim()),
+      official: isOfficial(candidate.channel, artist),
+    })
+  }
+
+  // Official uploads are considered as a group first, and only then by length —
+  // not blended into one score. Blending would let a fan upload that happens to
+  // match the runtime beat the rightsholder's own audio, which is the wrong
+  // trade: an unofficial upload may be a different recording entirely.
+  const official = scored.filter((c) => c.official)
+  const pool = official.length ? official : requireOfficial ? [] : scored
+  if (!pool.length) return null
+
+  // Within the pool, closest to the recording wins — that is what finds the
+  // audio upload rather than the music video. Near-equal lengths go to the
+  // Topic upload, which is audio by construction.
+  pool.sort((a, b) => (Math.abs(a.gap - b.gap) <= 3 ? Number(b.isTopic) - Number(a.isTopic) : a.gap - b.gap))
+  return pool[0]
 }

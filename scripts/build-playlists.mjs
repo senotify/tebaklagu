@@ -1,6 +1,6 @@
 // Builds the committed track lists in src/data/generated/ from sources.mjs.
 //
-//   node scripts/build-playlists.mjs [playlist...] [--dry-run]
+//   node scripts/build-playlists.mjs [playlist...] [--dry-run] [--no-search]
 //
 // Preview URLs are deliberately NOT baked in: Deezer signs them with a token
 // that expires after ~15 minutes, so the app fetches a fresh one per round.
@@ -14,7 +14,7 @@
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { api, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
-import { oembed, QuotaError, searchVideo, videoDurations } from './lib/youtube.mjs'
+import { pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
 import { DAILY_POOL, PLAYLISTS } from './sources.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
@@ -22,6 +22,12 @@ const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
 const SCHEDULE_DAYS = 400
 const YT_KEY = process.env.YT_API_KEY
 const dryRun = process.argv.includes('--dry-run')
+// Search is metered separately from everything else — a few hundred queries a
+// day, whatever the unit budget says — and prefer-audio.mjs needs that same
+// allowance to find Topic channels, which is worth far more per query (one
+// search maps an artist's whole catalogue, against one track here). So a build
+// can be told to map nothing new and just reuse what is already known.
+const noSearch = process.argv.includes('--no-search')
 const only = process.argv.slice(2).filter((a) => !a.startsWith('--'))
 
 const artistIds = JSON.parse(
@@ -61,6 +67,13 @@ async function collect(name, spec) {
 
 const seed = JSON.parse(await readFile(new URL('./youtube-seed.json', import.meta.url), 'utf8'))
 
+// Replacements found by remap-intros.mjs for videos that didn't start with the
+// music. They outrank the hand seeds because that is exactly what several of
+// them are fixing — Thriller and Telephone were seeded by hand as music videos.
+const remaps = JSON.parse(
+  await readFile(new URL('./youtube-remaps.json', import.meta.url), 'utf8').catch(() => '{}'),
+)
+
 // videoId -> length in seconds. Committed, so a build without a key still knows
 // the lengths of every id mapped so far. Intro mode needs this at runtime to
 // tell the song apart from a pre-roll ad (see videoDurations).
@@ -69,6 +82,16 @@ const durations = new Map(
   Object.entries(JSON.parse(await readFile(durationFile, 'utf8').catch(() => '{}'))),
 )
 let durationsChanged = false
+
+// remap-intros measured each replacement when it picked it, so those lengths are
+// already known — taking them from the file avoids a needless lookup, and avoids
+// the replacement being dropped as "length unknown" when the quota is spent.
+for (const entry of Object.values(remaps)) {
+  if (entry?.videoId && entry.seconds && !durations.has(entry.videoId)) {
+    durations.set(entry.videoId, entry.seconds)
+    durationsChanged = true
+  }
+}
 
 await mkdir(OUT_DIR, { recursive: true })
 const names = only.length ? only : Object.keys(PLAYLISTS)
@@ -150,17 +173,29 @@ for (const name of names) {
 
   const drafts = []
   for (const t of raw) {
-    // Hand-verified seeds win, then ids from the previous build, then a fresh
-    // search. Only newly found ids need vetting — the others were vetted once.
-    let yt = seed[String(t.id)] ?? knownYt.get(t.id) ?? null
+    // Audio remaps win, then hand-verified seeds, then ids from the previous
+    // build, then a fresh search. Only newly found ids need vetting — the
+    // others were vetted once.
+    let yt = remaps[String(t.id)]?.videoId ?? seed[String(t.id)] ?? knownYt.get(t.id) ?? null
 
-    if (!yt && YT_KEY && !quotaGone) {
+    if (!yt && YT_KEY && !quotaGone && !noSearch) {
       try {
-        const found = await searchVideo(YT_KEY, { title: t.title, artist: t.artist.name })
-        // A video that can't be embedded would leave the player dead on that
-        // round, so confirm before committing the id.
-        if (found && (await oembed(found))) yt = found
-        else if (found) console.log(`   ! ${t.title}: ${found} is not embeddable, skipped`)
+        // Ranks the search results by how close each runs to the recording, so
+        // an audio upload beats the music video and its unplayable intro.
+        const found = await pickBestVideo(YT_KEY, {
+          title: t.title,
+          artist: t.artist.name,
+          trackSeconds: t.duration,
+        })
+        if (found) {
+          yt = found.videoId
+          // Keep the length the search already measured. Without this the id
+          // waits on a later videos.list call, and if the quota dies in between
+          // the build drops it as "length unknown" — throwing away a mapping it
+          // had already paid 100 units for.
+          durations.set(found.videoId, found.seconds)
+          durationsChanged = true
+        }
       } catch (err) {
         if (!(err instanceof QuotaError)) throw err
         console.log('   ! YouTube quota exhausted; remaining tracks are Hook-mode only')
@@ -256,7 +291,7 @@ if (!only.length) {
   const todayWib = new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10)
   let redrawn = 0
 
-  for (const [date, entry] of Object.entries(schedule)) {
+  for (const entry of Object.values(schedule)) {
     if (!entry.youtubeId) continue
     const seconds = durations.get(entry.youtubeId)
     // A video the catalog just rejected must not survive here either, or the

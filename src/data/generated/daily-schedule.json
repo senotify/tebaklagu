@@ -3230,5 +3230,21 @@
     "cover": "https://cdn-images.dzcdn.net/images/cover/ef34cd57796d744c47c2d670ef5de905/250x250-000000-80-0-0.jpg",
     "youtubeId": "6o6JPgJmIWA",
     "ytDuration": 200
+  },
+  "2027-09-28": {
+    "id": 89077547,
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/68b4e986958b17f05b062ffa8d7ae114/250x250-000000-80-0-0.jpg",
+    "youtubeId": "e-ORhEE9VVg",
+    "ytDuration": 273
+  },
+  "2027-09-29": {
+    "id": 1146209422,
+    "title": "Poppies Lane Memory",
+    "artist": "SLANK",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/481e26698bb7586d3f4783669b0f059f/250x250-000000-80-0-0.jpg",
+    "youtubeId": "Kl4Dt8CKJtA",
+    "ytDuration": 389
   }
 }

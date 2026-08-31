@@ -53,9 +53,8 @@ export function GameScreen({
   const audio = useAudioClip()
   const youtube = useYouTubeClip()
   const isIntro = clipMode === 'intro'
-  const { load, play, playFull, stop, isPlaying, position, isReady, error, blocked } = isIntro
-    ? youtube
-    : audio
+  const { load, play, extend, seek, playFull, stop, isPlaying, position, isReady, error, blocked } =
+    isIntro ? youtube : audio
 
   const stageIndex = Math.min(guesses.length, MAX_ATTEMPTS - 1)
 
@@ -121,6 +120,10 @@ export function GameScreen({
     setGuesses(next)
     if (guess.outcome === 'correct') finish(true, next)
     else if (next.length >= MAX_ATTEMPTS) finish(false, next)
+    // The attempt unlocked a longer clip. If audio is still running, let it play
+    // on to the new limit rather than cutting out at the old one — otherwise the
+    // player has to press play again to hear what they just unlocked.
+    else extend(stages[next.length])
   }
 
   const onGuess = (choice: Suggestion) => {
@@ -135,6 +138,9 @@ export function GameScreen({
 
   const remaining = MAX_ATTEMPTS - guesses.length
   const nextStage = stages[Math.min(guesses.length + 1, MAX_ATTEMPTS - 1)]
+  // What skipping buys, rather than the new total — the gain is what the player
+  // is weighing. Null on the last attempt, where skipping ends the round.
+  const skipGain = remaining > 1 ? Number((nextStage - stages[stageIndex]).toFixed(1)) : null
 
   return (
     <div className="flex w-full flex-col gap-6">
@@ -219,6 +225,9 @@ export function GameScreen({
                 revealed={Boolean(finished)}
                 onPlay={() => (finished ? void playFull() : void play(stages[stageIndex]))}
                 onStop={stop}
+                onSkip={onSkip}
+                onSeek={seek}
+                skipGain={skipGain}
               />
 
               {error && !loadError && (
@@ -239,13 +248,7 @@ export function GameScreen({
               ) : (
                 <>
                   <GuessHistory guesses={guesses} />
-                  <GuessInput
-                    onGuess={onGuess}
-                    onSkip={onSkip}
-                    skipLabel={
-                      remaining > 1 ? `Lewati (+${nextStage} detik)` : 'Lewati (tebakan terakhir)'
-                    }
-                  />
+                  <GuessInput onGuess={onGuess} />
                 </>
               )}
             </>

@@ -56,14 +56,24 @@
       <div style="margin-top: 16px; border-top: 1px solid #222; padding-top: 16px">
         <p class="sub" style="margin-bottom: 8px">
           Ad check — useYouTubeClip tells the song from a pre-roll by comparing
-          <code>getDuration()</code> against the length in the catalog. Load a
-          monetised major-label upload here and watch what the player reports
-          while an ad is on screen.
+          <code>getDuration()</code> against the length in the catalog, so the
+          log below marks each reading SONG or OTHER by that same rule. Defaults
+          to God's Plan (Drake&nbsp;-&nbsp;Topic, 199s) because that is the exact
+          upload the game plays. If no ad appears, try
+          <code>xpVfcZ0ZcFM</code> — the VEVO music video of the same song, 357s,
+          which carries a pre-roll far more often.
         </p>
         <input
           id="probeId"
-          value="fJ9rUzIMcZQ"
+          value="m1a_GqJf02M"
           size="16"
+          style="background:#111;color:#e5e5e5;border:1px solid #333;border-radius:6px;padding:9px 10px"
+        />
+        <input
+          id="probeExpected"
+          value="199"
+          size="5"
+          title="Length the catalog records for this video, in seconds"
           style="background:#111;color:#e5e5e5;border:1px solid #333;border-radius:6px;padding:9px 10px"
         />
         <button id="probe" disabled>Probe prime</button>
@@ -80,8 +90,11 @@
     </main>
 
     <script>
-      // Queen – Bohemian Rhapsody, one of the seeded ids.
-      const VIDEO_ID = 'fJ9rUzIMcZQ'
+      // God's Plan (Drake - Topic) — the same upload the Ad check below defaults
+      // to, and representative of what intro mode actually plays: an audio-only
+      // Topic track that opens on the music. Measuring against a music video
+      // would time a clip the game never serves.
+      const VIDEO_ID = 'm1a_GqJf02M'
       const STAGES = [0.1, 0.25, 0.5, 1, 2, 4, 8]
 
       const $ = (id) => document.getElementById(id)
@@ -195,11 +208,12 @@
 
       $('probe').addEventListener('click', () => {
         const id = $('probeId').value.trim()
+        const expected = Number($('probeExpected').value)
         $('probe').disabled = true
         $('run').disabled = true
         $('log').textContent = ''
-        log(`probing ${id} — watch the player above for an ad`)
-        log('   t     state       duration   currentTime')
+        log(`probing ${id}, expecting a ${expected}s video — watch above for an ad`)
+        log('   t     state       duration   currentTime  verdict')
 
         player.mute()
         player.loadVideoById(id)
@@ -210,9 +224,14 @@
           const elapsed = (performance.now() - startedAt) / 1000
           const state = STATES[String(player.getPlayerState())] ?? '?'
           const duration = player.getDuration()
+          // The same three-way call useYouTubeClip makes: a matching length is
+          // our video, a different non-zero length is something else (an ad),
+          // and zero just means metadata hasn't arrived yet.
+          const verdict =
+            duration === 0 ? '—' : Math.abs(duration - expected) <= 2 ? 'SONG' : 'OTHER'
           const line =
             `  ${elapsed.toFixed(1)}s  ${state.padEnd(10)}  ` +
-            `${duration.toFixed(1).padStart(8)}   ${player.getCurrentTime().toFixed(1)}`
+            `${duration.toFixed(1).padStart(8)}   ${player.getCurrentTime().toFixed(1).padStart(6)}    ${verdict}`
           // Only print when something meaningful moved, so the log stays readable.
           const fingerprint = `${state}:${duration.toFixed(1)}`
           if (fingerprint !== last) {
@@ -223,7 +242,9 @@
             clearInterval(timer)
             player.pauseVideo()
             player.mute()
-            log('done — the final duration is the song; anything different before it was an ad')
+            log('done. Any OTHER row before the first SONG row is an ad the player')
+            log('reported as if it were the video — which is what the duration check')
+            log('in useYouTubeClip exists to catch. All SONG rows means no ad ran.')
             $('probe').disabled = false
             $('run').disabled = false
           }

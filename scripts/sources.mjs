@@ -63,7 +63,7 @@ export const PLAYLISTS = {
     // while "Azizam" and "Opalite" do. A guessing game wants the famous ones.
     tracksPerArtist: 14,
     artists: [
-      'Adele', 'Ed Sheeran', 'Bruno Mars', 'Taylor Swift', 'The Weeknd',
+      'Adele', 'Ed Sheeran', 'Bruno Mars', 'Taylor Swift', 'The Weeknd', 'Drake',
       'Billie Eilish', 'Dua Lipa', 'Sia', 'Shakira', 'Ariana Grande',
       'Sam Smith', 'Charlie Puth', 'Post Malone', 'Imagine Dragons',
       'Twenty One Pilots', 'David Guetta', 'Calvin Harris', 'The Chainsmokers',
