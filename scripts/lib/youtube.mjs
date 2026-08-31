@@ -214,3 +214,50 @@ export async function pickBestVideo(apiKey, { title, artist, trackSeconds }, { r
   pool.sort((a, b) => (Math.abs(a.gap - b.gap) <= 3 ? Number(b.isTopic) - Number(a.isTopic) : a.gap - b.gap))
   return pool[0]
 }
+
+/** Where the game's players are. A video that won't play here is no use. */
+export const TARGET_COUNTRY = 'ID'
+
+/**
+ * Which of these videos won't play in `country`.
+ *
+ * Worth checking on every candidate, because the auto-generated "Topic" audio
+ * uploads that intro mode prefers are licensed per-territory far more tightly
+ * than music videos — plenty are "allowed" in a single country. Swapping videos
+ * for audio without this check traded a bad intro for a dead round: the IFrame
+ * player just reports an error and the round cannot be played at all.
+ *
+ * Same endpoint and cost as videoDurations: 1 unit per 50 ids.
+ */
+export async function blockedInCountry(apiKey, videoIds, country = TARGET_COUNTRY) {
+  const blocked = new Set()
+
+  for (let i = 0; i < videoIds.length; i += 50) {
+    const res = await fetch(
+      'https://www.googleapis.com/youtube/v3/videos?part=contentDetails' +
+        `&id=${videoIds.slice(i, i + 50).join(',')}&key=${apiKey}`,
+      { signal: AbortSignal.timeout(15000) },
+    )
+    if (res.status === 403 || res.status === 429) {
+      const body = await res.json().catch(() => ({}))
+      const reason = body.error?.errors?.[0]?.reason ?? 'unknown'
+      if (reason === 'quotaExceeded' || reason === 'rateLimitExceeded' || res.status === 429) {
+        throw new QuotaError(`YouTube quota exhausted (${reason})`)
+      }
+      throw new Error(`YouTube rejected the API key (${reason})`)
+    }
+    if (!res.ok) throw new Error(`videos.list failed with ${res.status}`)
+
+    const body = await res.json()
+    for (const item of body.items ?? []) {
+      const region = item.contentDetails?.regionRestriction
+      if (!region) continue
+      const denied =
+        region.blocked?.includes(country) ||
+        (Array.isArray(region.allowed) && !region.allowed.includes(country))
+      if (denied) blocked.add(item.id)
+    }
+  }
+
+  return blocked
+}

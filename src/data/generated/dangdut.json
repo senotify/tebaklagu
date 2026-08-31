@@ -3,34 +3,28 @@
   "emoji": "🎤",
   "tracks": [
     {
-      "id": 1145219242,
-      "title": "Paijo (feat. RPH & Donall)",
-      "artist": "Zaskia Gotik",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3903311301,
       "title": "Negoro Angin",
       "artist": "Denny Caknan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d207a3e1bf523f8857984c0b7b62c12d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3176284641,
-      "title": "Cundamani",
-      "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d7bc86617f2d9d16a341cf44d3491e1d/250x250-000000-80-0-0.jpg"
+      "id": 1145219242,
+      "title": "Paijo (feat. RPH & Donall)",
+      "artist": "Zaskia Gotik",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 390015531,
-      "title": "Sambalado",
-      "artist": "Ayu Ting Ting",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/81ba70faa999dd7a3579fe29a34b636d/250x250-000000-80-0-0.jpg"
+      "id": 3182467211,
+      "title": "Kartonyono Medot Janji",
+      "artist": "Denny Caknan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c6e296b74d35a9ba60fdbec70c79e669/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3176284921,
-      "title": "Satru",
+      "id": 3178066921,
+      "title": "Kisinan 1 & 2",
       "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e591296ae76686a3cf6daad5e2af9666/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e973c424f2a0915939396ae16c15949a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2709451122,
@@ -39,40 +33,64 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaa29b5ded0455bb56ffbc235ee14f3f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1145219262,
-      "title": "1 Jam Lagi",
+      "id": 1145257462,
+      "title": "Goyang Nasi Padang",
+      "artist": "Duo Anggrek",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4be031863e9aa151214aa384b3b2aa45/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 390015531,
+      "title": "Sambalado",
+      "artist": "Ayu Ting Ting",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/81ba70faa999dd7a3579fe29a34b636d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1145146452,
+      "title": "Bang Jono",
+      "artist": "Zaskia Gotik",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d91d3252fab42761f684dad176d70f3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2715027232,
+      "title": "Meraih Bintang",
+      "artist": "Via Vallen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6cba3c05d1c38886fe9ddadfe6e29908/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 465935552,
+      "title": "Pantai Klayar",
+      "artist": "Didi Kempot",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8c37e8e16d4d52b3d530d7b92fc5bde/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1145219342,
+      "title": "Tarik Selimut",
       "artist": "Zaskia Gotik",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 833480262,
-      "title": "Layang Kangen",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/62c194b70c44080a9c6b811d1c303386/250x250-000000-80-0-0.jpg"
+      "id": 3178066941,
+      "title": "Lamunan",
+      "artist": "Denny Caknan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3e879e3b95f2a537c2c44ca1944bae50/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 362679301,
-      "title": "Ditinggal Rabi",
+      "id": 403603882,
+      "title": "Jaran Goyang",
       "artist": "Nella Kharisma",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1291cce41ad02e4fe787d9581d768b80/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/94bbd4453b612507cd53cdf95d57d45a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2121625097,
-      "title": "Ngopi Maszeh",
-      "artist": "Happy Asmara",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cef023e50f388cce9a7bd7aea0acf92d/250x250-000000-80-0-0.jpg"
+      "id": 1145220472,
+      "title": "Sir Gobang Gosir",
+      "artist": "Duo Anggrek",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cbc6e2bf8bea868de4fe6233970bd479/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2786913552,
       "title": "Sewu Kuto",
       "artist": "Didi Kempot",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b1d86c4d022805a0b539df9607d54575/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3185712451,
-      "title": "Sigar",
-      "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e7f730174d2557617c8df221c0f9ca06/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2755038491,
@@ -87,40 +105,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/598878dc3f52766f80dccc1ca186664a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1100893062,
-      "title": "TATITUT",
-      "artist": "Ayu Ting Ting",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b9195a652f32929cae7902506ee399d8/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1145257462,
-      "title": "Goyang Nasi Padang",
-      "artist": "Duo Anggrek",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4be031863e9aa151214aa384b3b2aa45/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1145146432,
       "title": "1 Jam",
       "artist": "Zaskia Gotik",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8d91d3252fab42761f684dad176d70f3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4204442062,
-      "title": "Mutiara",
-      "artist": "Royal Music",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/db985f6ea87db0e2644eea422a4d3803/250x250-000000-80-0-0.jpg"
+      "id": 101892951,
+      "title": "Kalung Emas",
+      "artist": "Didi Kempot",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f30244ffbc2e4df1300362860542086d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2715027232,
-      "title": "Meraih Bintang",
-      "artist": "Via Vallen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6cba3c05d1c38886fe9ddadfe6e29908/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3176284951,
-      "title": "Ndas Gerih",
+      "id": 3216568481,
+      "title": "Wirang (Keroncong)",
       "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ac73b804810d7d261cba94744d26b642/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9eaae7cfbea1d629c139f40d3cbf00fb/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 79558126,
@@ -135,40 +135,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7d4d244d22700e6cb244662c63c4f401/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 833480272,
-      "title": "Tirtonadi",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/62c194b70c44080a9c6b811d1c303386/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3182467211,
-      "title": "Kartonyono Medot Janji",
-      "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c6e296b74d35a9ba60fdbec70c79e669/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 79558140,
-      "title": "Mandi Madu (Mandi Madu)",
-      "artist": "Elvy Sukaesih",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/12d3dc9451e5a5da69cc77aab81bbb46/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1145146452,
-      "title": "Bang Jono",
+      "id": 1145219262,
+      "title": "1 Jam Lagi",
       "artist": "Zaskia Gotik",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8d91d3252fab42761f684dad176d70f3/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 913033782,
-      "title": "Gali Lobang Tutup Lobang",
-      "artist": "Rhoma Irama",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9a8c9041cd376f2638eb16c40931fe00/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 362096621,
-      "title": "Konco Mesra",
-      "artist": "Nella Kharisma",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/eb1638c589ae2a48addfb28331887bf2/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 101892927,
@@ -183,16 +153,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8c37e8e16d4d52b3d530d7b92fc5bde/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1268247272,
-      "title": "Begadang",
-      "artist": "Rhoma Irama",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/59961852f410199bb5de7d006edf4fb5/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3181995771,
-      "title": "Wirang",
-      "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3f6bb6cb095a0a02c05538fe3aa51704/250x250-000000-80-0-0.jpg"
+      "id": 362679301,
+      "title": "Ditinggal Rabi",
+      "artist": "Nella Kharisma",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1291cce41ad02e4fe787d9581d768b80/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2713393671,
@@ -201,10 +165,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ad417fddec0b6a0fd6688915ff515508/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 403603882,
-      "title": "Jaran Goyang",
-      "artist": "Nella Kharisma",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/94bbd4453b612507cd53cdf95d57d45a/250x250-000000-80-0-0.jpg"
+      "id": 833480262,
+      "title": "Layang Kangen",
+      "artist": "Didi Kempot",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/62c194b70c44080a9c6b811d1c303386/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 101892929,
@@ -213,16 +177,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f30244ffbc2e4df1300362860542086d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3178066921,
-      "title": "Kisinan 1 & 2",
-      "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e973c424f2a0915939396ae16c15949a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1145219342,
-      "title": "Tarik Selimut",
-      "artist": "Zaskia Gotik",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg"
+      "id": 2121625097,
+      "title": "Ngopi Maszeh",
+      "artist": "Happy Asmara",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cef023e50f388cce9a7bd7aea0acf92d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 392994292,
@@ -235,12 +193,6 @@
       "title": "Kata Pujangga",
       "artist": "Rhoma Irama",
       "cover": "https://cdn-images.dzcdn.net/images/cover/45780c5c5b2f0d3e1783f57b106eee71/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 830683842,
-      "title": "Kutunggu",
-      "artist": "Rhoma Irama",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1b5ccb971ecd9d9c182b376909f01994/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1232473532,
@@ -261,10 +213,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/cbc6e2bf8bea868de4fe6233970bd479/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3178066941,
-      "title": "Lamunan",
+      "id": 3185712451,
+      "title": "Sigar",
       "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3e879e3b95f2a537c2c44ca1944bae50/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e7f730174d2557617c8df221c0f9ca06/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2132576507,
+      "title": "Tatu",
+      "artist": "Happy Asmara",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e3561774890fc7043fab9126d2393e91/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 802421832,
+      "title": "Sampek Tuwek",
+      "artist": "Denny Caknan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c740aff3fec215ac801986fdc371a05/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1100893062,
+      "title": "TATITUT",
+      "artist": "Ayu Ting Ting",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b9195a652f32929cae7902506ee399d8/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3101826831,
@@ -279,10 +249,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9a5a86fa3b81759c8259ad7e54706d24/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 362679271,
-      "title": "Bojo Galak",
-      "artist": "Nella Kharisma",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1291cce41ad02e4fe787d9581d768b80/250x250-000000-80-0-0.jpg"
+      "id": 3181995811,
+      "title": "Nemen",
+      "artist": "Denny Caknan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a325a42940c98e9dd149cfdfaf534b0a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4204442062,
+      "title": "Mutiara",
+      "artist": "Royal Music",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/db985f6ea87db0e2644eea422a4d3803/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 392994352,
@@ -291,16 +267,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3743bd7a8ebb270e3464194a29c2107f/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2112750317,
+      "title": "Pamer Bojo",
+      "artist": "Didi Kempot",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b41fcf2177d10b17c1fa1b9b24e00091/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 510510662,
       "title": "Juragan Empang",
       "artist": "Via Vallen",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4fc901d39c167c47df5c3743368aa752/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2493336021,
-      "title": "Juragan Empang",
-      "artist": "Nella Kharisma",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3fcda4a7b26073c18d678c16a22003ba/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 455273372,
@@ -321,28 +297,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/53fdde112a2003d21fff27c024072204/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3015467691,
+      "title": "Dumes",
+      "artist": "Denny Caknan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5b3205dc4316722d84f448cc3ee9ca71/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 2787291572,
       "title": "Santai (feat. Rita Sugiarto)",
       "artist": "Rhoma Irama",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4d7cb46abeeef8a29cafe1ad96c96673/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 431233242,
+      "title": "Bojo Loro",
+      "artist": "Didi Kempot",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a876fc1c1b6d61ebefcc3a2de3467a0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1472221492,
+      "title": "Koyo Langit Ambi Bumi",
+      "artist": "Nella Kharisma",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d736d6dea72f800c72e7fa5201382c8/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 79558130,
       "title": "Perih (Perih)",
       "artist": "Elvy Sukaesih",
       "cover": "https://cdn-images.dzcdn.net/images/cover/12d3dc9451e5a5da69cc77aab81bbb46/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1145220472,
-      "title": "Sir Gobang Gosir",
-      "artist": "Duo Anggrek",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cbc6e2bf8bea868de4fe6233970bd479/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 465935592,
-      "title": "Cidro",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8c37e8e16d4d52b3d530d7b92fc5bde/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1965955807,
@@ -381,16 +363,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6e9c02569ffcd4e5e7fda93bad2af0d3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 775992602,
-      "title": "Sugeng Dalu",
+      "id": 79558140,
+      "title": "Mandi Madu (Mandi Madu)",
+      "artist": "Elvy Sukaesih",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/12d3dc9451e5a5da69cc77aab81bbb46/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3395522761,
+      "title": "Aku Cah Kerjo (Live)",
       "artist": "Denny Caknan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1f807bfdf7a7902e26fa34aac95c8355/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8590802a24a197bc8cb2f2c62d4be07e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2787180932,
       "title": "Bahtera Cinta (feat. Noer Halimah)",
       "artist": "Rhoma Irama",
       "cover": "https://cdn-images.dzcdn.net/images/cover/670c0ffb3e90306706c120f8a1a2e03e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 913033782,
+      "title": "Gali Lobang Tutup Lobang",
+      "artist": "Rhoma Irama",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9a8c9041cd376f2638eb16c40931fe00/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 618392072,
@@ -417,28 +411,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8b6b41c6f9be81dec34003f95e8dcb69/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2396601345,
+      "title": "Nemu",
+      "artist": "Happy Asmara",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/21b2f3882e6406ff5f50c0f91ddb7c07/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 362096621,
+      "title": "Konco Mesra",
+      "artist": "Nella Kharisma",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eb1638c589ae2a48addfb28331887bf2/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 604008192,
       "title": "Karna Su Sayang (Versi Dangdut Koplo)",
       "artist": "Via Vallen",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ca7a92bd4fdda932ae2d39d22fb77889/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2455206465,
-      "title": "Kisinan",
-      "artist": "Happy Asmara",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/03fc5b2c778383b561aa0abd9b72f328/250x250-000000-80-0-0.jpg"
+      "id": 1268247272,
+      "title": "Begadang",
+      "artist": "Rhoma Irama",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/59961852f410199bb5de7d006edf4fb5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1333777432,
       "title": "Zaenal",
       "artist": "Rita Sugiarto",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b275b3f743f86069742d038721a388b7/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2715426702,
-      "title": "Dalan Liyane",
-      "artist": "Happy Asmara",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9372f3cfe263438c596270b83e1023ff/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 830680442,
@@ -453,16 +453,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1919e905afa4aa30d4aada79482d96d5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 140186789,
-      "title": "Sumpah Benang Emas",
-      "artist": "Elvy Sukaesih",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ec9a19172a60fc2c89ddd1f3be952bb0/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 101892925,
-      "title": "Sewu Kutho",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f30244ffbc2e4df1300362860542086d/250x250-000000-80-0-0.jpg"
+      "id": 830683842,
+      "title": "Kutunggu",
+      "artist": "Rhoma Irama",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1b5ccb971ecd9d9c182b376909f01994/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1145220462,
@@ -471,34 +465,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/cbc6e2bf8bea868de4fe6233970bd479/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2132576507,
-      "title": "Tatu",
-      "artist": "Happy Asmara",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e3561774890fc7043fab9126d2393e91/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 78024648,
       "title": "Pacar Dunia Akhirat",
       "artist": "Rita Sugiarto",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7c925a874ba02b194b2e86cabfddeed8/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 76573955,
-      "title": "Minyak Wangi",
-      "artist": "Ayu Ting Ting",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7d4d244d22700e6cb244662c63c4f401/250x250-000000-80-0-0.jpg"
+      "id": 2318232955,
+      "title": "Alololo (Cover)",
+      "artist": "Happy Asmara",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f74221888247bfcfa5a9fe67438a67a6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 449497122,
-      "title": "Tatik Suprapti",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/af26643276f943b1642d4f5ec803855c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1367954132,
-      "title": "Prawan Kalimantan",
-      "artist": "Didi Kempot",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f76cf3ede9c67ae7fb7f163b1673d62b/250x250-000000-80-0-0.jpg"
+      "id": 362679271,
+      "title": "Bojo Galak",
+      "artist": "Nella Kharisma",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1291cce41ad02e4fe787d9581d768b80/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1145349132,

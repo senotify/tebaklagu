@@ -19,7 +19,7 @@
 
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { api, normalize } from './lib/deezer.mjs'
-import { describesTrack, oembed, videoDurations } from './lib/youtube.mjs'
+import { blockedInCountry, describesTrack, oembed, videoDurations } from './lib/youtube.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
 const SEED_FILE = new URL('./youtube-seed.json', import.meta.url)
@@ -62,6 +62,8 @@ const rejected = []
 
 // Lengths for the whole batch in one or two calls rather than one call each.
 const lengths = await videoDurations(YT_KEY, [...new Set(candidates.map((c) => c.videoId))])
+// A video our players can't watch is a dead round, not a degraded one.
+const blocked = await blockedInCountry(YT_KEY, [...new Set(candidates.map((c) => c.videoId))])
 
 for (const candidate of candidates) {
   const { artist, title, videoId } = candidate
@@ -81,6 +83,11 @@ for (const candidate of candidates) {
   }
   if (!describesTrack({ title: info.title, channel: info.author_name }, candidate)) {
     rejected.push(`${label}: ${videoId} is "${info.title}" [${info.author_name}]`)
+    continue
+  }
+
+  if (blocked.has(videoId)) {
+    rejected.push(`${label}: ${videoId} is not playable in our region`)
     continue
   }
 

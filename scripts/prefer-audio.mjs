@@ -23,7 +23,7 @@
 
 import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { api, normalize } from './lib/deezer.mjs'
-import { QuotaError } from './lib/youtube.mjs'
+import { blockedInCountry, QuotaError } from './lib/youtube.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
 const REMAP_FILE = new URL('./youtube-remaps.json', import.meta.url)
@@ -270,9 +270,14 @@ for (const [artist, artistTracks] of byArtist) {
 
     const { duration: trackSeconds } = await api(`/track/${track.id}`)
     const lengths = await videoSnippets(candidates.map((c) => c.videoId))
+    // Art tracks are licensed per-territory far more tightly than music videos —
+    // plenty are "allowed" in a single country. One that won't play here is a
+    // dead round, strictly worse than the music video it would replace.
+    const blocked = await blockedInCountry(YT_KEY, candidates.map((c) => c.videoId))
 
     let best = null
     for (const candidate of candidates) {
+      if (blocked.has(candidate.videoId)) continue
       const iso = lengths.get(candidate.videoId)?.contentDetails?.duration ?? ''
       const m = /^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$/.exec(iso)
       if (!m) continue
@@ -284,7 +289,7 @@ for (const [artist, artistTracks] of byArtist) {
     }
 
     if (!best) {
-      skipped.push(`${track.title} — ${artist}: audio upload's length doesn't match the recording`)
+      skipped.push(`${track.title} — ${artist}: no audio upload that is playable here and matches the recording`)
       continue
     }
     if (best.videoId === track.youtubeId) continue

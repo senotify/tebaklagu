@@ -255,14 +255,6 @@
     "youtubeId": "bnVUHWCynig",
     "ytDuration": 225
   },
-  "2026-09-21": {
-    "id": 76056722,
-    "title": "Kamulah Satu - Satunya",
-    "artist": "Dewa 19",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d468bd06f15d572ce0224e51c8b76e9a/250x250-000000-80-0-0.jpg",
-    "youtubeId": "mxoqgbC81zY",
-    "ytDuration": 238
-  },
   "2026-09-22": {
     "id": 120070452,
     "title": "Kasih Tak Memilih",
@@ -1318,14 +1310,6 @@
     "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
     "youtubeId": "bnVUHWCynig",
     "ytDuration": 225
-  },
-  "2027-02-02": {
-    "id": 76056722,
-    "title": "Kamulah Satu - Satunya",
-    "artist": "Dewa 19",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d468bd06f15d572ce0224e51c8b76e9a/250x250-000000-80-0-0.jpg",
-    "youtubeId": "mxoqgbC81zY",
-    "ytDuration": 238
   },
   "2027-02-03": {
     "id": 120070452,
@@ -2383,14 +2367,6 @@
     "youtubeId": "bnVUHWCynig",
     "ytDuration": 225
   },
-  "2027-06-16": {
-    "id": 76056722,
-    "title": "Kamulah Satu - Satunya",
-    "artist": "Dewa 19",
-    "cover": "https://cdn-images.dzcdn.net/images/cover/d468bd06f15d572ce0224e51c8b76e9a/250x250-000000-80-0-0.jpg",
-    "youtubeId": "mxoqgbC81zY",
-    "ytDuration": 238
-  },
   "2027-06-17": {
     "id": 120070452,
     "title": "Kasih Tak Memilih",
@@ -3246,5 +3222,69 @@
     "cover": "https://cdn-images.dzcdn.net/images/cover/481e26698bb7586d3f4783669b0f059f/250x250-000000-80-0-0.jpg",
     "youtubeId": "Kl4Dt8CKJtA",
     "ytDuration": 389
+  },
+  "2026-09-21": {
+    "id": 1595713721,
+    "title": "Bidadari Bumi",
+    "artist": "ST12",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg",
+    "youtubeId": "45FRBAZMRs4",
+    "ytDuration": 231
+  },
+  "2027-02-02": {
+    "id": 969494,
+    "title": "Cry Me a River",
+    "artist": "Justin Timberlake",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/7cba368fa8466d72d149264577cb19d7/250x250-000000-80-0-0.jpg",
+    "youtubeId": "DksSPZTZES0",
+    "ytDuration": 291
+  },
+  "2027-06-16": {
+    "id": 1595713711,
+    "title": "Putih Putih Melati",
+    "artist": "ST12",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4cc9e1bbff9d8f5d49ba3487f9b98911/250x250-000000-80-0-0.jpg",
+    "youtubeId": "v7ApCyWNR7I",
+    "ytDuration": 156
+  },
+  "2027-09-30": {
+    "id": 455300942,
+    "title": "Heaven",
+    "artist": "Isyana Sarasvati",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/ef9e721ca34193676069947bbbf4b0e7/250x250-000000-80-0-0.jpg",
+    "youtubeId": "hkgYALqOLqI",
+    "ytDuration": 219
+  },
+  "2027-10-01": {
+    "id": 6461440,
+    "title": "Love The Way You Lie",
+    "artist": "Eminem",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg",
+    "youtubeId": "GL9IrfmNJe0",
+    "ytDuration": 264
+  },
+  "2027-10-02": {
+    "id": 13341390,
+    "title": "11 Januari",
+    "artist": "Gigi",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/516295876200a1ccb37e2350680c2f0b/250x250-000000-80-0-0.jpg",
+    "youtubeId": "Fbk3DYucdlA",
+    "ytDuration": 212
+  },
+  "2027-10-03": {
+    "id": 2947516331,
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg",
+    "youtubeId": "kPa7bsKwL-c",
+    "ytDuration": 253
+  },
+  "2027-10-04": {
+    "id": 65356224,
+    "title": "Mirrors",
+    "artist": "Justin Timberlake",
+    "cover": "https://cdn-images.dzcdn.net/images/cover/f409c33ab781a565ab46f06ba3415a31/250x250-000000-80-0-0.jpg",
+    "youtubeId": "mFpqyuq3MVo",
+    "ytDuration": 484
   }
 }

@@ -14,7 +14,7 @@
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { api, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
-import { pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
+import { blockedInCountry, pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
 import { DAILY_POOL, PLAYLISTS } from './sources.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
@@ -83,6 +83,15 @@ const durations = new Map(
 )
 let durationsChanged = false
 
+// videoId -> true when the video will not play for our players. The Topic audio
+// uploads intro mode prefers are licensed per-territory much more tightly than
+// music videos — many are "allowed" in a single country — and a blocked video
+// is a dead round, not a degraded one. Committed so builds without a key keep
+// the verdict.
+const regionFile = new URL('./youtube-regions.json', import.meta.url)
+const regions = JSON.parse(await readFile(regionFile, 'utf8').catch(() => '{}'))
+let regionsChanged = false
+
 // remap-intros measured each replacement when it picked it, so those lengths are
 // already known — taking them from the file avoids a needless lookup, and avoids
 // the replacement being dropped as "length unknown" when the quota is spent.
@@ -138,6 +147,26 @@ async function ensureDurations(videoIds) {
   }
 }
 
+/** Records which of these videos our players can actually watch. */
+async function ensureRegions(videoIds) {
+  const unknown = [
+    ...new Set(videoIds.filter((id) => VIDEO_ID.test(id ?? '') && !(id in regions))),
+  ]
+  if (!unknown.length || !YT_KEY || quotaGone) return
+
+  try {
+    const blocked = await blockedInCountry(YT_KEY, unknown)
+    for (const id of unknown) {
+      regions[id] = blocked.has(id)
+      regionsChanged = true
+    }
+  } catch (err) {
+    if (!(err instanceof QuotaError)) throw err
+    console.log('   ! YouTube quota exhausted while checking availability')
+    quotaGone = true
+  }
+}
+
 // Lengths are looked up before any searching. Search costs 100 units against
 // videos.list's 1, so a search run that exhausts the quota partway must not
 // leave already-mapped ids unmeasured — the build drops those from intro mode,
@@ -158,6 +187,10 @@ async function ensureDurations(videoIds) {
   const before = durations.size
   await ensureDurations([...known])
   console.log(`== video lengths: ${durations.size} known (+${durations.size - before})`)
+
+  await ensureRegions([...known])
+  const unplayable = Object.values(regions).filter(Boolean).length
+  console.log(`== availability: ${Object.keys(regions).length} checked, ${unplayable} unplayable here`)
 }
 
 for (const name of names) {
@@ -213,15 +246,25 @@ for (const name of names) {
   }
 
   await ensureDurations(drafts.map((d) => d.yt))
+  await ensureRegions(drafts.map((d) => d.yt))
 
   // An id whose length we don't know can't be checked against an ad at runtime,
   // so it doesn't get to enter intro mode. Better a smaller intro catalog than
   // rounds that play an advertisement.
   let unmeasured = 0
+  let unavailable = 0
   const mismatched = []
   const tracks = drafts.map(({ yt, trackSeconds, ...rest }) => {
     const seconds = yt ? durations.get(yt) : null
     if (yt && !seconds) unmeasured++
+
+    // A video nobody here can watch is worse than no video: the round loads,
+    // the player presses play and the iframe just reports an error.
+    if (yt && regions[yt]) {
+      unavailable++
+      rejected.add(rest.id)
+      return rest
+    }
 
     if (yt && seconds && !lengthAgrees(seconds, trackSeconds)) {
       mismatched.push(`${rest.title} — ${rest.artist} (${seconds}s vs ${trackSeconds}s)`)
@@ -235,6 +278,7 @@ for (const name of names) {
   const withYt = tracks.filter((t) => t.youtubeId).length
   console.log(`   ${tracks.length} tracks, ${withYt} with YouTube ids`)
   if (unmeasured) console.log(`   ! ${unmeasured} ids dropped: length unknown, run again with YT_API_KEY`)
+  if (unavailable) console.log(`   ! ${unavailable} ids dropped: not playable in our region`)
   for (const line of mismatched) console.log(`   ! dropped, length disagrees: ${line}`)
   console.log(tracks.slice(0, 12).map((t) => `     ${t.title} — ${t.artist}`).join('\n'))
 
@@ -288,6 +332,7 @@ if (!only.length) {
   // place: the scheduled track stays put, it just loses intro mode when its
   // length can't be established.
   await ensureDurations(Object.values(schedule).map((t) => t.youtubeId))
+  await ensureRegions(Object.values(schedule).map((t) => t.youtubeId))
   const todayWib = new Date(Date.now() + 7 * 3600e3).toISOString().slice(0, 10)
   let redrawn = 0
 
@@ -296,7 +341,7 @@ if (!only.length) {
     const seconds = durations.get(entry.youtubeId)
     // A video the catalog just rejected must not survive here either, or the
     // daily would keep serving the album upload the playlists dropped.
-    if (seconds && !rejected.has(entry.id)) {
+    if (seconds && !rejected.has(entry.id) && !regions[entry.youtubeId]) {
       entry.ytDuration = seconds
       continue
     }
@@ -399,6 +444,10 @@ if (!only.length && !dryRun) {
     new URL('index.json', OUT_DIR),
     JSON.stringify({ playlists, daily: dailySummary }, null, 2) + '\n',
   )
+}
+
+if (regionsChanged && !dryRun) {
+  await writeFile(regionFile, JSON.stringify(regions, null, 2) + '\n')
 }
 
 if (durationsChanged && !dryRun) {
