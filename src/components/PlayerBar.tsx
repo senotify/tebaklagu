@@ -30,8 +30,17 @@ export function PlayerBar({
   skipGain,
   revealed = false,
 }: Props) {
+  /**
+   * The bar spans only as far as the round can actually reach — the longest
+   * stage, 15s — so the stages fill it instead of crowding into the first half
+   * of a 30s scale whose back end is unreachable. Once the answer is out, the
+   * whole preview is in play and the scale opens up to the full window.
+   */
+  const span = revealed ? CLIP_WINDOW : stages[stages.length - 1]
   const unlocked = revealed ? CLIP_WINDOW : stages[stageIndex]
-  const pct = (seconds: number) => (seconds / CLIP_WINDOW) * 100
+  const pct = (seconds: number) => (seconds / span) * 100
+  const clock = (seconds: number) =>
+    `${Math.floor(seconds / 60)}:${String(Math.round(seconds % 60)).padStart(2, '0')}`
 
   const trackRef = useRef<HTMLDivElement>(null)
   const [dragging, setDragging] = useState(false)
@@ -47,7 +56,7 @@ export function PlayerBar({
     if (!track) return
     const rect = track.getBoundingClientRect()
     const fraction = (clientX - rect.left) / rect.width
-    onSeek(Math.max(0, Math.min(unlocked, fraction * CLIP_WINDOW)))
+    onSeek(Math.max(0, Math.min(unlocked, fraction * span)))
   }
 
   const nudge = (delta: number) => onSeek(Math.max(0, Math.min(unlocked, head + delta)))
@@ -95,16 +104,19 @@ export function PlayerBar({
           {/* Playback head */}
           <div
             className="absolute inset-y-0 left-0 bg-emerald-400"
-            style={{ width: `${pct(Math.min(position, CLIP_WINDOW))}%` }}
+            style={{ width: `${pct(Math.min(position, span))}%` }}
           />
-          {/* Stage boundaries */}
-          {stages.map((s) => (
-            <div
-              key={s}
-              className="absolute inset-y-0 w-px bg-black/50"
-              style={{ left: `${pct(s)}%` }}
-            />
-          ))}
+          {/* Stage boundaries. The last stage sits exactly on the right edge
+              while the round runs, where a tick is just a notch in the rim. */}
+          {stages
+            .filter((s) => s < span)
+            .map((s) => (
+              <div
+                key={s}
+                className="absolute inset-y-0 w-px bg-black/50"
+                style={{ left: `${pct(s)}%` }}
+              />
+            ))}
         </div>
 
         {/* Drag handle. Outside the clipped track so it can overhang the bar. */}
@@ -121,7 +133,7 @@ export function PlayerBar({
         <span className="text-emerald-400">
           {revealed ? 'Penuh' : `${stages[stageIndex]} detik`}
         </span>
-        <span>0:30</span>
+        <span>{clock(span)}</span>
       </div>
 
       <div className="mt-5 flex items-start justify-center gap-4">
