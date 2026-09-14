@@ -233,9 +233,10 @@ export async function blockedInCountry(apiKey, videoIds, country = TARGET_COUNTR
   const blocked = new Set()
 
   for (let i = 0; i < videoIds.length; i += 50) {
+    const batch = videoIds.slice(i, i + 50)
     const res = await fetch(
-      'https://www.googleapis.com/youtube/v3/videos?part=contentDetails' +
-        `&id=${videoIds.slice(i, i + 50).join(',')}&key=${apiKey}`,
+      'https://www.googleapis.com/youtube/v3/videos?part=contentDetails,status' +
+        `&id=${batch.join(',')}&key=${apiKey}`,
       { signal: AbortSignal.timeout(15000) },
     )
     if (res.status === 403 || res.status === 429) {
@@ -249,7 +250,15 @@ export async function blockedInCountry(apiKey, videoIds, country = TARGET_COUNTR
     if (!res.ok) throw new Error(`videos.list failed with ${res.status}`)
 
     const body = await res.json()
+    const seen = new Set()
     for (const item of body.items ?? []) {
+      seen.add(item.id)
+      // Unlisted, private or embed-disabled since it was mapped: same outcome
+      // for the player as a region block, so it gets the same verdict.
+      if (item.status?.privacyStatus !== 'public' || item.status?.embeddable === false) {
+        blocked.add(item.id)
+        continue
+      }
       const region = item.contentDetails?.regionRestriction
       if (!region) continue
       const denied =
@@ -257,6 +266,8 @@ export async function blockedInCountry(apiKey, videoIds, country = TARGET_COUNTR
         (Array.isArray(region.allowed) && !region.allowed.includes(country))
       if (denied) blocked.add(item.id)
     }
+    // An id the API no longer returns has been deleted.
+    for (const id of batch) if (!seen.has(id)) blocked.add(id)
   }
 
   return blocked

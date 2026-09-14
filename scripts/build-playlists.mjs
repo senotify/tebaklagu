@@ -147,18 +147,25 @@ async function ensureDurations(videoIds) {
   }
 }
 
-/** Records which of these videos our players can actually watch. */
+/**
+ * Records which of these videos our players can actually watch.
+ *
+ * Re-checked on every keyed build rather than cached like the lengths: a length
+ * never changes, but availability does — two audio uploads went unlisted within
+ * a fortnight of being mapped. At 1 unit per 50 ids the whole catalog costs
+ * under ten units to re-verify, so a sticky verdict would be false economy. The
+ * file exists so that a build *without* a key still knows the last answer.
+ */
 async function ensureRegions(videoIds) {
-  const unknown = [
-    ...new Set(videoIds.filter((id) => VIDEO_ID.test(id ?? '') && !(id in regions))),
-  ]
-  if (!unknown.length || !YT_KEY || quotaGone) return
+  const ids = [...new Set(videoIds.filter((id) => VIDEO_ID.test(id ?? '')))]
+  if (!ids.length || !YT_KEY || quotaGone) return
 
   try {
-    const blocked = await blockedInCountry(YT_KEY, unknown)
-    for (const id of unknown) {
-      regions[id] = blocked.has(id)
-      regionsChanged = true
+    const blocked = await blockedInCountry(YT_KEY, ids)
+    for (const id of ids) {
+      const verdict = blocked.has(id)
+      if (regions[id] !== verdict) regionsChanged = true
+      regions[id] = verdict
     }
   } catch (err) {
     if (!(err instanceof QuotaError)) throw err

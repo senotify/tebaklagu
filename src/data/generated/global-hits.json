@@ -9,16 +9,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1899060227,
-      "title": "End of Beginning",
-      "artist": "Djo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f13749b2a226afa7f5f866ce2f4d3015/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 4045817471,
       "title": "hate that i made you love me",
       "artist": "Ariana Grande",
       "cover": "https://cdn-images.dzcdn.net/images/cover/020b1804e8c8a2aba6770f5b2763847b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3591983602,
+      "title": "Génération impolie",
+      "artist": "Franglish",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/89e0e671e88f4ad96a635beaa3d12b8d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2947516331,
@@ -39,26 +39,6 @@
       "title": "I Just Might",
       "artist": "Bruno Mars",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d68fc5f1f260273691180b9f4b77b354/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3616144112,
-      "title": "Raindance",
-      "artist": "Dave",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/02552930a9bbf685ec4f683ff0ca2029/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2610711672,
-      "title": "Beautiful Things",
-      "artist": "Benson Boone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ab1ae3011977aa3c7f0a5f025a99cac9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "8ACRZw_IpKc",
-      "ytDuration": 181
-    },
-    {
-      "id": 4182547602,
-      "title": "petal",
-      "artist": "Ariana Grande",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4159582602,
@@ -117,24 +97,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b7aaad0f696b5dbfe7f1ebf2c72346a5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2755315691,
-      "title": "Love Me Not",
-      "artist": "Ravyn Lenae",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9801ef458ad49afbc613ca2abeb79734/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 908604632,
-      "title": "Save Your Tears",
-      "artist": "The Weeknd",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
-      "youtubeId": "qWXaFIhuSN4",
-      "ytDuration": 216
-    },
-    {
-      "id": 3410229851,
-      "title": "No Broke Boys",
-      "artist": "Disco Lines",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/87001d51243fd7164a02a74cb38e2e4c/250x250-000000-80-0-0.jpg"
+      "id": 564326662,
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fea07231e297ee0c926aad963fc333bd/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 908604612,
@@ -179,38 +145,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4e803aeb014d512c960b5cc7ccaa1800/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1109731,
-      "title": "Lose Yourself",
-      "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "BETUM7WsWjE",
-      "ytDuration": 324
-    },
-    {
-      "id": 3151351511,
-      "title": "back to friends",
-      "artist": "sombr",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/37a20b62f754b7ff5a9a29a8f2fe9d27/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3171003121,
-      "title": "EoO",
-      "artist": "Bad Bunny",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 2743578151,
       "title": "Espresso",
       "artist": "Sabrina Carpenter",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e3221287a77eb262944e6528766eeba4/250x250-000000-80-0-0.jpg",
       "youtubeId": "eVli-tstM5E",
       "ytDuration": 201
-    },
-    {
-      "id": 37027991,
-      "title": "Beauty And A Beat",
-      "artist": "Justin Bieber",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/312ece7b31fb86c7a13afd757e99437c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3412534581,
@@ -233,10 +173,22 @@
       "ytDuration": 158
     },
     {
+      "id": 4151325372,
+      "title": "oh yeah?",
+      "artist": "Steve Lacy",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c64458bda012cdf305dc92a07626a51d/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3965376601,
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b755e304f6639c3a231f9f67832850a2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4110481571,
+      "title": "FREAKED OUT",
+      "artist": "Fat Papi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e69f956c170f954f9763aeb49c99953c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 136889400,
@@ -253,30 +205,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3b2bfb1e50c0f46868e1aa6c4c1dd072/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 701987352,
-      "title": "Sous la lune",
-      "artist": "Jul",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d70dbea33c760ed8b7fdf77b90986e1f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2972837781,
-      "title": "Bad Dreams",
-      "artist": "Teddy Swims",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ebb148dd7d9d124ea9fbe39d4576fa46/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3602329332,
       "title": "Loser",
       "artist": "Tame Impala",
       "cover": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 136889434,
-      "title": "I Feel It Coming",
-      "artist": "The Weeknd",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "JPT8OBTdCow",
-      "ytDuration": 270
     },
     {
       "id": 3401554271,
@@ -291,12 +223,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5ebc9d85ff7ff0ca20b83dd59db8275b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 123883254,
-      "title": "This Is What You Came For",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg",
-      "youtubeId": "zCh4jIWOKrI",
-      "ytDuration": 222
+      "id": 4603408,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "6CWKazuQfz4",
+      "ytDuration": 293
     },
     {
       "id": 3579685451,
@@ -311,36 +243,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/34fdbc4aa1b7552d23d19117b02593d8/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3784724892,
-      "title": "Talk To You (ft. 54 Ultra)",
-      "artist": "ANOTR",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ab1abe2d073bf5a55943ccc6dff8bcdc/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 2661514912,
       "title": "Training Season",
       "artist": "Dua Lipa",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d2d717350a1f2fcc7ef9fb01eb84163f/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3250035161,
+      "title": "Mood",
+      "artist": "KeBlack",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/86e39453eccc691ad9f0fc09785ed533/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1685337397,
       "title": "LA FAMA",
       "artist": "ROSALÍA",
       "cover": "https://cdn-images.dzcdn.net/images/cover/66ae12120936d9660d3e30a7db7627b8/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 88936747,
-      "title": "Summer",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/250x250-000000-80-0-0.jpg",
-      "youtubeId": "XUULJPRIhq8",
-      "ytDuration": 221
-    },
-    {
-      "id": 3867905081,
-      "title": "Risk It All",
-      "artist": "Bruno Mars",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d68fc5f1f260273691180b9f4b77b354/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2105158337,
@@ -351,24 +269,10 @@
       "ytDuration": 201
     },
     {
-      "id": 3579685441,
-      "title": "Elizabeth Taylor",
-      "artist": "Taylor Swift",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 4078104881,
       "title": "stupid song",
       "artist": "Olivia Rodrigo",
       "cover": "https://cdn-images.dzcdn.net/images/cover/07d6896c8afea3a87dcf9381c3d0e6c7/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1109739,
-      "title": "Mockingbird",
-      "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ZcT4hPSS-6M",
-      "ytDuration": 251
     },
     {
       "id": 2801558062,
@@ -387,6 +291,22 @@
       "title": "Good Luck, Babe!",
       "artist": "Chappell Roan",
       "cover": "https://cdn-images.dzcdn.net/images/cover/377470fb0413c43587769a7dea37f691/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3129407,
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3dc29a565149240729afc08e1f251b46/250x250-000000-80-0-0.jpg",
+      "youtubeId": "HyHNuVaZJ-k",
+      "ytDuration": 255
+    },
+    {
+      "id": 2610711672,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ab1ae3011977aa3c7f0a5f025a99cac9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "8ACRZw_IpKc",
+      "ytDuration": 181
     },
     {
       "id": 62724015,
@@ -423,10 +343,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/cd1cc167d16454ce45401681fe6b25af/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2732302771,
-      "title": "Earrings",
-      "artist": "Malcolm Todd",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bee99e8730b8fb1ad941bbe2607a5a99/250x250-000000-80-0-0.jpg"
+      "id": 519797762,
+      "title": "Bwo",
+      "artist": "Jul",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6dbd163dd100518fa8d3d9c54f1f229d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 63510361,
@@ -443,12 +363,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/68502d8730fa4ce6a41e2cb4db6d2fb7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3454677991,
-      "title": "JUMP",
-      "artist": "BLACKPINK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 62847142,
       "title": "Titanium (feat. Sia)",
       "artist": "David Guetta",
@@ -463,6 +377,14 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 908604632,
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "qWXaFIhuSN4",
+      "ytDuration": 216
+    },
+    {
       "id": 3210598501,
       "title": "Timeless",
       "artist": "The Weeknd",
@@ -475,10 +397,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/052de888ea3a0a6f30d564850a07967d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3806024652,
-      "title": "Upside Down",
-      "artist": "Jaden Bojsen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a95872912e3e9b4fcb6bd3812c54fcd0/250x250-000000-80-0-0.jpg"
+      "id": 66609426,
+      "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Daft Punk",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc49adb87758e0c8c4e508a9c5cce85d/250x250-000000-80-0-0.jpg",
+      "youtubeId": "C6CYfFhlwkc",
+      "ytDuration": 248
     },
     {
       "id": 4022917771,
@@ -515,18 +439,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/12c05200e9097af48e0ad4fc259cee25/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 90533119,
-      "title": "Empire State Of Mind",
-      "artist": "JAŸ-Z",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e0edb930ad843bb002c04956a81ce7de/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3663852612,
-      "title": "Hips Don't Lie",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b570890728621ec68d5c5558164c3945/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3588926901,
       "title": "Stateside + Zara Larsson",
       "artist": "PinkPantheress",
@@ -541,10 +453,10 @@
       "ytDuration": 203
     },
     {
-      "id": 3434402411,
-      "title": "Together",
-      "artist": "David Guetta",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fa80d8f1f1d34199878977ab8fab263f/250x250-000000-80-0-0.jpg"
+      "id": 1425844092,
+      "title": "STAY",
+      "artist": "The Kid LAROI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dd6fe7fa9267185c4b835bd4f155d1d2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3400077541,
@@ -559,10 +471,26 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaf89238495473e9d78eb75e7a181322/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3187953971,
-      "title": "Show Me Love",
-      "artist": "WizTheMc",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d97e7b2b4811ad89d9c78acf815ac391/250x250-000000-80-0-0.jpg"
+      "id": 136889434,
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "JPT8OBTdCow",
+      "ytDuration": 270
+    },
+    {
+      "id": 10308117,
+      "title": "Give Me Everything (feat. Nayer)",
+      "artist": "Pitbull",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/93806e3105596219e5c241af4b7e1955/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 123883254,
+      "title": "This Is What You Came For",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af7ff13a47e2775307299843da9b36/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zCh4jIWOKrI",
+      "ytDuration": 222
     },
     {
       "id": 3454558661,
@@ -605,30 +533,30 @@
       "ytDuration": 216
     },
     {
+      "id": 3867905081,
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d68fc5f1f260273691180b9f4b77b354/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 579893072,
       "title": "Bad Liar",
       "artist": "Imagine Dragons",
       "cover": "https://cdn-images.dzcdn.net/images/cover/974997a0db8d1d0c2de1ebde4275997f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3881984641,
-      "title": "American Girls",
-      "artist": "Harry Styles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fee004942feff253f7bbca63740ab519/250x250-000000-80-0-0.jpg"
+      "id": 88936747,
+      "title": "Summer",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "XUULJPRIhq8",
+      "ytDuration": 221
     },
     {
       "id": 8011854,
       "title": "Marry You",
       "artist": "Bruno Mars",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 6461440,
-      "title": "Love The Way You Lie",
-      "artist": "Eminem",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/be682506145061814eddee648edb7c59/250x250-000000-80-0-0.jpg",
-      "youtubeId": "GL9IrfmNJe0",
-      "ytDuration": 264
     },
     {
       "id": 136336110,
@@ -663,6 +591,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 479801652,
+      "title": "M.I.L.S 2.0",
+      "artist": "Ninho",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1e8f03c4e6d13997881165f8def03edc/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3579685441,
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 99976954,
       "title": "Ride",
       "artist": "Twenty One Pilots",
@@ -681,6 +621,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/71486ce8b24f612c4887efa0f79a9f66/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3454677991,
+      "title": "JUMP",
+      "artist": "BLACKPINK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1375215222,
+      "title": "Dangerous Woman",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3806024652,
+      "title": "Upside Down",
+      "artist": "Jaden Bojsen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a95872912e3e9b4fcb6bd3812c54fcd0/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3210598391,
       "title": "Cry For Me",
       "artist": "The Weeknd",
@@ -697,12 +655,6 @@
       "title": "Call Out My Name",
       "artist": "The Weeknd",
       "cover": "https://cdn-images.dzcdn.net/images/cover/315804a0b7db8ec7dbe0f68413eb2cb5/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3651959272,
-      "title": "White Keys",
-      "artist": "Dominic Fike",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/17740f41f75d6c7af202fbf4b6dc6782/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 136889432,
@@ -729,10 +681,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 117708444,
-      "title": "Unstoppable",
-      "artist": "Sia",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5a86a131864e4bfdda6c45c31fdbee3d/250x250-000000-80-0-0.jpg"
+      "id": 654839522,
+      "title": "Nos souvenirs",
+      "artist": "Jok'air",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/105f755e65f62e3379ccbe254d668b3c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3210598411,
@@ -751,6 +703,32 @@
       "title": "One Last Time",
       "artist": "Ariana Grande",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b5021d5a88c44071a97416c65d4dbdd9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 8011849,
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3434402411,
+      "title": "Together",
+      "artist": "David Guetta",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fa80d8f1f1d34199878977ab8fab263f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 88897841,
+      "title": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0e4b8c4332328521ec4ed16b4b9e26b1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 629899852,
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EEhZAHZQyf4",
+      "ytDuration": 208
     },
     {
       "id": 8011855,
@@ -777,6 +755,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/021770bfdd65ae5978680a8e3b9e8899/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3187953971,
+      "title": "Show Me Love",
+      "artist": "WizTheMc",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c780c95574cff872aec4bbf78c7e8f04/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 737967292,
       "title": "Cruel Summer",
       "artist": "Taylor Swift",
@@ -799,6 +783,12 @@
       "title": "I Need Your Love (feat. Ellie Goulding)",
       "artist": "Calvin Harris",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3cd154b7ee332e7fb0dc3e8bd4085f6b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4092422631,
+      "title": "My Body Isn't Ready",
+      "artist": "sombr",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eae17bfb701e178e2070705e21dd1571/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 533609232,
@@ -837,18 +827,6 @@
       "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
       "artist": "Taylor Swift",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3524f60445caca0b06a75c30f1e9817c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3416737961,
-      "title": "Rein Me In",
-      "artist": "Sam Fender",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/58427e55d8d80f5c748937a1bdb7ed49/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3930376831,
-      "title": "Awake Tonight",
-      "artist": "AFROJACK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4ce5580a7b6c9e8470dd192b364ed0b3/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 88936743,
@@ -899,28 +877,16 @@
       "ytDuration": 212
     },
     {
-      "id": 61142285,
-      "title": "Feel So Close (Radio Edit)",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3cd154b7ee332e7fb0dc3e8bd4085f6b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1666673152,
-      "title": "Bam Bam (feat. Ed Sheeran)",
-      "artist": "Camila Cabello",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/28cb1aaa68fe58feccb15f023ef2e5d1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2801558112,
-      "title": "BLUE",
-      "artist": "Billie Eilish",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 62847150,
       "title": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "artist": "David Guetta",
       "cover": "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2729273551,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d4f0d9289d6f68204dee8a22fe777c70/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3606166592,
@@ -929,22 +895,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5abac68deeb720d1aaea68ae179608df/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3579685471,
-      "title": "Eldest Daughter",
-      "artist": "Taylor Swift",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg"
+      "id": 8011853,
+      "title": "The Lazy Song",
+      "artist": "Bruno Mars",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2365569495,
-      "title": "My Love Mine All Mine",
-      "artist": "Mitski",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/db69f7d3ea280f1155256705735648cd/250x250-000000-80-0-0.jpg"
+      "id": 542335432,
+      "title": "Promises",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0462e8724b04151a5d347b0b06579272/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 111780380,
-      "title": "I'm Not The Only One",
-      "artist": "Sam Smith",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/231c66c0ed260c708163eff3bb8458da/250x250-000000-80-0-0.jpg"
+      "id": 630827302,
+      "title": "Flashing Lights",
+      "artist": "Kanye West",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c6578a2099561992fb7544e6826f767/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 803010392,
@@ -953,22 +919,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/0da7f3792b522921eb9aa5a44f0a4ce7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3989395981,
-      "title": "Repeat It",
-      "artist": "Martin Garrix",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/47ef4963bb2745ad46e4c049e50c0ca9/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 62724017,
       "title": "Treasure",
       "artist": "Bruno Mars",
       "cover": "https://cdn-images.dzcdn.net/images/cover/2ae8e9f1714cc6cc9393f7873008f45c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3395410481,
-      "title": "Sapphire",
-      "artist": "Ed Sheeran",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0b7deb42c32cec244694b3d1608bea47/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3387508461,
@@ -989,16 +943,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3c50690401eed099df05e72f5080af1b/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2365569495,
+      "title": "My Love Mine All Mine",
+      "artist": "Mitski",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/db69f7d3ea280f1155256705735648cd/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 553056592,
       "title": "Say My Name",
       "artist": "David Guetta",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c292dc8a43814f6617f0e24e62c33489/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3871739701,
-      "title": "ALGO TÚ",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ca4857e3eef0b8daeb17919701bb0b37/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 117797212,
@@ -1031,10 +985,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/67bbf9fc8e49fc8d373c91963061572b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1375215222,
-      "title": "Dangerous Woman",
+      "id": 4182548192,
+      "title": "petal",
       "artist": "Ariana Grande",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 79875054,
@@ -1055,18 +1009,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 629899852,
-      "title": "thank u, next",
-      "artist": "Ariana Grande",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
-      "youtubeId": "EEhZAHZQyf4",
-      "ytDuration": 208
+      "id": 403074632,
+      "title": "Dusk Till Dawn (feat. Sia) (Radio Edit)",
+      "artist": "ZAYN",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a16b3974bb938cf6fdd290ea8c60baf0/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 119302924,
       "title": "Don't Let Me Down",
       "artist": "The Chainsmokers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/900c088fb241de8000b5ed849eba8536/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2386586085,
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6c91e64b7157f1332a4f6b0de9e4c714/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3387454721,
@@ -1087,10 +1045,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/fd3f599db05db84cf1392021daaf3a61/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2312663495,
-      "title": "Lose Control",
-      "artist": "Teddy Swims",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fb2f549900acdfaefeee8c718e42037b/250x250-000000-80-0-0.jpg"
+      "id": 542389552,
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5d4fa5c1b97100bf128909d766f06f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 136336116,
@@ -1125,22 +1083,28 @@
       "ytDuration": 247
     },
     {
+      "id": 5594020,
+      "title": "Memories (feat. Kid Cudi)",
+      "artist": "David Guetta",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cadee1e42f92abf85b07dff16f7fc195/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 364957401,
       "title": "Chantaje (feat. Maluma)",
       "artist": "Shakira",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c27b4d011105cd0b3c4aeb286671cbc4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4081857641,
-      "title": "The Time Of My Life",
-      "artist": "Benson Boone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4ce0a7f1618f7ae9b864998a74e84f81/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 138546009,
       "title": "Love In The Dark",
       "artist": "Adele",
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1378342592,
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e68da86fd7976135c2d2d1715afaef7c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 144572210,
@@ -1153,18 +1117,6 @@
       "title": "Boston",
       "artist": "STELLA LEFTY",
       "cover": "https://cdn-images.dzcdn.net/images/cover/66d6baca9df5092af22a710ce10d39cf/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3867905091,
-      "title": "Cha Cha Cha",
-      "artist": "Bruno Mars",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d68fc5f1f260273691180b9f4b77b354/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 5979887,
-      "title": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b9bc22abc42702fc1b1833f0c0b997a2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 579893412,
@@ -1199,12 +1151,6 @@
       "ytDuration": 210
     },
     {
-      "id": 1751426027,
-      "title": "Lovers Rock",
-      "artist": "TV Girl",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 83844534,
       "title": "Problem",
       "artist": "Ariana Grande",
@@ -1217,12 +1163,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/474dbbba0426b3609ba48657f2d82f3e/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 1666673152,
+      "title": "Bam Bam (feat. Ed Sheeran)",
+      "artist": "Camila Cabello",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/28cb1aaa68fe58feccb15f023ef2e5d1/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 111780376,
       "title": "Stay With Me",
       "artist": "Sam Smith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/231c66c0ed260c708163eff3bb8458da/250x250-000000-80-0-0.jpg",
       "youtubeId": "DFCiHOwglfM",
       "ytDuration": 173
+    },
+    {
+      "id": 61142285,
+      "title": "Feel So Close (Radio Edit)",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3cd154b7ee332e7fb0dc3e8bd4085f6b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1420768152,
@@ -1243,10 +1201,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 793163542,
-      "title": "Don't Start Now",
-      "artist": "Dua Lipa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e034bed266f42c0c68f8da3966a6abbc/250x250-000000-80-0-0.jpg"
+      "id": 1449740592,
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb2880548dd3bc71fb97def2eedec130/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 95813354,
+      "title": "See You Again (feat. Charlie Puth)",
+      "artist": "Wiz Khalifa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9411ab46dfc749311f7bbfd7398b7251/250x250-000000-80-0-0.jpg",
+      "youtubeId": "RgKAFK5djSk",
+      "ytDuration": 238
     },
     {
       "id": 3070297111,
@@ -1255,28 +1221,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6c2c1a78f959524655c380ecb4a45835/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 79589178,
-      "title": "Loca (feat. El Cata)",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e5f3faf34a31ae0a4552e7f86c819170/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 118195184,
       "title": "Cheap Thrills",
       "artist": "Sia",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5a86a131864e4bfdda6c45c31fdbee3d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 542335432,
-      "title": "Promises",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0462e8724b04151a5d347b0b06579272/250x250-000000-80-0-0.jpg"
+      "id": 2801558112,
+      "title": "BLUE",
+      "artist": "Billie Eilish",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1484264492,
-      "title": "Shivers",
-      "artist": "Ed Sheeran",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/38f1360bb17de383d44962a2a07d214f/250x250-000000-80-0-0.jpg"
+      "id": 435491472,
+      "title": "Don’t Blame Me",
+      "artist": "Taylor Swift",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2853373112,
@@ -1293,10 +1253,16 @@
       "ytDuration": 232
     },
     {
-      "id": 4006929681,
-      "title": "Satisfy",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b76dcf7f5f5abe3bbf55d36a2cf66ffe/250x250-000000-80-0-0.jpg"
+      "id": 3989395981,
+      "title": "Repeat It",
+      "artist": "Martin Garrix",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/47ef4963bb2745ad46e4c049e50c0ca9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3930376831,
+      "title": "Awake Tonight",
+      "artist": "AFROJACK",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4ce5580a7b6c9e8470dd192b364ed0b3/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3229131161,
@@ -1311,28 +1277,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 76066869,
-      "title": "La La La",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e38e706586ff79d1c6e17aa3c9f39420/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 2831602002,
       "title": "Please Please Please",
       "artist": "Sabrina Carpenter",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0fd6e3b346b959a8781ccfa89b63607a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1178682,
-      "title": "Stronger",
-      "artist": "Kanye West",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/15012d974c6263aec95e52e6d86cba23/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2310201655,
-      "title": "Stick Season",
-      "artist": "Noah Kahan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1cf9edd5673e4f9a070054fbd6166134/250x250-000000-80-0-0.jpg"
+      "id": 422202502,
+      "title": "Too Good At Goodbyes",
+      "artist": "Sam Smith",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d159abf10c91611bd3c3b2789c96535f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1905751117,
@@ -1341,16 +1295,36 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bd454eaa5398663a32af7fca8633b245/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 473784012,
+      "title": "Flames",
+      "artist": "David Guetta",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/00ba194ad2417b1cc6d79a34113995cb/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 63510362,
       "title": "On Top Of The World",
       "artist": "Imagine Dragons",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7e8314f4280cffde363547a495a260bc/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1557137132,
-      "title": "Oh My God",
-      "artist": "Adele",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg"
+      "id": 84572613,
+      "title": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d63b6ce2589b96cee3e6aa85d996023a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "irrkX4yKfMo",
+      "ytDuration": 259
+    },
+    {
+      "id": 3871739701,
+      "title": "ALGO TÚ",
+      "artist": "Shakira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ca4857e3eef0b8daeb17919701bb0b37/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3579685471,
+      "title": "Eldest Daughter",
+      "artist": "Taylor Swift",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 491446942,
@@ -1365,16 +1339,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/55a4721e8ba0d42aa17bda093d4c48e1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 484274992,
-      "title": "La tortura",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5908097a9257e92f79a253665ecf664b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4034890551,
-      "title": "the cure",
-      "artist": "Olivia Rodrigo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b15884852e9da55cb58c0a3ddca85cf5/250x250-000000-80-0-0.jpg"
+      "id": 4208732352,
+      "title": "That Way",
+      "artist": "KATSEYE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5386f47fd2360d8de97854fb57540010/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2397171765,
@@ -1383,16 +1351,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ddb9659de210aae7c26c0c1d9c845994/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 568003,
-      "title": "Beautiful Liar",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b329cc8e36d1245b264da86a97dfafed/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3410232121,
-      "title": "Folded",
-      "artist": "Kehlani",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f1b892e30ac58b8319d978d56dca572d/250x250-000000-80-0-0.jpg"
+      "id": 3935263851,
+      "title": "Sensa",
+      "artist": "Mensa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8680b93aef2553979ac75e4b16b93982/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 142986208,
@@ -1407,16 +1369,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4526778a5d900d3aba5d71385e18d25e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 5594020,
-      "title": "Memories (feat. Kid Cudi)",
-      "artist": "David Guetta",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cadee1e42f92abf85b07dff16f7fc195/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 118183736,
-      "title": "Atlantis",
-      "artist": "Seafret",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e59a365ce39fd0acf13d40a6da9a11c9/250x250-000000-80-0-0.jpg"
+      "id": 75981528,
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/26b5030b971a5fd363f82cad8cff7453/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1976903157,
@@ -1425,22 +1381,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f571cb780b339ec087201b1cea53c3d9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3454558671,
-      "title": "YUKON",
-      "artist": "Justin Bieber",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d0f4411377c5b6a81cdf18d9587a7641/250x250-000000-80-0-0.jpg"
+      "id": 913858,
+      "title": "Breathe Me",
+      "artist": "Sia",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e7e3467c5d3c104e76ecc94bc9abe586/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4222881662,
-      "title": "Constant Companion",
-      "artist": "Sam Smith",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9d92c8245c31159aefdc2a18d3090e26/250x250-000000-80-0-0.jpg"
+      "id": 79589178,
+      "title": "Loca (feat. El Cata)",
+      "artist": "Shakira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e5f3faf34a31ae0a4552e7f86c819170/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1842063487,
-      "title": "CUFF IT",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c3e2a951678a28a3f541a69c866583d4/250x250-000000-80-0-0.jpg"
+      "id": 3410232121,
+      "title": "Folded",
+      "artist": "Kehlani",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f1b892e30ac58b8319d978d56dca572d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3562948141,
+      "title": "A Couple Minutes",
+      "artist": "Olivia Dean",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b7aaad0f696b5dbfe7f1ebf2c72346a5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1690707237,
+      "title": "Evergreen (You Didn’t Deserve Me At All)",
+      "artist": "Omar Apollo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/25b3ef9310dc698e2a66e96fdb645a90/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 99976964,
@@ -1455,10 +1423,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 435491472,
-      "title": "Don’t Blame Me",
-      "artist": "Taylor Swift",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg"
+      "id": 441178812,
+      "title": "idontwannabeyouanymore",
+      "artist": "Billie Eilish",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c6e5ffd676146c447a4a81819c5d29ae/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1529509452,
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82f1bc61739e54407f05674256747ae4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 528330411,
@@ -1485,6 +1459,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/868162e87da67d647789ed7b6456840c/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4061554941,
+      "title": "EMERALD EYES",
+      "artist": "Alex Warren",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8b5f3ce32fcab014c9ac82cc2d508050/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1809158097,
       "title": "Waves",
       "artist": "Imagine Dragons",
@@ -1495,6 +1475,18 @@
       "title": "Yebba’s Heartbreak",
       "artist": "Drake",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ea8f80f2edb20885ac8aed8751716794/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 491446972,
+      "title": "Better Now",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3529873491,
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c2fd3775c93a906c415f3581b3b06d7e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1031382712,
@@ -1539,10 +1531,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e7957c650782f233d56a769869c86224/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 88936737,
-      "title": "Blame (feat. John Newman)",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/250x250-000000-80-0-0.jpg"
+      "id": 350171311,
+      "title": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 70697364,
@@ -1557,10 +1549,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/2e04300c8834f8ca4096220f88ac1d53/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1493915892,
-      "title": "THATS WHAT I WANT",
-      "artist": "Lil Nas X",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/18e6daf0a1c70c1346c44670ff70645d/250x250-000000-80-0-0.jpg"
+      "id": 1557137132,
+      "title": "Oh My God",
+      "artist": "Adele",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2726165731,
@@ -1569,22 +1561,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/980041bb2c42a9e0bcb40487206a298a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3498720101,
-      "title": "Fous ta cagoule",
-      "artist": "Fatal Bazooka",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8c2375438b4ffb6567afbfdc2c895d9e/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 2816073782,
       "title": "Sienna",
       "artist": "The Marías",
       "cover": "https://cdn-images.dzcdn.net/images/cover/574bd156ad04b9af443cdf6775cfa8c3/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 75526535,
-      "title": "Latch",
-      "artist": "Disclosure",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e44468007c45f2523d056a0b19eed80a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3763687462,
@@ -1593,10 +1573,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9da56c4f33a825f16a6ed3db0cd123f9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3326208711,
-      "title": "Headphones On",
-      "artist": "Addison Rae",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b41ebd8d73d8de9d58df3caef10625fe/250x250-000000-80-0-0.jpg"
+      "id": 4034890551,
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b15884852e9da55cb58c0a3ddca85cf5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2917264,
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c3924fb721c024dfebc8e4b137440fde/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 484274992,
+      "title": "La tortura",
+      "artist": "Shakira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5908097a9257e92f79a253665ecf664b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1516899042,
+      "title": "Cold Heart (Acoustic)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2182322087,
+      "title": "Miracle",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d0eb93aa3aa10117214550413ebf959/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2801558072,
@@ -1605,22 +1609,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5d284b31cb9ddeb1a0c79aede5a94e1c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2934378651,
-      "title": "Diet Pepsi",
-      "artist": "Addison Rae",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ee890cf16d00c684be76b0087c7108c4/250x250-000000-80-0-0.jpg"
+      "id": 742744952,
+      "title": "Circles",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6fb46005a49df7aeba49f1ca117f3710/250x250-000000-80-0-0.jpg",
+      "youtubeId": "y9QOPLPcOms",
+      "ytDuration": 215
     },
     {
-      "id": 614756502,
-      "title": "Giant",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/faa77ed242019d1c534e87da6bf153b0/250x250-000000-80-0-0.jpg"
+      "id": 830336932,
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/346c524c15ecccbc4a8a78e8972a352c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2461123655,
-      "title": "Hell N Back (feat. Summer Walker)",
-      "artist": "Bakar",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/250x250-000000-80-0-0.jpg"
+      "id": 871124582,
+      "title": "death bed (coffee for your head)",
+      "artist": "Powfu",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/85380bbb010f1b675c29ac06c6e343ea/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 138546001,
@@ -1629,16 +1635,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2170452207,
+      "title": "No Pole",
+      "artist": "Don Toliver",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1de09d4af3eef9cb4b21070dc6af8275/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 134533214,
+      "title": "Bird Set Free",
+      "artist": "Sia",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 441178832,
       "title": "watch",
       "artist": "Billie Eilish",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c6e5ffd676146c447a4a81819c5d29ae/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 913858,
-      "title": "Breathe Me",
-      "artist": "Sia",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e7e3467c5d3c104e76ecc94bc9abe586/250x250-000000-80-0-0.jpg"
+      "id": 4006929681,
+      "title": "Satisfy",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b76dcf7f5f5abe3bbf55d36a2cf66ffe/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 613138092,
@@ -1647,10 +1665,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d0d05906fbe4effeae6bfb8797939342/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2196044807,
-      "title": "Eyes Closed",
-      "artist": "Ed Sheeran",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/84254ff83cd57208458a37187dc3cf17/250x250-000000-80-0-0.jpg"
+      "id": 2047662437,
+      "title": "Trance",
+      "artist": "Metro Boomin",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 142986210,
@@ -1665,18 +1683,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b69d3bcbd130ad4cc9259de543889e30/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4230143942,
-      "title": "Inundauswendig",
-      "artist": "makko",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3d904148d76c51459012de51d0d17abb/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 441178812,
-      "title": "idontwannabeyouanymore",
-      "artist": "Billie Eilish",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c6e5ffd676146c447a4a81819c5d29ae/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 17347964,
       "title": "Headlines (Explicit Version)",
       "artist": "Drake",
@@ -1687,6 +1693,12 @@
       "title": "She Will",
       "artist": "Lil Wayne",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9cd3050aedcb4324e6ffc4477929f2db/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3537311621,
+      "title": "Camera",
+      "artist": "Ed Sheeran",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09f34007fcf245de7ef8f67d2173ee6e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 89077549,
@@ -1713,16 +1725,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 134533214,
-      "title": "Bird Set Free",
-      "artist": "Sia",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 491446972,
-      "title": "Better Now",
-      "artist": "Post Malone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/250x250-000000-80-0-0.jpg"
+      "id": 3913212711,
+      "title": "ALL THE TIME",
+      "artist": "John Summit",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e560e6a82f97689baaa001532f24225/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2780753191,
@@ -1743,22 +1749,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b81526e9d17c0c514bfafeb16db7e48c/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 5528232,
+      "title": "Eenie Meenie",
+      "artist": "Sean Kingston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9027a5e1c6387f3168c439ce4894b100/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 2827724612,
       "title": "MILLION DOLLAR BABY",
       "artist": "Tommy Richman",
       "cover": "https://cdn-images.dzcdn.net/images/cover/26989b6704a8656f2ceb4e3a148a55cd/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3399233781,
-      "title": "4 Raws",
-      "artist": "EsDeeKid",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/efdb627af294be73280594c3e89b09a1/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3232025631,
       "title": "NOKIA",
       "artist": "Drake",
       "cover": "https://cdn-images.dzcdn.net/images/cover/478562cdbafe4faa1515bd457042cc4a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 134533222,
+      "title": "Unstoppable",
+      "artist": "Sia",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/305b06b02f21849dd2bf45614e0fafef/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3106586641,
@@ -1773,12 +1785,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3243290871,
-      "title": "Mirándote",
-      "artist": "Rvfv",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/04f8dff2b186b69989d1399bdf155e77/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3984403821,
       "title": "The Line (from the series Arcane League of Legends)",
       "artist": "Twenty One Pilots",
@@ -1791,12 +1797,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e6f3afd8a5c3d8ea797f458694166e47/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 742744952,
-      "title": "Circles",
-      "artist": "Post Malone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6fb46005a49df7aeba49f1ca117f3710/250x250-000000-80-0-0.jpg",
-      "youtubeId": "y9QOPLPcOms",
-      "ytDuration": 215
+      "id": 84572615,
+      "title": "Don't Look Back in Anger (Remastered)",
+      "artist": "Oasis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d63b6ce2589b96cee3e6aa85d996023a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 94424876,
@@ -1811,16 +1815,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c2fd3775c93a906c415f3581b3b06d7e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3913212711,
-      "title": "ALL THE TIME",
-      "artist": "John Summit",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2e560e6a82f97689baaa001532f24225/250x250-000000-80-0-0.jpg"
+      "id": 2809780,
+      "title": "Right Round (feat. Ke$ha)",
+      "artist": "Flo Rida",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/58dc9260c84688e74eaef07ed39ffec9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1516899042,
-      "title": "Cold Heart (Acoustic)",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/250x250-000000-80-0-0.jpg"
+      "id": 829185532,
+      "title": "Alone, Pt. II",
+      "artist": "Alan Walker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5950c85f789a083d4be4dfaba9054483/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3326208711,
+      "title": "Headphones On",
+      "artist": "Addison Rae",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b41ebd8d73d8de9d58df3caef10625fe/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 138545997,
@@ -1829,10 +1839,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2461123655,
+      "title": "Hell N Back (feat. Summer Walker)",
+      "artist": "Bakar",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4022917791,
+      "title": "Shabang",
+      "artist": "Drake",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 79587598,
+      "title": "Fire Meet Gasoline",
+      "artist": "Sia",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4275db12f5e284b3c2f3e20726187b64/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1090279852,
       "title": "Courage to Change",
       "artist": "Sia",
       "cover": "https://cdn-images.dzcdn.net/images/cover/373f8702d86889b52b8e1e939be30a14/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4166111662,
+      "title": "THAT GIRL",
+      "artist": "Tyla",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5abac68deeb720d1aaea68ae179608df/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1938433187,
@@ -1847,16 +1881,52 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/0924ef037bd95dc8589af0316f64524b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4182547682,
-      "title": "like i do",
-      "artist": "Ariana Grande",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg"
+      "id": 630827252,
+      "title": "I Wonder",
+      "artist": "Kanye West",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c6578a2099561992fb7544e6826f767/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4222881662,
+      "title": "Constant Companion",
+      "artist": "Sam Smith",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9d92c8245c31159aefdc2a18d3090e26/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 909969,
+      "title": "Crank That (Soulja Boy)",
+      "artist": "Soulja Boy Tell'em",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f2b7c4addb7cb436493db455db8e8fb3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 140856305,
+      "title": "Scared to Be Lonely",
+      "artist": "Martin Garrix",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8e6e0c8973442986572a2e8a5492fdd9/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 706719772,
       "title": "Goodbyes",
       "artist": "Post Malone",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a34c120da927629e8c174d4ff3a29eed/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4230143942,
+      "title": "Inundauswendig",
+      "artist": "makko",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3d904148d76c51459012de51d0d17abb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2202055697,
+      "title": "Dive",
+      "artist": "Olivia Dean",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ea1ff0f64bdbfcf095aa8da57f8a1f75/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 141822951,
+      "title": "Alone",
+      "artist": "Alan Walker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4487657a1575fba874635ac43a042028/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2357139175,
@@ -1871,22 +1941,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/82cca97c900dadda4ce5876dce81c731/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15528008,
-      "title": "Killing Me Softly With His Song",
-      "artist": "Fugees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cbc404543f45cf93465906b61ec85687/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2929833161,
-      "title": "MUTT",
-      "artist": "Leon Thomas",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1c318762a31c79bd28e9f7951bdab5b4/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4105889521,
-      "title": "Wink Wink",
-      "artist": "Charli xcx",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b6baf32670043044bd8b92a69f76665d/250x250-000000-80-0-0.jpg"
+      "id": 83489074,
+      "title": "Blame (feat. John Newman)",
+      "artist": "Calvin Harris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/24752b394490f484832b0630abe659f3/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2459517745,
@@ -1901,28 +1959,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/efd66ec02dc81074e5b3e7825db4c380/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2726208491,
-      "title": "LEVII'S JEANS",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/250x250-000000-80-0-0.jpg"
+      "id": 2047662447,
+      "title": "Around Me",
+      "artist": "Metro Boomin",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3529873551,
-      "title": "When Did You Get Hot?",
-      "artist": "Sabrina Carpenter",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c2fd3775c93a906c415f3581b3b06d7e/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2165284027,
-      "title": "HINATA",
-      "artist": "TIF",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e48c2afa9da4d1665f3e1bfa001bf02a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3786127122,
-      "title": "La Maritza",
-      "artist": "Sylvie Vartan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c439941f687f6a0c8369e1704b32a1f7/250x250-000000-80-0-0.jpg"
+      "id": 536421042,
+      "title": "SKELETONS",
+      "artist": "Travis Scott",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7df7ac6028591a5622f24cf32a555510/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 562774682,
@@ -1943,16 +1989,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 136501636,
-      "title": "Angel By The Wings",
-      "artist": "Sia",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/52d69d2e03c985277aeb004057b92be1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3589406821,
-      "title": "Zoo (From \"Zootopia 2\")",
-      "artist": "Disney",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9f4b5ebb20806c3fbf45bc17a83035f4/250x250-000000-80-0-0.jpg"
+      "id": 117797204,
+      "title": "One Call Away",
+      "artist": "Charlie Puth",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3765666312,
@@ -1961,22 +2001,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b52aae18698a693e767e47a768153f57/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3412534591,
-      "title": "Strategy",
-      "artist": "TWICE",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 117797204,
-      "title": "One Call Away",
+      "id": 1653577992,
+      "title": "Light Switch (Acoustic)",
       "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1622528782,
-      "title": "Light Switch",
-      "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d632fc9cfbfc294984bdecf0dc6f9d16/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/954b5cac632d1cea45296d18fbb656c7/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 107900036,
@@ -1991,34 +2019,40 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2833834872,
-      "title": "Apple",
-      "artist": "Charli xcx",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/de9e79511cda59914de9add50946e43c/250x250-000000-80-0-0.jpg"
+      "id": 4152054632,
+      "title": "Dead Fresh",
+      "artist": "Lil Baby",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f33ab70e22f08e008ad8943bf3cbcbb7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3591340192,
-      "title": "bittersweet",
-      "artist": "Madison Beer",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a52aea8e5e3f28d5a303d919e11bbaa0/250x250-000000-80-0-0.jpg"
+      "id": 2185094157,
+      "title": "Feather",
+      "artist": "Sabrina Carpenter",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7aaba890ad0aa01f1e809578ad926322/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 99976950,
-      "title": "Heavydirtysoul",
-      "artist": "Twenty One Pilots",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dbbde1014cda9b101412a8e27add0ad2/250x250-000000-80-0-0.jpg"
+      "id": 4182547682,
+      "title": "like i do",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3514216471,
-      "title": "Jealous Type",
-      "artist": "Doja Cat",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0733e2ba03767a583e35cafc0fee076c/250x250-000000-80-0-0.jpg"
+      "id": 428537532,
+      "title": "20 Min",
+      "artist": "Lil Uzi Vert",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5786e1b86286cc386722ae62a4f3e6f1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3991431871,
-      "title": "Mexico Honey",
-      "artist": "Kacey Musgraves",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/250x250-000000-80-0-0.jpg"
+      "id": 350171251,
+      "title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 532768,
+      "title": "Stop Crying Your Heart Out",
+      "artist": "Oasis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e6275f8bdf1df45ea12a0776578a7d7a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3277684691,
@@ -2027,24 +2061,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/60a2a934343f79bc072539eac02526f0/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4311360,
-      "title": "Halo",
-      "artist": "Beyoncé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9e6686fb79ab27afcc7ceeaf98689277/250x250-000000-80-0-0.jpg",
-      "youtubeId": "Snaf2op6CTU",
-      "ytDuration": 262
+      "id": 3514216471,
+      "title": "Jealous Type",
+      "artist": "Doja Cat",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0733e2ba03767a583e35cafc0fee076c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3866248761,
-      "title": "GO",
-      "artist": "BLACKPINK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3924276621,
-      "title": "Need Your Love",
-      "artist": "OneRepublic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1c8ff59fa0c6d76cee8b90670f4cb314/250x250-000000-80-0-0.jpg"
+      "id": 99976950,
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dbbde1014cda9b101412a8e27add0ad2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 607452332,
@@ -2053,40 +2079,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a604e16926e62e4158a2a60e779892d1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3966979401,
-      "title": "Spend Dat",
-      "artist": "Yung Miami",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/16c9a2a5d0dbfd2093ad2cbbb4693cab/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2753115501,
-      "title": "I Can Do It With a Broken Heart",
-      "artist": "Taylor Swift",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/73bee9f48378d4c95139e693fd997569/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1860044337,
-      "title": "go (feat. Sam Smith)",
-      "artist": "Cat Burns",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8a019a9b10792227549a7d67e6b49af4/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 137726975,
       "title": "White Iverson",
       "artist": "Post Malone",
       "cover": "https://cdn-images.dzcdn.net/images/cover/efd66ec02dc81074e5b3e7825db4c380/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2672689962,
-      "title": "Saturn",
-      "artist": "SZA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/24965bc58fb4d1524b5615f9295c802c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3056032231,
-      "title": "Good News",
-      "artist": "Shaboozey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d5777636ec076cc1e663183b4c4069e9/250x250-000000-80-0-0.jpg"
+      "id": 2614584352,
+      "title": "redrum",
+      "artist": "21 Savage",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d1efd9562706fbc4facf4e86cbe78be4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 490821062,
@@ -2095,22 +2097,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bde761c4db175eab7504fc50d9ffb451/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2687704402,
-      "title": "Addicted",
-      "artist": "Zerb",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e22d134aa86cf6ffbb7eacd5f05e3b99/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3550943021,
       "title": "City Walls",
       "artist": "Twenty One Pilots",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5cda6b0fe2397e15aef9d48d909e16d9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 61644196,
-      "title": "Kiss You",
-      "artist": "One Direction",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d1458579e53353f4278f2e77ffc75b3b/250x250-000000-80-0-0.jpg"
+      "id": 2759124521,
+      "title": "Juna",
+      "artist": "Clairo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6dfa4ea965a74b93870a85daa74b7ca3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3412534591,
+      "title": "Strategy",
+      "artist": "TWICE",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 491446962,
@@ -2143,16 +2145,46 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5ef4779d20ab952d346e185f3b1dbce7/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3994187931,
+      "title": "ACAI",
+      "artist": "CORTIS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/10407b27dd835c6d24d05a3484b49709/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1860044337,
+      "title": "go (feat. Sam Smith)",
+      "artist": "Cat Burns",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a019a9b10792227549a7d67e6b49af4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3591340192,
+      "title": "bittersweet",
+      "artist": "Madison Beer",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a52aea8e5e3f28d5a303d919e11bbaa0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2304524,
+      "title": "When It Rains It Pours (Album Version Explicit)",
+      "artist": "50 Cent",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef6596def6de72795e573eaf05b9fb33/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3550943111,
       "title": "One Way",
       "artist": "Twenty One Pilots",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5cda6b0fe2397e15aef9d48d909e16d9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 99976958,
-      "title": "Tear in My Heart",
-      "artist": "Twenty One Pilots",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dbbde1014cda9b101412a8e27add0ad2/250x250-000000-80-0-0.jpg"
+      "id": 401358872,
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/35592b9e5e8d281e958381beaa932bf4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4105889521,
+      "title": "Wink Wink",
+      "artist": "Charli xcx",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6baf32670043044bd8b92a69f76665d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3550943031,
@@ -2167,70 +2199,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/da5256ff8cacfe9ad90521f6e3792259/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3239843321,
-      "title": "Call Me When You Break Up",
-      "artist": "Selena Gomez",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6f9bed70596a44a15a128972367b810e/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4232394042,
-      "title": "Fuck",
+      "id": 1775918667,
+      "title": "I Like You (A Happier Song)",
       "artist": "Post Malone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc01a239933c1747af976ff983bdc153/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bbea36069218d3a555cb91f54f9d2584/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 733720842,
-      "title": "Everybody Here Wants You",
-      "artist": "Jeff Buckley",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/aaaa3d909afea07f06cb1545c3f285ca/250x250-000000-80-0-0.jpg"
+      "id": 2790188102,
+      "title": "on one tonight",
+      "artist": "Gunna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a32e96724b42fba8b1b4f094ba4ffda5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3476812751,
-      "title": "I Think I Like You Better When You’re Gone",
-      "artist": "Reneé Rapp",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b86159cdf367eda57d744ad4542b0fe4/250x250-000000-80-0-0.jpg"
+      "id": 3444278051,
+      "title": "Vodka Cranberry",
+      "artist": "Conan Gray",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a827e769491a705534261902c17af3fb/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3473370681,
-      "title": "It Depends (feat. Bryson Tiller)",
-      "artist": "Chris Brown",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bcd51a5cad0408cb8731ef304969ac97/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3232179181,
-      "title": "Sally, When The Wine Runs Out",
-      "artist": "ROLE MODEL",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d49414f88d1e39f133a21797a016549f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2368216925,
-      "title": "Dial Drunk",
-      "artist": "Noah Kahan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/47efed6feec7cc7fee90eb739f5176a0/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1790673757,
-      "title": "DON'T YOU WORRY",
-      "artist": "Shakira",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d130e59dd8619b3f07e4c695274ec2e/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3278152451,
-      "title": "Just In Case",
-      "artist": "Morgan Wallen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1133408902,
-      "title": "Mercy Mercy Me (The Ecology)",
-      "artist": "Marvin Gaye",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dd5e37f720256949a07a7e1a91754550/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3092229871,
-      "title": "Better Me For You (Brown Eyes)",
-      "artist": "Max McNown",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/29fc365a0889643be90cc8036861ba52/250x250-000000-80-0-0.jpg"
+      "id": 2814515062,
+      "title": "Routines In The Night",
+      "artist": "Twenty One Pilots",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4f2819429ed92d35a649d609e39b29b5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3345513301,
@@ -2239,58 +2229,100 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7ff8036482a0ff11d824533276efd308/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 75739907,
-      "title": "#SELFIE",
-      "artist": "The Chainsmokers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/63020810ee5e696b956e5e59304f9b14/250x250-000000-80-0-0.jpg"
+      "id": 710629652,
+      "title": "PIMP",
+      "artist": "Bacao Rhythm & Steel Band",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c44e0c5c2f797d338437bd00d065273/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3278141801,
-      "title": "Love Me To Heaven",
-      "artist": "Jonas Brothers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7445479ca04786048d826a9224ea9410/250x250-000000-80-0-0.jpg"
+      "id": 3476812751,
+      "title": "I Think I Like You Better When You’re Gone",
+      "artist": "Reneé Rapp",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b86159cdf367eda57d744ad4542b0fe4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4112222691,
-      "title": "Too Fast To Live, Too Young To Die",
-      "artist": "Nessa Barrett",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5aee596faf9fa8dcb6aacc28a5f93e77/250x250-000000-80-0-0.jpg"
+      "id": 3023998591,
+      "title": "Moonlit Floor (Kiss Me)",
+      "artist": "LISA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/88f4f065a8b960f990792f897f150e11/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2788841312,
-      "title": "Lose My Breath (Feat. Charlie Puth)",
-      "artist": "Stray Kids",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/528c7b285e43379bfa03dbc2e51207a6/250x250-000000-80-0-0.jpg"
+      "id": 2687704402,
+      "title": "Addicted",
+      "artist": "Zerb",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e22d134aa86cf6ffbb7eacd5f05e3b99/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3949488111,
-      "title": "Obvious",
-      "artist": "Chris Brown",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a7ab758fef1fc4f7b097d6f1339f28a5/250x250-000000-80-0-0.jpg"
+      "id": 3232179181,
+      "title": "Sally, When The Wine Runs Out",
+      "artist": "ROLE MODEL",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d49414f88d1e39f133a21797a016549f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3466173051,
-      "title": "d£aler",
-      "artist": "Lola Young",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/13fa0c666a17230b4c5979b6a7b48ffb/250x250-000000-80-0-0.jpg"
+      "id": 637500692,
+      "title": "Clout",
+      "artist": "Offset",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3ef5fde6311ec032e426513330317f4d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 717723342,
-      "title": "Takeaway (feat. Lennon Stella)",
-      "artist": "The Chainsmokers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/838c1725d9559e1e89da8968e0850165/250x250-000000-80-0-0.jpg"
+      "id": 3330198551,
+      "title": "2 coups d'avance",
+      "artist": "Jul",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6db644d0b5c7801332ee580df98b931b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3918001161,
-      "title": "The Best",
-      "artist": "Conan Gray",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5330238493604368137ed102a7f4fd70/250x250-000000-80-0-0.jpg"
+      "id": 3812245462,
+      "title": "Rendezvous (feat. Yeat)",
+      "artist": "Don Toliver",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4078366841,
-      "title": "IS IT LOVE",
-      "artist": "Tyla",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5abac68deeb720d1aaea68ae179608df/250x250-000000-80-0-0.jpg"
+      "id": 3606415222,
+      "title": "Insolent 5",
+      "artist": "Bigflo & Oli",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/48ddc24ca3403ff9d3009cf6200c401c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1790673757,
+      "title": "DON'T YOU WORRY",
+      "artist": "Shakira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d130e59dd8619b3f07e4c695274ec2e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 7725556,
+      "title": "Kush (Main)",
+      "artist": "Dr. Dre",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fdc8b6533930fc4369b467befc2d76ef/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3925244121,
+      "title": "Just The Way You Are (David Guetta Remix)",
+      "artist": "Milky",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/618564c8d63da0a614123c8eaaebb4c4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2135303217,
+      "title": "If We Ever Broke Up",
+      "artist": "Mae Stephens",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8e82d39e84bfc7b660104893ee6a91bb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3239843321,
+      "title": "Call Me When You Break Up",
+      "artist": "Selena Gomez",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6f9bed70596a44a15a128972367b810e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2047662417,
+      "title": "Raindrops (Insane)",
+      "artist": "Metro Boomin",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1133408902,
+      "title": "Mercy Mercy Me (The Ecology)",
+      "artist": "Marvin Gaye",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dd5e37f720256949a07a7e1a91754550/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3944920411,
@@ -2299,10 +2331,118 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7c433c827fa75b7234e29dc755732627/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1449727522,
-      "title": "Happier Than Ever",
-      "artist": "Billie Eilish",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9955047483278bd0f93420951226ac44/250x250-000000-80-0-0.jpg"
+      "id": 3689236752,
+      "title": "Je suis en train de serrer",
+      "artist": "Jul",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f20d5280aff274be4cf8e5df6dba6ae/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2851908782,
+      "title": "Pour Me A Drink",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/15cb50b642c49c8264584598478c01c8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3918001161,
+      "title": "The Best",
+      "artist": "Conan Gray",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5330238493604368137ed102a7f4fd70/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3689236882,
+      "title": "Je m'en bats les couilles des gens ",
+      "artist": "Jul",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1f20d5280aff274be4cf8e5df6dba6ae/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3092229871,
+      "title": "Better Me For You (Brown Eyes)",
+      "artist": "Max McNown",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/29fc365a0889643be90cc8036861ba52/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 75739907,
+      "title": "#SELFIE",
+      "artist": "The Chainsmokers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/63020810ee5e696b956e5e59304f9b14/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3567854821,
+      "title": "Changes",
+      "artist": "Charlie Puth",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2788841312,
+      "title": "Lose My Breath (Feat. Charlie Puth)",
+      "artist": "Stray Kids",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/528c7b285e43379bfa03dbc2e51207a6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4144145192,
+      "title": "Konnichiwa",
+      "artist": "Future",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ac237e4f6a923c7f2be9e902545694b3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3466173051,
+      "title": "d£aler",
+      "artist": "Lola Young",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/13fa0c666a17230b4c5979b6a7b48ffb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3514958441,
+      "title": "Que des promesses",
+      "artist": "Jul",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b2a078502e8c4961475738857d04e838/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1970265437,
+      "title": "Cooped Up / Return Of The Mack",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4aaa340c2782747478a41bc29eb15595/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3949488111,
+      "title": "Obvious",
+      "artist": "Chris Brown",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7ab758fef1fc4f7b097d6f1339f28a5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 104011124,
+      "title": "Soul Survivor",
+      "artist": "Young Jeezy",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d76e67c1c13cc3c970a582570d812bb2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4078366841,
+      "title": "IS IT LOVE",
+      "artist": "Tyla",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5abac68deeb720d1aaea68ae179608df/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3884974,
+      "title": "Informer",
+      "artist": "Snow",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0996a0671d5398ebd0b2443f9ea8ce9e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 920894,
+      "title": "Loungin (Who Do Ya Luv)",
+      "artist": "LL COOL J",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c1c0cfb3b56af8eb79bd8a0deb7a4eb0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3278141801,
+      "title": "Love Me To Heaven",
+      "artist": "Jonas Brothers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7445479ca04786048d826a9224ea9410/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 952144662,
+      "title": "Otsukare Summer",
+      "artist": "HALCALI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/845635b7c7f33ea6ed37d7ed81665bae/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3898197411,
@@ -2311,28 +2451,46 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6c3c7eba052a647d3963842b435f3bdd/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 470205042,
-      "title": "Done for Me (feat. Kehlani)",
+      "id": 3778269082,
+      "title": "Beat Yourself Up",
       "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e8a3333f8b5382b07190a415e16248b4/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3539548191,
-      "title": "A COLD PLAY",
-      "artist": "The Kid LAROI",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/80e782e8eb2c2dfa0fc7e4fa2e375043/250x250-000000-80-0-0.jpg"
+      "id": 2896894551,
+      "title": "KEHLANI (REMIX) [feat. Kehlani]",
+      "artist": "Jordan Adetunji",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ad67c058888e61122fce0cb39ddd5d37/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1143767062,
-      "title": "Black Mamba",
-      "artist": "aespa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/72667c52af5ea28bbd7ca31acade158e/250x250-000000-80-0-0.jpg"
+      "id": 717723342,
+      "title": "Takeaway (feat. Lennon Stella)",
+      "artist": "The Chainsmokers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/838c1725d9559e1e89da8968e0850165/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 117797206,
-      "title": "Dangerously",
-      "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/250x250-000000-80-0-0.jpg"
+      "id": 2881248402,
+      "title": "Am I Okay?",
+      "artist": "Megan Moroney",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f505e162507b57bbd720084219f72370/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3660310,
+      "title": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
+      "artist": "Busta Rhymes",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/52e56ec727b0b020309da847ec6d35b3/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2514781,
+      "title": "Touch It",
+      "artist": "Busta Rhymes",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/455b88883e4e3eab7e2ca37d8b84f184/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4022106201,
+      "title": "touch myself",
+      "artist": "kwn",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6a483983d36794a1d3b2c5a3e64c65b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 139470657,
@@ -2341,16 +2499,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/671dda732469a866e38717e5c891628d/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4222060792,
+      "title": "Bottle",
+      "artist": "Remi Wolf",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/32a387a575b7b25cfbe4a52571092d91/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 129568032,
       "title": "Heathens",
       "artist": "Twenty One Pilots",
       "cover": "https://cdn-images.dzcdn.net/images/cover/552f4b953a02ecb92268b1c7a80d9b2d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 603095732,
-      "title": "Sick Boy",
-      "artist": "The Chainsmokers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d4c2f0a30382a7f62ccdde4a2d96d5fe/250x250-000000-80-0-0.jpg"
+      "id": 114438274,
+      "title": "Zer",
+      "artist": "Booba",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3ea4e7a79cb3b6b7cd6cc8b1419bc78a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 117797206,
+      "title": "Dangerously",
+      "artist": "Charlie Puth",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/948200588c813c1afd10f29b56e0ce50/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4057589031,
@@ -2359,46 +2529,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c64458bda012cdf305dc92a07626a51d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4034974291,
-      "title": "Brutalist",
-      "artist": "Kim Petras",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/75ab4e73cdde5116f2a14fea67bf050d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4205755712,
-      "title": "Harmony",
-      "artist": "ROLE MODEL",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/04115fcaea6cc4982f29b6f2f02e1fd1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3363451381,
-      "title": "Somebody",
-      "artist": "Latto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a01371ba666ab16d7bc224457d5610cb/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1848276887,
-      "title": "Obsessed",
-      "artist": "Calvin Harris",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/907c4f1d32cd017c7a791d6c0e27034d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3773782482,
-      "title": "Blink",
-      "artist": "Corbyn Besson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2525901b5d10ba64a482605539e9c9d1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1855555897,
-      "title": "Left and Right (Feat. Jung Kook of BTS) (Acapella)",
-      "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a82419994fe08cce12bd6fae390c3830/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3997456931,
-      "title": "I’m your girl right?",
-      "artist": "Tove Lo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d55e7973f2995db741326567b29de330/250x250-000000-80-0-0.jpg"
+      "id": 350171371,
+      "title": "DUCKWORTH.",
+      "artist": "Kendrick Lamar",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ce6b8452fae425557067db6e6a1cad5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4048364981,
@@ -2407,46 +2541,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/04115fcaea6cc4982f29b6f2f02e1fd1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3294753841,
-      "title": "FOMDJ",
-      "artist": "Playboi Carti",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/250x250-000000-80-0-0.jpg"
+      "id": 78282333,
+      "title": "I'm Not The Only One",
+      "artist": "Sam Smith",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/44e0fbe81ca549290348d3544375e29a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2722020152,
-      "title": "Staying",
-      "artist": "Lizzy McAlpine",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9db9c2213aec08a7d6d045e465c774b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2773576701,
-      "title": "Illusion",
-      "artist": "Dua Lipa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e77de425a3ba0c69f00e6525daec5738/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3038020371,
-      "title": "Guess featuring billie eilish",
-      "artist": "Charli xcx",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cb0212716fb2fafe362a1a475276b368/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3824532341,
-      "title": "Sideways",
+      "id": 1855555897,
+      "title": "Left and Right (Feat. Jung Kook of BTS) (Acapella)",
       "artist": "Charlie Puth",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a82419994fe08cce12bd6fae390c3830/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 346434701,
-      "title": "Paris",
-      "artist": "The Chainsmokers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d4451405fea03536f6788fa806045141/250x250-000000-80-0-0.jpg"
+      "id": 3773782482,
+      "title": "Blink",
+      "artist": "Corbyn Besson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2525901b5d10ba64a482605539e9c9d1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4136936181,
-      "title": "What If I Call",
-      "artist": "Alex Crichton",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e7c9690ae0efda68c9c2e89d57d28739/250x250-000000-80-0-0.jpg"
+      "id": 2047662427,
+      "title": "Umbrella",
+      "artist": "Metro Boomin",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2981829091,
@@ -2455,28 +2571,100 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/2f5f0c3357f08e1f6f50f85375fd4209/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 542373672,
-      "title": "no tears left to cry",
-      "artist": "Ariana Grande",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ec1976679a176cb4f448b12ce5966802/250x250-000000-80-0-0.jpg"
+      "id": 1572826,
+      "title": "Smack That",
+      "artist": "Akon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2f245a03c35a378d05bfdac5d9692d5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3358705661,
-      "title": "RATHER BE",
-      "artist": "Giveon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/122f213acad5fac27be7d80bce2baf7f/250x250-000000-80-0-0.jpg"
+      "id": 3294753841,
+      "title": "FOMDJ",
+      "artist": "Playboi Carti",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1780549867,
-      "title": "Cash In Cash Out (feat. 21 Savage & Tyler, The Creator)",
-      "artist": "Pharrell Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0217e94f55f097c4ff9ace206d5ab47a/250x250-000000-80-0-0.jpg"
+      "id": 15597825,
+      "title": "So What",
+      "artist": "P!nk",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/822dd8968617b2da70dcaa5804556512/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 412241052,
-      "title": "HUMBLE. (SKRILLEX REMIX)",
-      "artist": "Skrillex",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/264b3b6ba639ab6a22c4c781c5f3cbba/250x250-000000-80-0-0.jpg"
+      "id": 2174299177,
+      "title": "Daydreaming",
+      "artist": "NxWorries",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e1fa8fd8ec23589ac75bb3ff68b0f328/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3812245502,
+      "title": "Long Way To Calabasas",
+      "artist": "Don Toliver",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/123eb0268dfea84370a28c4a2114dc28/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2758511491,
+      "title": "No One Noticed",
+      "artist": "The Marías",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f52b33ab7f0a20f33ad708cf76ae875c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13131047,
+      "title": "Beautiful Liar",
+      "artist": "Beyoncé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a3afedf4800754b8c87eda2bf5cbd06b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2773576701,
+      "title": "Illusion",
+      "artist": "Dua Lipa",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e77de425a3ba0c69f00e6525daec5738/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3801373672,
+      "title": "The Enemy (feat. Fat Joe)",
+      "artist": "Big L",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9c98c3bf4d2bddd4d0eade2fd6481fad/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3278625221,
+      "title": "PHILLY",
+      "artist": "Playboi Carti",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8848c366508735e513fed3e2c6f2a6d1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4034974291,
+      "title": "Brutalist",
+      "artist": "Kim Petras",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/75ab4e73cdde5116f2a14fea67bf050d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3537311571,
+      "title": "Sapphire",
+      "artist": "Ed Sheeran",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/09f34007fcf245de7ef8f67d2173ee6e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3038020371,
+      "title": "Guess featuring billie eilish",
+      "artist": "Charli xcx",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb0212716fb2fafe362a1a475276b368/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2395988325,
+      "title": "HOT TO GO!",
+      "artist": "Chappell Roan",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a54f53cbda153bd227d7bb13c08141fe/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 346434701,
+      "title": "Paris",
+      "artist": "The Chainsmokers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d4451405fea03536f6788fa806045141/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 491446952,
+      "title": "Over Now",
+      "artist": "Post Malone",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4098248631,
@@ -2485,16 +2673,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/0145417ead01af5a269c325b83fbd30f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 533609262,
-      "title": "Mob Ties",
-      "artist": "Drake",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b69d3bcbd130ad4cc9259de543889e30/250x250-000000-80-0-0.jpg"
+      "id": 498386912,
+      "title": "How Long",
+      "artist": "Charlie Puth",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e8a3333f8b5382b07190a415e16248b4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4222881652,
-      "title": "Oh Mother",
-      "artist": "Sam Smith",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9d92c8245c31159aefdc2a18d3090e26/250x250-000000-80-0-0.jpg"
+      "id": 3655093702,
+      "title": "Zoo",
+      "artist": "Disney",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/06463e9688e247c48d3ecb1906e96425/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3896751421,
@@ -2503,40 +2691,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/2b7ebf336f61c1aca52c0bfec0a4b30e/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2006633347,
+      "title": "Diddy Bop",
+      "artist": "Noname",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e0289b3724236207b0fe7e57b798b422/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1118050432,
+      "title": "Diamonds",
+      "artist": "Sam Smith",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5952ccc871445c625459eeb11a269611/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 2364618805,
       "title": "Seven (feat. Latto)",
       "artist": "JUNG KOOK",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d1ddbc901bf7d7b43187fac1b1e6714e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1031382432,
-      "title": "august",
-      "artist": "Taylor Swift",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/290abe93bdda84bb8b170f30a4998c4c/250x250-000000-80-0-0.jpg"
+      "id": 1572829,
+      "title": "I Wanna Love You",
+      "artist": "Akon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e2f245a03c35a378d05bfdac5d9692d5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3208821271,
-      "title": "TWENTIES",
-      "artist": "Giveon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1aa9c09dadee575fa31aac09b0320cc1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1709049857,
-      "title": "Peace, Haine, Love",
-      "artist": "Josman",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/41fe7a990953eac384075e15be2dd945/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2732244871,
-      "title": "Ciao!",
-      "artist": "Bryson Tiller",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/53f2acd63497696fa8ce39ac3241b925/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1074608422,
-      "title": "Dusk Till Dawn (feat. Sia) (Radio Edit)",
-      "artist": "ZAYN",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/70245d07aebef01e6a241c66be54fc8f/250x250-000000-80-0-0.jpg"
+      "id": 2215534617,
+      "title": "slash",
+      "artist": "yama",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ad68a67a557c0211a9bb8d6da84c055/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3360666501,
@@ -2545,46 +2727,88 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/484c6d56a68d11d5ce4d69cb00eb5f2a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 443082582,
-      "title": "Modern Slavery",
-      "artist": "HUNCHO JACK",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6f18c8d5bdd7b675856c86163bed7f10/250x250-000000-80-0-0.jpg"
+      "id": 76563092,
+      "title": "Sweet November",
+      "artist": "SZA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1159962710260d77e5e18fa66bfd92e4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 96985436,
-      "title": "Doin' It Right",
-      "artist": "STS",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ae3a6ff27e6885f0314b374ee29cd7fe/250x250-000000-80-0-0.jpg"
+      "id": 1515337062,
+      "title": "Beyonce",
+      "artist": "AMARNI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ab4a2aec15185f9d71d71f711bc99973/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2861712612,
-      "title": "Utopia",
-      "artist": "Mojo Verta",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e5c2187320b3bd284dc4f56dec5de02e/250x250-000000-80-0-0.jpg"
+      "id": 2758748041,
+      "title": "Girl Song",
+      "artist": "beabadoobee",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1ca27b208e5b2ace3f055139f1cae5a6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 553056572,
-      "title": "Flames",
-      "artist": "David Guetta",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c292dc8a43814f6617f0e24e62c33489/250x250-000000-80-0-0.jpg"
+      "id": 2732244871,
+      "title": "Ciao!",
+      "artist": "Bryson Tiller",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/53f2acd63497696fa8ce39ac3241b925/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 407140832,
-      "title": "Too Good At Goodbyes",
-      "artist": "Sam Smith",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bfde5f2b6e87dfd7ad2ab74d6e7833e9/250x250-000000-80-0-0.jpg"
+      "id": 72059803,
+      "title": "Thrift Shop (feat. Wanz)",
+      "artist": "Macklemore & Ryan Lewis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/839828adc80ae0b9844c426335356603/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 498386912,
-      "title": "How Long",
+      "id": 595355582,
+      "title": "SICKO MODE (Skrillex Remix)",
+      "artist": "Travis Scott",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b6fcb2355d00296ca037f17ed3463b40/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3032502771,
+      "title": "Минимал",
+      "artist": "Элджей",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/da2b26034eadcf3ab120d359f679eab6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 60901819,
+      "title": "Latch",
+      "artist": "Disclosure",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9acccdfdc6b19e2a3df3f18fef9cdefb/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 498386922,
+      "title": "Done for Me (feat. Kehlani)",
       "artist": "Charlie Puth",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e8a3333f8b5382b07190a415e16248b4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 139102905,
-      "title": "Devil's Pie",
-      "artist": "D'Angelo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d18f588dbadfae952e81b274052f7e4/250x250-000000-80-0-0.jpg"
+      "id": 2197159417,
+      "title": "Private Landing (feat. Justin Bieber & Future)",
+      "artist": "Don Toliver",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c1c91598ad55452dc2700b326b593db8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4224164352,
+      "title": "Kisah Sedih Kontemporer (Air & Api)",
+      "artist": "Dongker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fd3aa58d702c259184e8d11b1f417d2a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 113416346,
+      "title": "Dizer Que Não (feat. Matay)",
+      "artist": "Dengaz",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/721471da947a59952ef4020d0ae87df1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2742775271,
+      "title": "FromHere (feat. Snoop Dogg & October London)",
+      "artist": "NxWorries",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0ab099323aa39b7c1bac6e16255fbbe1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3794754722,
+      "title": "Earth",
+      "artist": "K-391",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02be32b1cf95da86119488c910eef163/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2536499851,
@@ -2593,70 +2817,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef310e6d334b0ba975c9dec9ba086dfe/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 76563092,
-      "title": "Sweet November",
-      "artist": "SZA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1159962710260d77e5e18fa66bfd92e4/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3603854662,
-      "title": "Always",
-      "artist": "carl finn",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c2956bf0696cedab7244018fdbb93bdf/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3906793,
-      "title": "I Wish",
-      "artist": "Carl Thomas",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6a748266751f76ccda414bde10908cef/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3952206731,
-      "title": "Lowdii beats - Boogie Wonderland",
-      "artist": "Lowdii beats",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/79fac2d7040129d08913558c7b98e696/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 60725759,
-      "title": "Get Me Home",
-      "artist": "Foxy Brown",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/83988ad644e33a9f26149fe13036856d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2969255011,
-      "title": "Boyfriend",
-      "artist": "YEONJUN",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/87b941007cd1c60205d3b2293920ecae/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 7216934,
-      "title": "Grenade",
-      "artist": "Bruno Mars",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5b59dc18e109515420f8237719bd2186/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4078982021,
-      "title": "Sunshine",
-      "artist": "anaiis",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/37a9ff7573f04893019f3c3b837a4bef/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1775918747,
-      "title": "One Right Now",
-      "artist": "Post Malone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bbea36069218d3a555cb91f54f9d2584/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3137065741,
-      "title": "Garam & Madu (Sakit Dadaku)",
-      "artist": "TENXI",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3dc06a68c53c598ddeccd85d932e5546/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3349051701,
-      "title": "Kasih Aba Aba",
-      "artist": "Naykilla",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6a134796f998e3ea9777e41a0b2ac8a8/250x250-000000-80-0-0.jpg"
+      "id": 133543890,
+      "title": "Get Dis Money",
+      "artist": "Slum Village",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ede3f999fb82d6dee607904df2e34c07/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3968860621,
@@ -2665,16 +2829,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c5764be1aaf01715082ddf3f64ad1df0/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1397634372,
-      "title": "Parque de Bugambilias",
-      "artist": "Palmasur",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/61e43fc6250ebc0c5b1c9e0502b5d5d3/250x250-000000-80-0-0.jpg"
+      "id": 3958539291,
+      "title": "My Life",
+      "artist": "Durand Bernarr",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1eacceac2cb9c3ed8d0488544f50064c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4078982021,
+      "title": "Sunshine",
+      "artist": "anaiis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/37a9ff7573f04893019f3c3b837a4bef/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 69205012,
+      "title": "Thunder and Rain",
+      "artist": "Ambient Ameritz",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc7e0918015c55a65219cbae85da7e29/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1500482842,
       "title": "Legend",
       "artist": "Vshe",
       "cover": "https://cdn-images.dzcdn.net/images/cover/21f9e2dddcbac04c629521c167512d5b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 959600492,
+      "title": "Carry Me",
+      "artist": "David Crosby",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/50aa82dde79452d9400f67d85965d04d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 96398260,
@@ -2689,34 +2871,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/09edad4c548194870ab6bf9dbbf67157/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3506623421,
-      "title": "Bintang 5",
-      "artist": "TENXI",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e93839d303443fd40e70b69f3ae3d5ca/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3969099651,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8780b50037b09565a7db3eda89149b75/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 672458742,
-      "title": "Secukupnya",
-      "artist": "Hindia",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/270414e23ad218252ea616c1f94accc3/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2803641,
-      "title": "Hit 'Em wit da Hee (feat. Lil' Kim)",
-      "artist": "Missy Elliott",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b51ae3d912667b9ca2b948c1699d8866/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3033987511,
-      "title": "Whiplash",
-      "artist": "aespa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b62a48fd60d20e78af31bc1677c16114/250x250-000000-80-0-0.jpg"
+      "id": 3983486521,
+      "title": "Tina",
+      "artist": "Mickael Carreira",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/54dd48a2523278a6c6951c91200e7ab8/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3919196631,
@@ -2725,16 +2889,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3785a8bf8b2c849486a13337e79d287a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4006255011,
-      "title": "Nothing Like Hollywood",
-      "artist": "Haley Joelle",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f403257845eb198295b92e8be9ba8612/250x250-000000-80-0-0.jpg"
+      "id": 3958539161,
+      "title": "HELLO!",
+      "artist": "Durand Bernarr",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1eacceac2cb9c3ed8d0488544f50064c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 962678722,
-      "title": "Fade",
-      "artist": "Knowmadic",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8de4d8eb6d5b6f01ef19dfef22dbf88/250x250-000000-80-0-0.jpg"
+      "id": 3349051701,
+      "title": "Kasih Aba Aba",
+      "artist": "Naykilla",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a134796f998e3ea9777e41a0b2ac8a8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4003180501,
+      "title": "ALL BARS PT. II",
+      "artist": "SOLO K.OS",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4a57f4ccaf6e93c0b7bf6221731a50f6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 116535580,
+      "title": "Drown (Live from Maida Vale)",
+      "artist": "Bring Me The Horizon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5a98ba96f6518e44f7500013ecd48df/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2501350301,
@@ -2743,28 +2919,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f67a6148410c9e431f61491d18f4d659/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3939911671,
-      "title": "Thirsty",
-      "artist": "aespa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d5739dad39085c1849c3c453135b0ac8/250x250-000000-80-0-0.jpg"
+      "id": 3709294562,
+      "title": "Komang",
+      "artist": "Raim Laode",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7020354d87614d4d64210d9922cd795b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2789110362,
-      "title": "Supernova",
-      "artist": "aespa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8e4cda8e043eb119662a4e3fef19c587/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3171835511,
-      "title": "Accordion",
-      "artist": "Abstract Orchestra",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b102071ea8e141868081c042f5ee28e4/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3506623491,
-      "title": "Berubah",
-      "artist": "TENXI",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e93839d303443fd40e70b69f3ae3d5ca/250x250-000000-80-0-0.jpg"
+      "id": 824028352,
+      "title": "Who Do You Love",
+      "artist": "The Chainsmokers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5c645dbf2e3deab27e2afa537db8a088/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1810556117,
@@ -2773,256 +2937,124 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f3ea5a674d7314bc89a7e1ceedb6ab17/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2318096665,
-      "title": "Bless (Instrumental)",
-      "artist": "The Alchemist",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/306cb7f4bbe56a4eb9f55894d095c30a/250x250-000000-80-0-0.jpg"
+      "id": 3784058072,
+      "title": "disarankan di bandung (Explicit)",
+      "artist": "Dongker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d3f06cd3e6ae42d1c53e7699a5dd08cf/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1554452092,
-      "title": "Douloureux",
-      "artist": "Le Bon Nob",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dfd97d23ca7341cb95ed9519eed4abb5/250x250-000000-80-0-0.jpg"
+      "id": 3777246262,
+      "title": "Don't",
+      "artist": "LunoJames",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e88cadd50a430f76e4f2c6da471cad50/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3506623411,
-      "title": "mejikuhibiniu",
-      "artist": "TENXI",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e93839d303443fd40e70b69f3ae3d5ca/250x250-000000-80-0-0.jpg"
+      "id": 4136957021,
+      "title": "LazySundayMorning",
+      "artist": "LunoJames",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ce16f66772343dd1e738379127a4b26d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 95468810,
-      "title": "Day 5",
-      "artist": "Ta-ku",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/aea9e3badaf93a66f7954ef66f1ff02a/250x250-000000-80-0-0.jpg"
+      "id": 4165735292,
+      "title": "Самурай",
+      "artist": "Баста",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d97fc82d4e66a12424ad2b8c3a59e2f2/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 564894482,
-      "title": "Owl",
-      "artist": "HM Surf",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7f149b4ebe6931a602a2947bbb517c3d/250x250-000000-80-0-0.jpg"
+      "id": 3777246242,
+      "title": "So Come On Home",
+      "artist": "LunoJames",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e88cadd50a430f76e4f2c6da471cad50/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2790947462,
-      "title": "Armageddon",
-      "artist": "aespa",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/185323bb418693348a930cc4ea80e61d/250x250-000000-80-0-0.jpg"
+      "id": 2881929902,
+      "title": "ODDS&ENDS-Hatsune Miku Magical Mirai 10th Anniversary [Live]",
+      "artist": "ryo (supercell)",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d23a819aaa760ba82a6e6ef3b86187e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 962648902,
-      "title": "Forest Lake Walk",
-      "artist": "NO SPIRIT",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d0be5bd79585f035d22d14bfa81dd12e/250x250-000000-80-0-0.jpg"
+      "id": 4006255011,
+      "title": "Nothing Like Hollywood",
+      "artist": "Haley Joelle",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f403257845eb198295b92e8be9ba8612/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 852248042,
-      "title": "Sweev",
-      "artist": "Brenky",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7e956437f173ee8d6cc7645225836d8a/250x250-000000-80-0-0.jpg"
+      "id": 6916960,
+      "title": "Malam Mingguku",
+      "artist": "Yovie & Nuno",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/936e30ab97569288f8a0749fcb51f29e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 830399192,
-      "title": "Calcium",
-      "artist": "Bertholet",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0d86ee0352ddf8e154dec057a7ed976a/250x250-000000-80-0-0.jpg"
+      "id": 3418924791,
+      "title": "Rodger",
+      "artist": "LoveLE Conquer",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a5a2dba4d1b1dca0426d4b175f529295/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 912084872,
-      "title": "Loto",
-      "artist": "Made in M",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e78f53fbf8cd4334ba197f56aad023a8/250x250-000000-80-0-0.jpg"
+      "id": 1225735372,
+      "title": "Body (Joel Corry Remix)",
+      "artist": "Megan Thee Stallion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ac5f60eca8869dbfedfd97275be3e0b0/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 852059132,
-      "title": "Osaka Streets",
-      "artist": "hinako fukushi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7457280f84bd9cd29884fc58391fef5a/250x250-000000-80-0-0.jpg"
+      "id": 1496372232,
+      "title": "By The Pound (feat. Problem)",
+      "artist": "Demrick",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/86eac0404dd7bdd16f30fa519a5a4d58/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1698829357,
-      "title": "Winter Breeze",
-      "artist": "Speechless",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/43530a62e548a0ebc363372cb05f802d/250x250-000000-80-0-0.jpg"
+      "id": 3170000721,
+      "title": "Warok Ponorogo",
+      "artist": "KAJAWI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/548f3addec8dafea62b2829681306732/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1497261092,
-      "title": "Same Things Anymore",
-      "artist": "Uzuhan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/85f29caecdb79ce7296620f3ac831fad/250x250-000000-80-0-0.jpg"
+      "id": 681370332,
+      "title": "METEOR",
+      "artist": "DIVELA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7fd79c09d95ae716fc10cd5134e2b8c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1163322232,
-      "title": "Get Together (Instrumental)",
-      "artist": "Gang Starr",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/14ac7b9b49ec94e9e8dfe09f31e30b29/250x250-000000-80-0-0.jpg"
+      "id": 3926644531,
+      "title": "Menteri Durmagati",
+      "artist": "KAJAWI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/48f62cbc67a9326e38106732b5468a8a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 445998582,
-      "title": "wunDai",
-      "artist": "Knxwledge",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4736fca7277a0b202651ef9a38335b98/250x250-000000-80-0-0.jpg"
+      "id": 4125854371,
+      "title": "RINDU KALIAN",
+      "artist": "bagasdamass",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2a5fcf801f522fea050e5d1af022e78d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 373490851,
-      "title": "Kumo",
-      "artist": "GRILLABEATS",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c2b458177dfe81e500b4af25542caa44/250x250-000000-80-0-0.jpg"
+      "id": 3384498891,
+      "title": "Bujang Ganong",
+      "artist": "KAJAWI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43eb61bb9a2d6df9dbd587f05b5c9e1b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1344734942,
-      "title": "Best Friend (feat. Doja Cat) (Party Pupils Remix)",
-      "artist": "Saweetie",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6aaf2b28de47de4fe84b13dbe6dc3561/250x250-000000-80-0-0.jpg"
+      "id": 76420233,
+      "title": "Tanpa Cinta",
+      "artist": "Yovie & Nuno",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/26d2be8adfbc2af9b027474ea899feb9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3504647091,
-      "title": "Somehow",
-      "artist": "Idealism",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8e0630b16f1e5179f679a8b36211b917/250x250-000000-80-0-0.jpg"
+      "id": 2986705391,
+      "title": "Anti ∞ Hero",
+      "artist": "Mighfar Suganda",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5e15b47a31677f8f17fc442d4e437379/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2033559827,
-      "title": "dreamality",
-      "artist": "Nine x Nine",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d049a6ae2d881dda2656db5558b732e0/250x250-000000-80-0-0.jpg"
+      "id": 802844252,
+      "title": "Boarded",
+      "artist": "Sidual.",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/58897c15169f4cdc9a17caa4978077fa/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3258803251,
-      "title": "in a haze",
-      "artist": "Kaptain Kola",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f0624008fa121337f5262381b6e6bb0c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 445961842,
-      "title": "Cosmos",
-      "artist": "Oh No",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/640b505dfd3413960fc75340b06bfa90/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 684576782,
-      "title": "White Tea (feat. dr. nibbles)",
-      "artist": "Bertholet",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ea3dffd4ba8b03d4f1d3b5e903294c64/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 736258302,
-      "title": "Surf",
-      "artist": "Osoku",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/22cb7cac21e1a716c62a2ab84b151ba2/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 124949738,
-      "title": "What's Poppin' Tonite (Instrumental)",
-      "artist": "Havoc",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b73708600d6ed463fd1a148d78077deb/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 887422602,
-      "title": "Cleo",
-      "artist": "Boombox Experiments",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/30c422136c965200f4ca6cc0c4a54b22/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 446036082,
-      "title": "Aromatik",
-      "artist": "Knxwledge",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/eac24d38ae2fbf8f52fd068a72fdb146/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2319155985,
-      "title": "Nefertiti (Instrumental)",
-      "artist": "Georgia Anne Muldrow",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8af3157198c93c1d3e3b43b5ec00323/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 769241732,
-      "title": "Espoir",
-      "artist": "Philanthrope",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bccad59d651703dd351043bce9e1bd65/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 107330758,
-      "title": "Omari's Mood",
-      "artist": "Iman Omari",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8f09ebd56073ffd06c308ada4955e4c9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 850632242,
-      "title": "Limin",
-      "artist": "Clap Cotton",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7a4e8399175c37bd8a32c7d1e048d677/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1067577512,
-      "title": "Lullaby",
-      "artist": "BlakSoap",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0aaca06e40b4a3dea71a028474d374c1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1030473692,
-      "title": "Glacier Water",
-      "artist": "Wun Two",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5c43c69134cf9c74fb5ee5b0da88ccf6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 11313350,
-      "title": "Lava Lamp (Instrumental)",
-      "artist": "Oddisee",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/07b8755f76c8db59420401a48ae3de42/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 802079842,
-      "title": "Violet Dreams",
-      "artist": "Matt Large",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ec977fd01732c36b3d018e7673a5c6fc/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 465781092,
-      "title": "Fragments",
-      "artist": "H.1",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8289d0423d737452eeca1289f91ffc9b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2588151062,
-      "title": "Calm Waves",
-      "artist": "Mujo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/834ec0cef10b90fcdafd1851de2c1228/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 102479412,
-      "title": "Search the Sky",
-      "artist": "Prefuse 73",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4dd7931a514997e8cd2f67107225d69c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 564701152,
-      "title": "Graceful",
-      "artist": "Like",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b57c0f4944c340d294ce67d355e09c2c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2640679222,
-      "title": "she(was)",
-      "artist": "Two Sleepy",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d0744421b12b7853017ee4b8957a3fd6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1293430092,
-      "title": "Vapors",
-      "artist": "Guru Griff",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/42fd6289d66da319469c0f0a06632fdc/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 562686022,
-      "title": "Sierra",
-      "artist": "Steezy Prime",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5a43b9f524ec3aa3479bacb7119854cf/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2048078757,
-      "title": "Rhythm 2 (Saiko Soul Treat)",
-      "artist": "Saiko",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6cca0336bf736f38f07d74b950639a88/250x250-000000-80-0-0.jpg"
+      "id": 3957320871,
+      "title": "Wong Ndeso",
+      "artist": "KAJAWI",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c6b844a2b7662de045ee0ecc9c90c0c/250x250-000000-80-0-0.jpg"
     }
   ]
 }

@@ -9,6 +9,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4121872561,
+      "title": "Bonjour, Pardon, Merci",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/73abe141478876a6d5753d73d64445da/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 664107,
       "title": "Take on Me",
       "artist": "a-ha",
@@ -31,6 +37,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
       "youtubeId": "mWGNEHGhkn4",
       "ytDuration": 258
+    },
+    {
+      "id": 426703682,
+      "title": "Hotel California (2013 Remaster)",
+      "artist": "Eagles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 130855172,
+      "title": "Encore un soir",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/156da0776275f7afa331b1b7ee103e26/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 555639,
@@ -63,12 +81,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 59509611,
-      "title": "Dirty Diana (2012 Remaster)",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fb0a49a91ab8137ec9d028c4dbb04021/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1079668,
       "title": "Africa",
       "artist": "Toto",
@@ -89,24 +101,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 78213531,
-      "title": "Chicago",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8d0164d7161ac43452ec58201e56e3a4/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4121872561,
-      "title": "Bonjour, Pardon, Merci",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/73abe141478876a6d5753d73d64445da/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 15586296,
-      "title": "Don't Stop 'Til You Get Enough",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9a1084ee1062fd9cd8dbeb1a8978351d/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 66609426,
       "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
       "artist": "Daft Punk",
@@ -115,10 +109,10 @@
       "ytDuration": 248
     },
     {
-      "id": 134036248,
-      "title": "Another Day in Paradise (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/73e6481676a8ab3e93f0f7b79a9cff68/250x250-000000-80-0-0.jpg"
+      "id": 14552292,
+      "title": "I'm Alive",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/177346106112348e15ec4f9add0c1ef4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4603398,
@@ -127,12 +121,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
       "youtubeId": "QNJL6nfu__Q",
       "ytDuration": 282
-    },
-    {
-      "id": 831196,
-      "title": "Human Nature",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f01e09ceb8ad1e96707c1b4aadb5911b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2431707315,
@@ -173,12 +161,22 @@
       "ytDuration": 183
     },
     {
-      "id": 59509531,
-      "title": "Bad (2012 Remaster)",
+      "id": 871455,
+      "title": "Sous le vent",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/714c238edcb37ccb8c1a002501cddac1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4762939,
+      "title": "Destin",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 59509611,
+      "title": "Dirty Diana (2012 Remaster)",
       "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fb0a49a91ab8137ec9d028c4dbb04021/250x250-000000-80-0-0.jpg",
-      "youtubeId": "dsUXAEzaC3Q",
-      "ytDuration": 260
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fb0a49a91ab8137ec9d028c4dbb04021/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3133738,
@@ -189,12 +187,10 @@
       "ytDuration": 173
     },
     {
-      "id": 14525086,
-      "title": "Careless Whisper",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg",
-      "youtubeId": "izGwDsrQ1eQ",
-      "ytDuration": 301
+      "id": 2542703,
+      "title": "Could You Be Loved",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d66bb5d623fed6a464415dbc744df21/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3135553,
@@ -213,6 +209,12 @@
       "ytDuration": 298
     },
     {
+      "id": 78213531,
+      "title": "Chicago",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d0164d7161ac43452ec58201e56e3a4/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3135563,
       "title": "Veridis Quo",
       "artist": "Daft Punk",
@@ -225,6 +227,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 15586296,
+      "title": "Don't Stop 'Til You Get Enough",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9a1084ee1062fd9cd8dbeb1a8978351d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 627432,
+      "title": "On ne change pas",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 530300641,
       "title": "Three Little Birds",
       "artist": "Bob Marley & The Wailers",
@@ -233,10 +247,16 @@
       "ytDuration": 182
     },
     {
-      "id": 76376863,
-      "title": "Lay All Your Love On Me",
-      "artist": "ABBA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/36133053035ca8f184eb469901965ac0/250x250-000000-80-0-0.jpg"
+      "id": 61542538,
+      "title": "Parler à mon père",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4994a934896bc61b82a1e372c972f445/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 897720,
+      "title": "D'amour ou d'amitié",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b275e93e48d2fc82054e306490e56245/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 679217,
@@ -255,18 +275,18 @@
       "ytDuration": 249
     },
     {
+      "id": 831196,
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f01e09ceb8ad1e96707c1b4aadb5911b/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 664507,
       "title": "Like a Prayer",
       "artist": "Madonna",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cb3560d83ededa230d78f7bf047c583a/250x250-000000-80-0-0.jpg",
       "youtubeId": "qFh1wQ_5soM",
       "ytDuration": 341
-    },
-    {
-      "id": 871455,
-      "title": "Sous le vent",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/714c238edcb37ccb8c1a002501cddac1/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 624823,
@@ -277,12 +297,12 @@
       "ytDuration": 300
     },
     {
-      "id": 63480987,
-      "title": "Dreams (2004 Remaster)",
-      "artist": "Fleetwood Mac",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg",
-      "youtubeId": "mrZRURcb1cM",
-      "ytDuration": 254
+      "id": 59509531,
+      "title": "Bad (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fb0a49a91ab8137ec9d028c4dbb04021/250x250-000000-80-0-0.jpg",
+      "youtubeId": "dsUXAEzaC3Q",
+      "ytDuration": 260
     },
     {
       "id": 13129211,
@@ -299,20 +319,18 @@
       "ytDuration": 276
     },
     {
+      "id": 14552280,
+      "title": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/177346106112348e15ec4f9add0c1ef4/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 15593565,
       "title": "Heal the World",
       "artist": "Michael Jackson",
       "cover": "https://cdn-images.dzcdn.net/images/cover/93a5354699d552666448e1c87c976605/250x250-000000-80-0-0.jpg",
       "youtubeId": "BWf-eARnf6U",
       "ytDuration": 383
-    },
-    {
-      "id": 7675403,
-      "title": "I Will Always Love You",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg",
-      "youtubeId": "0NWxVQTuniw",
-      "ytDuration": 271
     },
     {
       "id": 576431,
@@ -327,6 +345,18 @@
       "title": "Levels (Radio Edit)",
       "artist": "Avicii",
       "cover": "https://cdn-images.dzcdn.net/images/cover/30bc3d8c348ddddb00c44f28d3120ac5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1144863,
+      "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/56121010d25e75058e2cc817037ad19b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3025678011,
+      "title": "Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/643d861edc0a6aa60d235344b65d28cd/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 7193834,
@@ -351,6 +381,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/662706e98f7e16249bf7d8e65b4974ff/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 714269242,
+      "title": "All By Myself",
+      "artist": "Céline Dion",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/348692abbdb9950a998c8d58cbba78b7/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 90632837,
       "title": "The Nights",
       "artist": "Avicii",
@@ -371,12 +407,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6fe420c62b5696019b9359b689785086/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3098217,
-      "title": "Feel",
-      "artist": "Robbie Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/147bdb75eec59a4cafe05bd2fb92e46d/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 70266758,
       "title": "Hey Brother",
       "artist": "Avicii",
@@ -389,12 +419,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dba55570a13a8be5d20e457a75091dd5/250x250-000000-80-0-0.jpg",
       "youtubeId": "VgGaJTI4-I8",
       "ytDuration": 243
-    },
-    {
-      "id": 627441,
-      "title": "S'il suffisait d'aimer",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 884030,
@@ -421,12 +445,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15593566,
-      "title": "Black or White",
-      "artist": "Michael Jackson",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/93a5354699d552666448e1c87c976605/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1182159,
       "title": "(Everything I Do) I Do It For You",
       "artist": "Bryan Adams",
@@ -439,40 +457,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ec97306735b46ec334e0ce562290775b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3025678011,
-      "title": "Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/643d861edc0a6aa60d235344b65d28cd/250x250-000000-80-0-0.jpg"
+      "id": 88902737,
+      "title": "Heaven",
+      "artist": "Bryan Adams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f5c062034dbbf74f9c158c51ba783871/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1144863,
-      "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "id": 44586841,
+      "title": "Sacrifice",
       "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/56121010d25e75058e2cc817037ad19b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 63480990,
-      "title": "Go Your Own Way (2004 Remaster)",
-      "artist": "Fleetwood Mac",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 130855172,
-      "title": "Encore un soir",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/156da0776275f7afa331b1b7ee103e26/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 61542538,
-      "title": "Parler à mon père",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4994a934896bc61b82a1e372c972f445/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 884040,
-      "title": "Voulez-Vous",
-      "artist": "ABBA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/75487ff41d0b649d6fc5742b30df9201/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3988410701,
@@ -481,10 +475,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3988410711,
-      "title": "Danceteria",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
+      "id": 7675403,
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg",
+      "youtubeId": "0NWxVQTuniw",
+      "ytDuration": 271
+    },
+    {
+      "id": 15194531,
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3098217,
+      "title": "Feel",
+      "artist": "Robbie Williams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/147bdb75eec59a4cafe05bd2fb92e46d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 15593563,
@@ -493,28 +501,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/93a5354699d552666448e1c87c976605/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 530300621,
-      "title": "No Woman, No Cry (Live At The Lyceum, London/1975)",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3988410671,
-      "title": "I Feel So Free",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1162676,
       "title": "Don't Go Breaking My Heart",
       "artist": "Elton John",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5d26879f1c0ceb4fe8f7a6ae44e6af75/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 627432,
-      "title": "On ne change pas",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/48661a4a6672225ea9d189892c99044b/250x250-000000-80-0-0.jpg"
+      "id": 14343282,
+      "title": "One",
+      "artist": "U2",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/64b797ea83d52f3869593a448c790a4d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 530300751,
@@ -523,40 +519,60 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 897720,
-      "title": "D'amour ou d'amitié",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b275e93e48d2fc82054e306490e56245/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4762939,
-      "title": "Destin",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 884033,
       "title": "Super Trouper",
       "artist": "ABBA",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2542705,
-      "title": "Redemption Song",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8d66bb5d623fed6a464415dbc744df21/250x250-000000-80-0-0.jpg"
+      "id": 8146779,
+      "title": "Faith (Remastered)",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f24a4351040ae09175cbd775607aafe6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 530300711,
-      "title": "Waiting In Vain",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
+      "id": 15593566,
+      "title": "Black or White",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/93a5354699d552666448e1c87c976605/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 75981528,
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/26b5030b971a5fd363f82cad8cff7453/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2237439,
       "title": "Buffalo Soldier",
       "artist": "Bob Marley & The Wailers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d8e8f73a61e6cdb06cd35efa19fd640b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 350027751,
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 24967291,
+      "title": "Part-Time Lover",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/df498fc2f67f2ea6411e5429e2dcce5f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 596034702,
+      "title": "Superstition",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "pOMejIeE5V0",
+      "ytDuration": 245
+    },
+    {
+      "id": 3138729,
+      "title": "Angels",
+      "artist": "Robbie Williams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5935312518318960f38f80409cf56d83/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3129775,
@@ -571,16 +587,34 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/329c772be6103678d4c53c43d293cd51/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1879746947,
-      "title": "Hold Me Closer",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e899057a79bfe5b111c79159cf89b821/250x250-000000-80-0-0.jpg"
+      "id": 63480990,
+      "title": "Go Your Own Way (2004 Remaster)",
+      "artist": "Fleetwood Mac",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1124111,
-      "title": "The Bitch Is Back (Remastered 1995)",
+      "id": 3988410711,
+      "title": "Danceteria",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 884040,
+      "title": "Voulez-Vous",
+      "artist": "ABBA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1146286,
+      "title": "Nikita",
       "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4645b72275fc902d8f2ee5d298bcfac0/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/255444f7eb6ad95d948fc099ed1d66dd/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3988410671,
+      "title": "I Feel So Free",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 884036,
@@ -589,16 +623,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 14343282,
-      "title": "One",
-      "artist": "U2",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/64b797ea83d52f3869593a448c790a4d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 44586841,
-      "title": "Sacrifice",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/75487ff41d0b649d6fc5742b30df9201/250x250-000000-80-0-0.jpg"
+      "id": 530300621,
+      "title": "No Woman, No Cry (Live At The Lyceum, London/1975)",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3135556,
@@ -619,22 +647,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/311bba0fc112d15f72c8b5a65f0456c1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1579267,
-      "title": "New Year's Day (Remastered 2008)",
-      "artist": "U2",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c66b126bb3afe75c7fedd62f9df4956b/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 139138751,
       "title": "Night Fever (From \"Saturday Night Fever\" Soundtrack)",
       "artist": "Bee Gees",
       "cover": "https://cdn-images.dzcdn.net/images/cover/abf272cffad9fb2b1552421ac6fac9c2/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 8146779,
-      "title": "Faith (Remastered)",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f24a4351040ae09175cbd775607aafe6/250x250-000000-80-0-0.jpg"
+      "id": 1516899042,
+      "title": "Cold Heart (Acoustic)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4368116,
@@ -661,18 +683,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/0199f3f00d23ed0916cf748d9b5d5030/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 596034702,
-      "title": "Superstition",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg",
-      "youtubeId": "pOMejIeE5V0",
-      "ytDuration": 245
+      "id": 530300711,
+      "title": "Waiting In Vain",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2511970,
       "title": "We Belong Together",
       "artist": "Mariah Carey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dbd77fe2d938b191c990db84008edbff/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 7675404,
+      "title": "I Have Nothing",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 134036220,
@@ -687,10 +713,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/838672ef415337430186a0d50a8dfb35/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 10392088,
-      "title": "Freedom! '90 (Remastered)",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/250x250-000000-80-0-0.jpg"
+      "id": 1879746947,
+      "title": "Hold Me Closer",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e899057a79bfe5b111c79159cf89b821/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1124111,
+      "title": "The Bitch Is Back (Remastered 1995)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4645b72275fc902d8f2ee5d298bcfac0/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 67238730,
@@ -713,10 +745,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8fa73ee0a709c115d3f2f46e9fe09010/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 24967291,
-      "title": "Part-Time Lover",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/df498fc2f67f2ea6411e5429e2dcce5f/250x250-000000-80-0-0.jpg"
+      "id": 62710442,
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg",
+      "youtubeId": "yccaWvfiCvk",
+      "ytDuration": 240
     },
     {
       "id": 723861,
@@ -725,16 +759,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/329c772be6103678d4c53c43d293cd51/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3988410691,
-      "title": "One Step Away",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 538709682,
-      "title": "Happy Birthday",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
+      "id": 20535911,
+      "title": "Slipping Through My Fingers",
+      "artist": "ABBA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b0e0addb44a32260c73397df3e8960dc/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71483067,
@@ -743,16 +771,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/621c706e3416c6c52671ab7fe11878f6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 75859736,
-      "title": "Goodbye Yellow Brick Road (Remastered 2014)",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b34f389d15bcc5842d140c9c29e3bbd5/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3988410761,
-      "title": "Bizarre",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/368e162b61376cf1a35311d69e5744c8/250x250-000000-80-0-0.jpg"
+      "id": 962260,
+      "title": "My Love Is Your Love",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5116544ed84bc468877d02fcfe4bf8f6/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3129772,
@@ -767,16 +789,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/932dfa45ef2413ce4dbe8bac14f5a300/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 75859735,
+      "title": "Bennie And The Jets (Remastered 2014)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b34f389d15bcc5842d140c9c29e3bbd5/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 664456,
       "title": "Little Lies",
       "artist": "Fleetwood Mac",
       "cover": "https://cdn-images.dzcdn.net/images/cover/662706e98f7e16249bf7d8e65b4974ff/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1516899042,
-      "title": "Cold Heart (Acoustic)",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0688a24c3ec63edbbc173eff549c2dba/250x250-000000-80-0-0.jpg"
+      "id": 596015,
+      "title": "Hero",
+      "artist": "Mariah Carey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6a1aeef41619907cc283d4eb1eac2fe6/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 686746862,
@@ -787,30 +815,16 @@
       "ytDuration": 307
     },
     {
-      "id": 4945407,
-      "title": "I Wanna Dance with Somebody (Who Loves Me)",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/982ca08031f33ab45fb4208e422f7786/250x250-000000-80-0-0.jpg",
-      "youtubeId": "hxmDhnGpwis",
-      "ytDuration": 293
+      "id": 1579267,
+      "title": "New Year's Day (Remastered 2008)",
+      "artist": "U2",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c66b126bb3afe75c7fedd62f9df4956b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2061077777,
       "title": "Walk This Way",
       "artist": "Aerosmith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0452f403863e9c216eff7e975da2c765/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 530300741,
-      "title": "Exodus",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 68097787,
-      "title": "Hotel California (2013 Remaster)",
-      "artist": "Eagles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ef02459f8e72f33acef71617a97d3999/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2525878,
@@ -825,10 +839,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/98ab83037b73f9fab9d97b5644ea2668/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 678369,
+      "title": "Live to Tell",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/43a8e2b1b035391f58b0927cf1040bc4/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 66315754,
       "title": "Sun Is Shining",
       "artist": "Bob Marley & The Wailers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f41d2af0e23d8309e05bf52a7c77a2b1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 10392088,
+      "title": "Freedom! '90 (Remastered)",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 576423,
@@ -837,16 +863,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e66b5d3a40f69690c1633afb73cc590c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1146286,
-      "title": "Nikita",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/255444f7eb6ad95d948fc099ed1d66dd/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1055776,
       "title": "Suspicious Minds",
       "artist": "Elvis Presley",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3598c1cdd425022000eba13ade236e8d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3135555,
+      "title": "Digital Love",
+      "artist": "Daft Punk",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2315240,
@@ -861,14 +887,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/153332e88a14255a8c3d5959a5a21882/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 62710442,
-      "title": "All I Want for Christmas Is You",
-      "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg",
-      "youtubeId": "yccaWvfiCvk",
-      "ytDuration": 240
-    },
-    {
       "id": 1081145,
       "title": "Georgy Porgy",
       "artist": "Toto",
@@ -881,22 +899,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9faa70be1a2e8d8d270fd1c913e715ce/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 723836,
-      "title": "Holiday",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/329c772be6103678d4c53c43d293cd51/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 122015000,
       "title": "One More Night (2016 Remaster)",
       "artist": "Phil Collins",
       "cover": "https://cdn-images.dzcdn.net/images/cover/898bc8349e4d55b9282af885975c372b/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3667551,
+      "title": "Music",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/32fa1f6bf870f558de0e874ee04be456/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 63480989,
       "title": "Don't Stop (2004 Remaster)",
       "artist": "Fleetwood Mac",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 88902735,
+      "title": "Run To You",
+      "artist": "Bryan Adams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f5c062034dbbf74f9c158c51ba783871/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 427219192,
@@ -917,12 +941,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8a0f4643283f28a111161ffa247f6509/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 664115,
-      "title": "The Sun Always Shines on T.V.",
-      "artist": "a-ha",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 350027741,
       "title": "You Should Be Dancing",
       "artist": "Bee Gees",
@@ -935,16 +953,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 134036250,
+      "title": "I Wish It Would Rain Down (2016 Remaster)",
+      "artist": "Phil Collins",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/73e6481676a8ab3e93f0f7b79a9cff68/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3135561,
       "title": "Something About Us",
       "artist": "Daft Punk",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 75859735,
-      "title": "Bennie And The Jets (Remastered 2014)",
-      "artist": "Elton John",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b34f389d15bcc5842d140c9c29e3bbd5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 86648039,
@@ -965,16 +983,48 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6a1aeef41619907cc283d4eb1eac2fe6/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 10392072,
+      "title": "Careless Whisper",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/250x250-000000-80-0-0.jpg",
+      "youtubeId": "izGwDsrQ1eQ",
+      "ytDuration": 301
+    },
+    {
+      "id": 830200,
+      "title": "Heartbreaker (feat. JAŸ-Z)",
+      "artist": "Mariah Carey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f90495128acbb4808b6fe43ef12a3912/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1113840,
       "title": "Sorry Seems To Be The Hardest Word",
       "artist": "Elton John",
       "cover": "https://cdn-images.dzcdn.net/images/cover/67b277679884b87ef6c39eb6cf222ee1/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 782937,
+      "title": "Sway",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a5dd92ae1b53ad19f39e3036dd510541/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3135554,
       "title": "Aerodynamic",
       "artist": "Daft Punk",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 596034792,
+      "title": "Master Blaster (Jammin')",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 6463613,
+      "title": "Crying in the Rain",
+      "artist": "a-ha",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c79804ef54033e72fb62167f4598ef25/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 701281342,
@@ -989,16 +1039,48 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f24a4351040ae09175cbd775607aafe6/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 676011622,
+      "title": "I Wish",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3135562,
+      "title": "Voyager",
+      "artist": "Daft Punk",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 7523851,
+      "title": "I Started A Joke",
+      "artist": "Bee Gees",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5883d12ed7e1c6b50ea57437e501dc0b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 664450,
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/662706e98f7e16249bf7d8e65b4974ff/250x250-000000-80-0-0.jpg",
+      "youtubeId": "mrZRURcb1cM",
+      "ytDuration": 254
+    },
+    {
+      "id": 723836,
+      "title": "Holiday",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/329c772be6103678d4c53c43d293cd51/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3824997371,
+      "title": "Into the Groove",
+      "artist": "Madonna",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d2889b2f34142eef8fc1056dfda8ce9/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 71483080,
       "title": "Theme From New York, New York (2008 Remastered)",
       "artist": "Frank Sinatra",
       "cover": "https://cdn-images.dzcdn.net/images/cover/621c706e3416c6c52671ab7fe11878f6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 596034792,
-      "title": "Master Blaster (Jammin')",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc11aaf0240dbaf1548639e1c5df8db8/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 621418512,
@@ -1025,22 +1107,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/180aa9765fc833587bc684ea1791244b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3135555,
-      "title": "Digital Love",
-      "artist": "Daft Punk",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5718f7c81c27e0b2417e2a4c45224f8a/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1131194,
       "title": "Greatest Love of All",
       "artist": "Whitney Houston",
       "cover": "https://cdn-images.dzcdn.net/images/cover/e5712b346f0ca0f167da8ffd7588db3f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3099009,
-      "title": "She's The One",
-      "artist": "Robbie Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d97332e17a89414a877cce274d86d95/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 129231818,
@@ -1049,34 +1119,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1e69256bb6a679e44b697c578edbcbd9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 67238731,
-      "title": "Within",
-      "artist": "Daft Punk",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/311bba0fc112d15f72c8b5a65f0456c1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 538709352,
-      "title": "Isn't She Lovely",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 350027641,
-      "title": "To Love Somebody",
-      "artist": "Bee Gees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 393460712,
       "title": "Lonely Together",
       "artist": "Avicii",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8fa73ee0a709c115d3f2f46e9fe09010/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4231994012,
-      "title": "The Ballad Of Terry Fox",
-      "artist": "Bryan Adams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/efa1f8d3bab57719ba2b9f010f87be3b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 350027801,
@@ -1091,6 +1137,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/cfe8417f09a3b563f618c274696eacf1/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 2525869,
+      "title": "Every Little Thing She Does Is Magic",
+      "artist": "The Police",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1582154,
       "title": "Have You Ever Really Loved A Woman? (From \"Don Juan DeMarco\" Soundtrack)",
       "artist": "Bryan Adams",
@@ -1103,22 +1155,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d06a154d9a233d46917ef47e8484ea74/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 788643242,
-      "title": "Signed, Sealed, Delivered (I'm Yours)",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0c02b871a05443d19dd79e3ca4bc3865/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 88902735,
-      "title": "Run To You",
-      "artist": "Bryan Adams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f5c062034dbbf74f9c158c51ba783871/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3102420,
       "title": "Supreme",
       "artist": "Robbie Williams",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d260fa442f925e1eb1c95bb29941f636/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2525862,
+      "title": "Can't Stand Losing You",
+      "artist": "The Police",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 10392085,
@@ -1157,28 +1203,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/36133053035ca8f184eb469901965ac0/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 830200,
-      "title": "Heartbreaker (feat. JAY-Z)",
-      "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f90495128acbb4808b6fe43ef12a3912/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 782937,
-      "title": "Sway",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a5dd92ae1b53ad19f39e3036dd510541/250x250-000000-80-0-0.jpg"
+      "id": 10392080,
+      "title": "Cowboys and Angels (2010 Remastered Version)",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1225539462,
       "title": "Touch My Body",
       "artist": "Mariah Carey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b9c069cd235b20ca84b7bfabd02bc290/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 63480993,
-      "title": "You Make Loving Fun (2004 Remaster)",
-      "artist": "Fleetwood Mac",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 13178557,
@@ -1199,10 +1233,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/349234409ab33a9fd5f81f08fecdadc2/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 6463613,
-      "title": "Crying in the Rain",
-      "artist": "a-ha",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c79804ef54033e72fb62167f4598ef25/250x250-000000-80-0-0.jpg"
+      "id": 676011722,
+      "title": "As",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 664437,
@@ -1223,10 +1257,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8709028c2bb9a8070809e62e2b4ebfda/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4247257,
-      "title": "Obsessed",
+      "id": 1054629,
+      "title": "Make It Happen",
       "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/67e6af08b67272ec67eacccbb44a1368/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/13dcc11389c5e843c86dd85d9452e2a1/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 680648,
@@ -1259,16 +1293,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/621c706e3416c6c52671ab7fe11878f6/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 608697072,
+      "title": "Free (Album Version)",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f7016ba058f050f6d40fe3357af2dfee/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 139138685,
       "title": "Wish You Were Here",
       "artist": "Bee Gees",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fa99626fabae5fe1d27b1ebed00629e3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7523851,
-      "title": "I Started A Joke",
-      "artist": "Bee Gees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5883d12ed7e1c6b50ea57437e501dc0b/250x250-000000-80-0-0.jpg"
+      "id": 3099009,
+      "title": "She's The One",
+      "artist": "Robbie Williams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d97332e17a89414a877cce274d86d95/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 538709352,
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4311272,
@@ -1311,12 +1357,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/0cb25ced2a862fc8d6b67f0ad31322bc/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 676011622,
-      "title": "I Wish",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 139138787,
       "title": "Too Much Heaven",
       "artist": "Bee Gees",
@@ -1329,22 +1369,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/eed917419ae0b958730b075c165dd607/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 426703692,
-      "title": "New Kid in Town (2013 Remaster)",
-      "artist": "Eagles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 7675406,
       "title": "Run to You",
       "artist": "Whitney Houston",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 426703702,
-      "title": "Life in the Fast Lane (2013 Remaster)",
-      "artist": "Eagles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2511969,
@@ -1365,10 +1393,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d967cd9b193020c408dd9edf45bd3acb/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3232055931,
-      "title": "Forever Yours (Tim’s 2016 Ibiza Version)",
-      "artist": "Avicii",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e546bb6070cb1a30262d915fd9b44f55/250x250-000000-80-0-0.jpg"
+      "id": 788643242,
+      "title": "Signed, Sealed, Delivered (I'm Yours)",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0c02b871a05443d19dd79e3ca4bc3865/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 664110,
@@ -1377,22 +1405,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1080115,
-      "title": "I'll Be Over You",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/386de9b358775a552385047836c667f8/250x250-000000-80-0-0.jpg"
+      "id": 15189062,
+      "title": "Everything She Wants",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 962142,
       "title": "It's Not Right But It's Okay",
       "artist": "Whitney Houston",
       "cover": "https://cdn-images.dzcdn.net/images/cover/5116544ed84bc468877d02fcfe4bf8f6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 10392080,
-      "title": "Cowboys and Angels (2010 Remastered Version)",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4c9fd7e1257024bff5be2a795fc7e5ca/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71483069,
@@ -1425,10 +1447,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7ff6fa0aacb3eb335a5ee96b6129c06a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 676011642,
-      "title": "Pastime Paradise",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ed7d05fc8407ff367c7fe39bd0d28a56/250x250-000000-80-0-0.jpg"
+      "id": 350027641,
+      "title": "To Love Somebody",
+      "artist": "Bee Gees",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 530300611,
+      "title": "Is This Love",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 6821064,
@@ -1437,10 +1465,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/96c34a0e021bbbf6f5248c439d36f6e8/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2438729,
-      "title": "Heaven (MTV Unplugged Version)",
-      "artist": "Bryan Adams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3f77d9500d7ee8630bef74dc2d001837/250x250-000000-80-0-0.jpg"
+      "id": 538709682,
+      "title": "Happy Birthday",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4368120,
+      "title": "Home",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3b435a48abb90ea245c450d13e6b828a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4247257,
+      "title": "Obsessed",
+      "artist": "Mariah Carey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/67e6af08b67272ec67eacccbb44a1368/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 134036278,
@@ -1455,40 +1495,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/70a97ce7311f30446298049f65c1f46a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 350027821,
-      "title": "You Win Again",
-      "artist": "Bee Gees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 538709322,
-      "title": "Sir Duke",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 608697072,
-      "title": "Free (Album Version)",
-      "artist": "Stevie Wonder",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f7016ba058f050f6d40fe3357af2dfee/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2305654,
-      "title": "We Are The World (Live)",
-      "artist": "Luciano Pavarotti",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c37197575ec97d68c2b45b8278e53171/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 530300611,
-      "title": "Is This Love",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 596057,
-      "title": "When You Believe (from The Prince of Egypt)",
-      "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6a1aeef41619907cc283d4eb1eac2fe6/250x250-000000-80-0-0.jpg"
+      "id": 1028990,
+      "title": "Night and Day",
+      "artist": "Frank Sinatra",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb90e1398c2c6850f5f96f8153ae9a64/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2058924247,
@@ -1497,10 +1507,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ea702e9dd35b2d0dd8017b6449f2f1c6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4677025,
-      "title": "The Saints Are Coming",
-      "artist": "U2",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a4e6e4569d4eedea7252517543512e75/250x250-000000-80-0-0.jpg"
+      "id": 125493154,
+      "title": "Another Day in Paradise (2016 Remaster)",
+      "artist": "Phil Collins",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4e6803a3543652a2d4743a9e1cb6ec6b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 530300721,
+      "title": "Redemption Song",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 426703702,
+      "title": "Life in the Fast Lane (2013 Remaster)",
+      "artist": "Eagles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 63480996,
@@ -1509,20 +1531,14 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 63480991,
-      "title": "Songbird (2004 Remaster)",
-      "artist": "Fleetwood Mac",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9732751ce91d786dcf30069853697078/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 530300631,
-      "title": "Could You Be Loved",
-      "artist": "Bob Marley & The Wailers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c43e3b1d83e0107dfff7e4238096fe5b/250x250-000000-80-0-0.jpg"
+      "id": 884032,
+      "title": "Lay All Your Love On Me",
+      "artist": "ABBA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3133739,
-      "title": "Say You'll Be There",
+      "title": "Say You'll Be There (Single Mix)",
       "artist": "Spice Girls",
       "cover": "https://cdn-images.dzcdn.net/images/cover/18c4f2d9608910a2b8eb1835052e895b/250x250-000000-80-0-0.jpg"
     },
@@ -1539,10 +1555,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/31cdd21b19395c71b6d1658c6d92f669/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15189062,
-      "title": "Everything She Wants",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
+      "id": 3232055931,
+      "title": "Forever Yours (Tim’s 2016 Ibiza Version)",
+      "artist": "Avicii",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e546bb6070cb1a30262d915fd9b44f55/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3119903,
@@ -1551,10 +1567,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e6849e357cb889d6ce800040570ebafc/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7675405,
-      "title": "I'm Every Woman",
+      "id": 1131191,
+      "title": "Saving All My Love for You",
       "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d071ab8d81111be6434c2f2cf372ab13/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e5712b346f0ca0f167da8ffd7588db3f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 10392098,
@@ -1575,10 +1591,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b29ecce3d1c4b509a43ac757e429a11f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 884038,
-      "title": "Chiquitita",
-      "artist": "ABBA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
+      "id": 2438718,
+      "title": "Summer Of '69 (MTV Unplugged Version)",
+      "artist": "Bryan Adams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3f77d9500d7ee8630bef74dc2d001837/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3102419,
@@ -1587,22 +1603,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d260fa442f925e1eb1c95bb29941f636/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4368120,
-      "title": "Home",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3b435a48abb90ea245c450d13e6b828a/250x250-000000-80-0-0.jpg"
+      "id": 3133744,
+      "title": "Who Do You Think You Are",
+      "artist": "Spice Girls",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/18c4f2d9608910a2b8eb1835052e895b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 8112356,
-      "title": "Jesus to a Child",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/eed917419ae0b958730b075c165dd607/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 680660,
-      "title": "Everything",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/250x250-000000-80-0-0.jpg"
+      "id": 350027821,
+      "title": "You Win Again",
+      "artist": "Bee Gees",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ff58c365559fb6061db49dbdcfdf2287/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4094808,
@@ -1623,28 +1633,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9c8b7a7518a176c352d126624c9ceb08/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 7163177,
+      "title": "Stand By Me (Remastered 2010)",
+      "artist": "John Lennon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5e1295a0c05ee26f6d07231d08cbcb15/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1105730,
       "title": "Angel",
       "artist": "Aerosmith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/7ff6fa0aacb3eb335a5ee96b6129c06a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3098220,
-      "title": "Sexed Up",
-      "artist": "Robbie Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/147bdb75eec59a4cafe05bd2fb92e46d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1073437,
-      "title": "Club Tropicana",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/76709d80f4ab2ac9c714c46affb5f731/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4151815262,
-      "title": "Desire (Official FIFA Anthem) (feat. Nicole Scherzinger & Laura Pausini)",
-      "artist": "Robbie Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c3834c98c6af033d6cb6cb688310c9a2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3133740,
@@ -1659,22 +1657,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/621c706e3416c6c52671ab7fe11878f6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 119121826,
-      "title": "I Cannot Believe It's True (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/38dbab7e9a334fd5e4b3e837fb180131/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 2125097,
       "title": "Dude (Looks Like A Lady)",
       "artist": "Aerosmith",
       "cover": "https://cdn-images.dzcdn.net/images/cover/807fdcea57e5c1c0324ee76157fba51c/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 5363365,
-      "title": "I Have Nothing",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9f963b239113b1f92c39d10a051d95e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3099002,
@@ -1695,12 +1681,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4bbceb82bbe8f6c038ca5a58d2f644ef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1028990,
-      "title": "Night and Day",
-      "artist": "Frank Sinatra",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cb90e1398c2c6850f5f96f8153ae9a64/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1105731,
       "title": "Livin' On The Edge",
       "artist": "Aerosmith",
@@ -1713,12 +1693,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c4b0599e27b5a65344582dd0ac81d3b7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 120434346,
-      "title": "I've Been Losing You (2016 Remaster)",
-      "artist": "a-ha",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/02a32dc306237089a06ec3ec061f83c0/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1582289,
       "title": "When You're Gone",
       "artist": "Bryan Adams",
@@ -1729,6 +1703,12 @@
       "title": "Beyond the Sea",
       "artist": "Robbie Williams",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f9b6eb102a432cb11088578ef22e0571/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 884038,
+      "title": "Chiquitita",
+      "artist": "ABBA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 7314707,
@@ -1755,24 +1735,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/caff1be8c69e55e1b5ea8ac4eefa05fb/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 8146787,
-      "title": "Kissing a Fool (Remastered)",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f24a4351040ae09175cbd775607aafe6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3133744,
-      "title": "Who Do You Think You Are",
-      "artist": "Spice Girls",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/18c4f2d9608910a2b8eb1835052e895b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2438718,
-      "title": "Summer Of '69 (MTV Unplugged Version)",
-      "artist": "Bryan Adams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3f77d9500d7ee8630bef74dc2d001837/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1079665,
       "title": "I Won't Hold You Back",
       "artist": "Toto",
@@ -1791,22 +1753,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6a91e2fe9b0a506b6edc14504ef6f08f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7163177,
-      "title": "Stand By Me (Remastered 2010)",
-      "artist": "John Lennon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5e1295a0c05ee26f6d07231d08cbcb15/250x250-000000-80-0-0.jpg"
+      "id": 587147,
+      "title": "Black Magic Woman",
+      "artist": "Fleetwood Mac",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/059ac8dff95bbd5cb9d9fca6e5fcf6f0/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3134156,
       "title": "Stop",
       "artist": "Spice Girls",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b6f00b7fbad1047dd4fddbf00bf173ee/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 884039,
-      "title": "Fernando",
-      "artist": "ABBA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 534464,
@@ -1827,6 +1783,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bc3932ba0d53c0c62d1a0b499f24d941/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 414746252,
+      "title": "Too Funky (Single Edit)",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82ebe4b22d1f14bd0b8a849c952f3689/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1073437,
+      "title": "Club Tropicana",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/76709d80f4ab2ac9c714c46affb5f731/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 139902529,
       "title": "New York, New York",
       "artist": "Frank Sinatra",
@@ -1839,16 +1807,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/97b77af8bbaeb372ab1379c3eeed422c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 585621132,
-      "title": "When You're Smiling",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/199883c9a11f6d42994d84bb3764f6ed/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 884046,
       "title": "Waterloo",
       "artist": "ABBA",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 585621132,
+      "title": "When You're Smiling",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/199883c9a11f6d42994d84bb3764f6ed/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1045793,
@@ -1857,10 +1825,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/722ee3cc72df684797d360c96aebd873/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3098220,
+      "title": "Sexed Up",
+      "artist": "Robbie Williams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/147bdb75eec59a4cafe05bd2fb92e46d/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 625672,
       "title": "Open Arms",
       "artist": "Journey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b4ec4a1a920d792dd7d8d15dc29f0a39/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 120434346,
+      "title": "I've Been Losing You (2016 Remaster)",
+      "artist": "a-ha",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02a32dc306237089a06ec3ec061f83c0/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71483062,
@@ -1875,28 +1855,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dbf58cbe9d36f793cdaa6bcd276fca14/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 79543188,
-      "title": "Stop Loving You",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c5ad3c1272f3d964739f439429775df6/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 427219352,
-      "title": "How Deep Is Your Love (Serban Mix)",
-      "artist": "Bee Gees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/315772aec36013c1c0653d9dee37cffd/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 122210000,
       "title": "(Just Like) Starting Over (Remastered 2010)",
       "artist": "John Lennon",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c6d75d013bcf43ea92c8116f13c30df9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1712756577,
-      "title": "Separate Ways (Worlds Apart) (Bryce Miller/Alloy Tracks Remix)",
-      "artist": "Journey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dc5688a7cf61b8aa35db99e135637128/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1026310,
@@ -1911,34 +1873,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/8f48b849434460a758e764d9edda9991/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3087538,
-      "title": "Angels",
-      "artist": "Robbie Williams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0bbbf3f78a76b07b834ed7c0271b30be/250x250-000000-80-0-0.jpg"
+      "id": 1080091,
+      "title": "Lea",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/386de9b358775a552385047836c667f8/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4311270,
-      "title": "Georgia on My Mind",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4311279,
-      "title": "Stardust (with Naturally 7)",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg"
+      "id": 884039,
+      "title": "Fernando",
+      "artist": "ABBA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b8b70d474b7a8f27799e0d665e9b737e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 104952372,
       "title": "Love Me Tender (with The Royal Philharmonic Orchestra)",
       "artist": "Elvis Presley",
       "cover": "https://cdn-images.dzcdn.net/images/cover/134d8488c00bd4cf1d832e5fcd59e19b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 5404526,
-      "title": "Wake Me Up Before You Go-Go",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/65689ec5162126a39cf7bff42a28ba50/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 7164025,
@@ -1953,16 +1903,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15626288,
-      "title": "Don't Let the Sun Go Down on Me (Live) (Remastered)",
-      "artist": "George Michael",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f22e9e677a2666ba890f0b3bab808e71/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 665713842,
-      "title": "Invisible Sun",
-      "artist": "The Police",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1d4044ea42a8358d394505dc24a3aa7d/250x250-000000-80-0-0.jpg"
+      "id": 4311270,
+      "title": "Georgia on My Mind",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 665714352,
@@ -1977,6 +1921,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 7193840,
+      "title": "Oh My Love (Remastered 2010)",
+      "artist": "John Lennon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 68116150,
       "title": "Desperado (2013 Remaster)",
       "artist": "Eagles",
@@ -1989,14 +1939,14 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/18c4f2d9608910a2b8eb1835052e895b/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 428952772,
-      "title": "Pamela",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e1c52624590410e9a7e5f3cd58e819e0/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1170251942,
       "title": "You Raise Me Up",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1170251852,
+      "title": "If I Let You Go (Radio Edit)",
       "artist": "Westlife",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg"
     },
@@ -2007,16 +1957,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/caff1be8c69e55e1b5ea8ac4eefa05fb/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1080091,
-      "title": "Lea",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/386de9b358775a552385047836c667f8/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 14525087,
       "title": "Freedom",
       "artist": "Wham!",
       "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 15626288,
+      "title": "Don't Let the Sun Go Down on Me (Live) (Remastered)",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f22e9e677a2666ba890f0b3bab808e71/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 14525094,
@@ -2043,6 +1993,30 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3eb1d165e1544586639668ff30ebe795/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 7163393,
+      "title": "Give Peace A Chance (Remastered 2010)",
+      "artist": "John Lennon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7c89db5249da1843f557174df2df1006/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 960077,
+      "title": "That's All Right",
+      "artist": "Elvis Presley",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fb1e0f99c89acadecaab3333cc408a74/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 642692292,
+      "title": "Love Will Keep Us Alive",
+      "artist": "Eagles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2d8ad0dfdf16395cf21cb153f806b094/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 665713842,
+      "title": "Invisible Sun",
+      "artist": "The Police",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1d4044ea42a8358d394505dc24a3aa7d/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3134157,
       "title": "Too Much",
       "artist": "Spice Girls",
@@ -2055,16 +2029,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7193840,
-      "title": "Oh My Love (Remastered 2010)",
-      "artist": "John Lennon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 993619,
-      "title": "When You're Looking Like That (Single Remix)",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg"
+      "id": 428952772,
+      "title": "Pamela",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e1c52624590410e9a7e5f3cd58e819e0/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 88611701,
@@ -2079,6 +2047,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c6e1c81758b0abb444888c863f686deb/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 391575942,
+      "title": "World of Our Own",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 7163164,
+      "title": "Mind Games (Remastered 2010)",
+      "artist": "John Lennon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6ac1a93542403e02c491083ae987518e/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 534589,
       "title": "When You Love a Woman (2024 Remaster)",
       "artist": "Journey",
@@ -2091,10 +2071,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/c5ad3c1272f3d964739f439429775df6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7193841,
-      "title": "How Do You Sleep? (Remastered 2010)",
-      "artist": "John Lennon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2675a9277dfabb74c32b7a3b2c9b0170/250x250-000000-80-0-0.jpg"
+      "id": 993619,
+      "title": "When You're Looking Like That (Single Remix)",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/031a6c4a0067a19d68a215387f1fe2e2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1574190,
@@ -2103,46 +2083,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 68097788,
+      "title": "New Kid in Town (2013 Remaster)",
+      "artist": "Eagles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef02459f8e72f33acef71617a97d3999/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1170251932,
       "title": "Mandy",
       "artist": "Westlife",
       "cover": "https://cdn-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 7163393,
-      "title": "Give Peace A Chance (Remastered 2010)",
-      "artist": "John Lennon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7c89db5249da1843f557174df2df1006/250x250-000000-80-0-0.jpg"
+      "id": 1170252032,
+      "title": "Fool Again",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3135696,
       "title": "Holler",
       "artist": "Spice Girls",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b0cbf02d23485527c29fc1039e4da138/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3072039,
-      "title": "Georgy Porgy (feat. Cheryl Lynn) (Disco Version)",
-      "artist": "TOTO",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5da8d981b3a01f9a448028edcc0d9201/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 665714382,
-      "title": "Can't Stand Losing You",
-      "artist": "The Police",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f51850ce4fccc736b881a5ce8aede9e1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 391575942,
-      "title": "World of Our Own",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 7675110,
-      "title": "In the Ghetto",
-      "artist": "Elvis Presley",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d2b30238ed68100edc919aa204b02af6/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1170487292,
@@ -2163,16 +2125,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/cdb92fd82c490801fd67afa7167db351/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 665714702,
-      "title": "Bring On The Night",
-      "artist": "The Police",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b11b98eb4bea1c8abcff67eee2a7eeb7/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 612916712,
       "title": "Hello My Love",
       "artist": "Westlife",
       "cover": "https://cdn-images.dzcdn.net/images/cover/b7b2745e8c62ef774b5a65c59891ca50/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 538709622,
+      "title": "Pastime Paradise",
+      "artist": "Stevie Wonder",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36aaf615fe6f66a6778bad4b501be11f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3072039,
+      "title": "Georgy Porgy (feat. Cheryl Lynn) (Disco Version)",
+      "artist": "TOTO",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5da8d981b3a01f9a448028edcc0d9201/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1170252122,
@@ -2187,6 +2155,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ea702e9dd35b2d0dd8017b6449f2f1c6/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 391575872,
+      "title": "Bop Bop Baby",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 3134159,
       "title": "Never Give Up On The Good Times",
       "artist": "Spice Girls",
@@ -2199,34 +2173,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7ff6fa0aacb3eb335a5ee96b6129c06a/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 134036234,
+      "title": "Sussudio (2016 Remaster)",
+      "artist": "Phil Collins",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/73e6481676a8ab3e93f0f7b79a9cff68/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 4290178,
       "title": "A Groovy Kind of Love",
       "artist": "Phil Collins",
       "cover": "https://cdn-images.dzcdn.net/images/cover/ec2d744be32e49de57f59513d0e3d5c1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3134158,
-      "title": "Saturday Night Divas",
-      "artist": "Spice Girls",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/b6f00b7fbad1047dd4fddbf00bf173ee/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2526313,
-      "title": "Slipping Through My Fingers",
-      "artist": "ABBA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/2d10d66bc8795a353864bb413b3d46dc/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 68094426,
-      "title": "Lyin' Eyes (2013 Remaster)",
-      "artist": "Eagles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/70a97ce7311f30446298049f65c1f46a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 665713832,
-      "title": "Every Little Thing She Does Is Magic",
+      "id": 665714702,
+      "title": "Bring On The Night",
       "artist": "The Police",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1d4044ea42a8358d394505dc24a3aa7d/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b11b98eb4bea1c8abcff67eee2a7eeb7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 79543182,
+      "title": "I'll Be Over You",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5ad3c1272f3d964739f439429775df6/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 534474,
@@ -2235,46 +2203,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4bbceb82bbe8f6c038ca5a58d2f644ef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 13131436,
-      "title": "My Heart Will Go On (Love Theme from \"Titanic\")",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3929208fccfb6f45c2abc85466106c4c/250x250-000000-80-0-0.jpg"
+      "id": 14882236,
+      "title": "When You Believe (from The Prince of Egypt)",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5116544ed84bc468877d02fcfe4bf8f6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 68097792,
-      "title": "Victim of Love (2013 Remaster)",
-      "artist": "Eagles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ef02459f8e72f33acef71617a97d3999/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 585272,
-      "title": "The Search Is Over",
+      "id": 578105,
+      "title": "Man Against the World",
       "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d4b5bcef56bc5c0a78a7b41a8d803d0/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2850969492,
-      "title": "I'm Alive",
-      "artist": "Céline Dion",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4481f6a68c8dc314f455d2b1ffe55078/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 15190743,
-      "title": "If You Were There",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 391575912,
-      "title": "I Wanna Grow Old with You",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/60a005c42286625a1bf20d3c0c64c394/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 665714282,
-      "title": "Wrapped Around Your Finger (Remastered 2003)",
-      "artist": "The Police",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e9d3dbc325eebdaf6bc442c2f9a05daa/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e66b5d3a40f69690c1633afb73cc590c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1036590,
@@ -2285,10 +2223,28 @@
       "ytDuration": 407
     },
     {
-      "id": 107343738,
-      "title": "Alone Again (Naturally)",
-      "artist": "Diana Krall",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c18245454d826c90ac3c271bcd1d204f/250x250-000000-80-0-0.jpg"
+      "id": 585272,
+      "title": "The Search Is Over",
+      "artist": "Survivor",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5d4b5bcef56bc5c0a78a7b41a8d803d0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 68097792,
+      "title": "Victim of Love (2013 Remaster)",
+      "artist": "Eagles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ef02459f8e72f33acef71617a97d3999/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 963109,
+      "title": "Ever Since the World Began",
+      "artist": "Survivor",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/683e16c5063835a33513e8fa2b82b71d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2511436181,
+      "title": "Separate Ways (Worlds Apart) (Steve Perry & Bryce Miller Extended Remix)",
+      "artist": "Journey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a32f5e16df31b256c6b5d993a39cfcda/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 534467,
@@ -2297,28 +2253,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4bbceb82bbe8f6c038ca5a58d2f644ef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 564955992,
-      "title": "Happy Xmas (War Is Over)",
-      "artist": "John Lennon",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f6a29b3e8b10596f7ef6a6b7d29ecce7/250x250-000000-80-0-0.jpg"
+      "id": 1574229,
+      "title": "Elevation",
+      "artist": "U2",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 2795614,
-      "title": "How Will I Know (Remastered)",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/cb81cd5eb9bb712855b071085c3c5457/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 15191369,
-      "title": "Like A Baby",
+      "id": 15190743,
+      "title": "If You Were There",
       "artist": "Wham!",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 125493148,
-      "title": "Something Happened on the Way to Heaven (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4e6803a3543652a2d4743a9e1cb6ec6b/250x250-000000-80-0-0.jpg"
+      "id": 107343738,
+      "title": "Alone Again (Naturally)",
+      "artist": "Diana Krall",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c18245454d826c90ac3c271bcd1d204f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1177885,
+      "title": "Wrapped Around Your Finger (Remastered 2003)",
+      "artist": "The Police",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dc246d8423a07d49e650bff3057b3613/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 109106288,
@@ -2327,52 +2283,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ef15a33b1dfd834f6bcb8eaa0d4113d9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 99408474,
-      "title": "Without You",
-      "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/608dcac5f547cd39e1caa441e64f33e8/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 61752292,
-      "title": "Saving All My Love for You",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f42261e2e41371834d9a0120c399f665/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 15189066,
-      "title": "Heartbeat",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 6592714,
-      "title": "Cry Wolf",
-      "artist": "a-ha",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/94b835cd00aca946902a1b51c5440f94/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2442238985,
-      "title": "Hero",
-      "artist": "Mariah Carey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a785426b6d6e315c30060cfd2b2820fb/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 134036398,
-      "title": "Don't Lose My Number (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1170141562,
-      "title": "If I Let You Go (Radio Edit)",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4122597b2e0b8261fc7f5bbea2c9e743/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 14525092,
-      "title": "Battlestations",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg"
+      "id": 528347381,
+      "title": "Exodus",
+      "artist": "Bob Marley & The Wailers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7e3fd88b0a452fbfa5b225750390580a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1177888,
@@ -2381,16 +2295,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc246d8423a07d49e650bff3057b3613/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 134036416,
-      "title": "I Wish It Would Rain Down (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
+      "id": 14525092,
+      "title": "Battlestations",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 966749,
-      "title": "Man Against the World",
-      "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/24f80a5d70a6e127e11617132f21828c/250x250-000000-80-0-0.jpg"
+      "id": 15189066,
+      "title": "Heartbeat",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1177880,
@@ -2399,16 +2313,94 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/dc246d8423a07d49e650bff3057b3613/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 15191369,
+      "title": "Like A Baby",
+      "artist": "Wham!",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2795614,
+      "title": "How Will I Know (Remastered)",
+      "artist": "Whitney Houston",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/cb81cd5eb9bb712855b071085c3c5457/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 70403389,
+      "title": "Stop Loving You",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2e7e134fd3bc9f05ec59b8e6c3b14da2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 564955992,
+      "title": "Happy Xmas (War Is Over)",
+      "artist": "John Lennon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f6a29b3e8b10596f7ef6a6b7d29ecce7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 15177091,
+      "title": "Higher Place",
+      "artist": "Journey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/795b5efed828f08b3734cda6834d4813/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 563033,
       "title": "Lights",
       "artist": "Journey",
       "cover": "https://cdn-images.dzcdn.net/images/cover/69d9f7638075b7edb68e07fb5eecb0b7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 781658,
-      "title": "Music",
-      "artist": "Madonna",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/794bed34926e8d06623f0442e15e467b/250x250-000000-80-0-0.jpg"
+      "id": 120434342,
+      "title": "The Sun Always Shines on T.V. (2016 Remaster)",
+      "artist": "a-ha",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/02a32dc306237089a06ec3ec061f83c0/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 785824862,
+      "title": "Goodbye Yellow Brick Road (Remastered 2014)",
+      "artist": "Elton John",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/edc359cc9c2d8dda7797ac6f723ed4da/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2937745061,
+      "title": "Everything",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4016b2a7f8f44967070b9716bd93cfed/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 6592714,
+      "title": "Cry Wolf",
+      "artist": "a-ha",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/94b835cd00aca946902a1b51c5440f94/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 99408474,
+      "title": "Without You",
+      "artist": "Mariah Carey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/608dcac5f547cd39e1caa441e64f33e8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1170141572,
+      "title": "Flying Without Wings",
+      "artist": "Westlife",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4122597b2e0b8261fc7f5bbea2c9e743/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2937745131,
+      "title": "Fever",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4016b2a7f8f44967070b9716bd93cfed/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 79543144,
+      "title": "I'll Supply the Love",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5ad3c1272f3d964739f439429775df6/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 88845665,
+      "title": "Somebody",
+      "artist": "Bryan Adams",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2a1028497b0c5cd4dd81f1ed0a7325cf/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1073026,
@@ -2417,28 +2409,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/608c095013fd7ae20abf19825b9f1176/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 134036398,
+      "title": "Don't Lose My Number (2016 Remaster)",
+      "artist": "Phil Collins",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 15190539,
       "title": "Credit Card Baby",
       "artist": "Wham!",
       "cover": "https://cdn-images.dzcdn.net/images/cover/3c1858a4aa5d732a60c8cfcf424f24ef/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1073426,
-      "title": "Bad Boys",
-      "artist": "Wham!",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/76709d80f4ab2ac9c714c46affb5f731/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 134036392,
-      "title": "Sussudio (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 134036406,
+      "id": 122034104,
       "title": "Can't Stop Loving You (2016 Remaster)",
       "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1d22341010f3ef4fa5b2ab0fe6148049/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 963104,
+      "title": "The One That Really Matters",
+      "artist": "Survivor",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/683e16c5063835a33513e8fa2b82b71d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 565823,
@@ -2449,40 +2441,16 @@
       "ytDuration": 226
     },
     {
-      "id": 1170141572,
-      "title": "Flying Without Wings",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4122597b2e0b8261fc7f5bbea2c9e743/250x250-000000-80-0-0.jpg"
+      "id": 134036402,
+      "title": "Something Happened on the Way to Heaven (2016 Remaster)",
+      "artist": "Phil Collins",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d74bc3362822f21125e1bc5778e3cd13/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1170141582,
-      "title": "Fool Again",
-      "artist": "Westlife",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4122597b2e0b8261fc7f5bbea2c9e743/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 963104,
-      "title": "The One That Really Matters",
-      "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/683e16c5063835a33513e8fa2b82b71d/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 900640,
-      "title": "Wheel in the Sky",
-      "artist": "Journey",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/69d9f7638075b7edb68e07fb5eecb0b7/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 538439552,
-      "title": "For Whom The Bell Tolls",
-      "artist": "Bee Gees",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4690851cc24228208bf0585b5cfa08d9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 15054024,
-      "title": "Hold the Line (Single Version)",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0bc25b91547ecb7e6caee1ee11a3bf8e/250x250-000000-80-0-0.jpg"
+      "id": 585645332,
+      "title": "You Make Loving Fun (2018 Remaster)",
+      "artist": "Fleetwood Mac",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d430e148c87efa821d92afee06a2da3b/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1776801057,
@@ -2491,10 +2459,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/6cb790f48c5c488420077516aa9e5e85/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 585276,
-      "title": "Ever Since the World Began",
+      "id": 15054024,
+      "title": "Hold the Line (Single Version)",
+      "artist": "Toto",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0bc25b91547ecb7e6caee1ee11a3bf8e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 538439552,
+      "title": "For Whom The Bell Tolls",
+      "artist": "Bee Gees",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4690851cc24228208bf0585b5cfa08d9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1938418307,
+      "title": "Jesus to a Child",
+      "artist": "George Michael",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f96d146a71cc3d9cedb52c614d5008c7/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 598153,
+      "title": "Desperate Dreams",
       "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/5d4b5bcef56bc5c0a78a7b41a8d803d0/250x250-000000-80-0-0.jpg"
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3cc3585bcc23eb84265ab6fa7cdd8897/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 585270,
@@ -2503,34 +2489,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/5d4b5bcef56bc5c0a78a7b41a8d803d0/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 963093,
-      "title": "I Can't Hold Back",
-      "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0548ac42cbac5a6a98f11835933a549c/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 3264865,
-      "title": "Spice Up Your Life",
+      "title": "Spice Up Your Life (Stent Radio Mix)",
       "artist": "Spice Girls",
       "cover": "https://cdn-images.dzcdn.net/images/cover/78710246fb443c6e56a24dcbd0447332/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15981620,
-      "title": "My Love Is Your Love",
-      "artist": "Whitney Houston",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dd43885a999d8e9e9920c3fb687400d3/250x250-000000-80-0-0.jpg"
+      "id": 1720199,
+      "title": "After All These Years",
+      "artist": "Journey",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e13fc61817102a94c15ee0b4733df534/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 109167124,
-      "title": "Don't Chain My Heart",
-      "artist": "Toto",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/fc2a8ff818d34876e9375d288393559a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 598153,
-      "title": "Desperate Dreams",
-      "artist": "Survivor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/3cc3585bcc23eb84265ab6fa7cdd8897/250x250-000000-80-0-0.jpg"
+      "id": 3068965211,
+      "title": "L O V E",
+      "artist": "Michael Bublé",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/72b2cab659e638e740ec225de56c1ae9/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3264831,
@@ -2543,12 +2517,6 @@
       "title": "Heaven",
       "artist": "Avicii",
       "cover": "https://cdn-images.dzcdn.net/images/cover/d4b0e0a5e2c7d86a6a38b11e4f013258/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3068965211,
-      "title": "L O V E",
-      "artist": "Michael Bublé",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/72b2cab659e638e740ec225de56c1ae9/250x250-000000-80-0-0.jpg"
     }
   ]
 }

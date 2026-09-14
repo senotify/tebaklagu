@@ -3,12 +3,6 @@
   "emoji": "🎸",
   "tracks": [
     {
-      "id": 1899060227,
-      "title": "End of Beginning",
-      "artist": "Djo",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f13749b2a226afa7f5f866ce2f4d3015/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 13791930,
       "title": "Smells Like Teen Spirit",
       "artist": "Nirvana",
@@ -31,6 +25,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/250x250-000000-80-0-0.jpg",
       "youtubeId": "UCskpE9KGQU",
       "ytDuration": 209
+    },
+    {
+      "id": 4603408,
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "6CWKazuQfz4",
+      "ytDuration": 293
+    },
+    {
+      "id": 4763165,
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "369Pr_EI9XY",
+      "ytDuration": 259
     },
     {
       "id": 92720046,
@@ -111,28 +121,20 @@
       "ytDuration": 384
     },
     {
+      "id": 3098840,
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5ba1787e1ec36dbbca38ff01fea8fb21/250x250-000000-80-0-0.jpg",
+      "youtubeId": "fAMaruVkGh0",
+      "ytDuration": 310
+    },
+    {
       "id": 725971,
       "title": "Can't Stop",
       "artist": "Red Hot Chili Peppers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/49b073f55550d41055e02c493f9a7d39/250x250-000000-80-0-0.jpg",
       "youtubeId": "up07PvTts50",
       "ytDuration": 269
-    },
-    {
-      "id": 4092329741,
-      "title": "Don't Stop Me Now",
-      "artist": "Queen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4b8ab9c1f112b63c07e3983b98e98006/250x250-000000-80-0-0.jpg",
-      "youtubeId": "3kjBCWSjboY",
-      "ytDuration": 211
-    },
-    {
-      "id": 3128096,
-      "title": "Yellow",
-      "artist": "Coldplay",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/970dce98eeea6729244c0ae71707a83d/250x250-000000-80-0-0.jpg",
-      "youtubeId": "ViPGYiTSs0M",
-      "ytDuration": 267
     },
     {
       "id": 518458172,
@@ -159,6 +161,12 @@
       "ytDuration": 273
     },
     {
+      "id": 138539979,
+      "title": "Let Down",
+      "artist": "Radiohead",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1483825212,
       "title": "Enter Sandman (Remastered 2021)",
       "artist": "Metallica",
@@ -181,16 +189,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4091932171,
+      "title": "Under Pressure (feat. David Bowie)",
+      "artist": "Queen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/051352b56a65f61a396e22bd5ec0687a/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 680518,
       "title": "Snow (Hey Oh)",
       "artist": "Red Hot Chili Peppers",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a3a4028b1192c50d82a579439cbfc4af/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3098519,
-      "title": "Under Pressure",
-      "artist": "Queen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/0a1daf96211c7d0d662eab97b5e6e337/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 725254,
@@ -223,6 +231,22 @@
       "ytDuration": 305
     },
     {
+      "id": 4762041,
+      "title": "Everlong",
+      "artist": "Foo Fighters",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "SSxaKmldwRI",
+      "ytDuration": 250
+    },
+    {
+      "id": 3106505,
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a1a3e7c5e46b5f763328d95431ac19a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "836nDvAHzlY",
+      "ytDuration": 296
+    },
+    {
       "id": 953097,
       "title": "Mr. Brightside",
       "artist": "The Killers",
@@ -237,16 +261,18 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 138539979,
-      "title": "Let Down",
-      "artist": "Radiohead",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1105736,
       "title": "The Man Who Sold The World (Live)",
       "artist": "Nirvana",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fe1082c5ef54876802146897e76b592e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 142706538,
+      "title": "Something Just Like This",
+      "artist": "Coldplay",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2ae6c01a51296a7ec6d89c96a4fac32c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4czFIlaCgYU",
+      "ytDuration": 245
     },
     {
       "id": 116348656,
@@ -277,6 +303,12 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/aa94ab293730bb7845d2aa8c672b2c29/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 577487242,
+      "title": "You Give Love A Bad Name",
+      "artist": "Bon Jovi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/58ca1d20e8d19c1e5f8e821d07412c74/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 92720006,
       "title": "T.N.T.",
       "artist": "AC/DC",
@@ -299,32 +331,16 @@
       "ytDuration": 182
     },
     {
-      "id": 4762041,
-      "title": "Everlong",
-      "artist": "Foo Fighters",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg",
-      "youtubeId": "SSxaKmldwRI",
-      "ytDuration": 250
-    },
-    {
-      "id": 60200381,
-      "title": "Try",
-      "artist": "P!nk",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a43e104f2ff2872df2e1bf4207b6b5e6/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 577487252,
       "title": "It's My Life",
       "artist": "Bon Jovi",
       "cover": "https://cdn-images.dzcdn.net/images/cover/58ca1d20e8d19c1e5f8e821d07412c74/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 84572613,
-      "title": "Wonderwall (Remastered)",
-      "artist": "Oasis",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d63b6ce2589b96cee3e6aa85d996023a/250x250-000000-80-0-0.jpg",
-      "youtubeId": "irrkX4yKfMo",
-      "ytDuration": 259
+      "id": 4092326601,
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9a3d400b9397879df564df1d0a66c69a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 92720048,
@@ -343,6 +359,12 @@
       "title": "Paradise City",
       "artist": "Guns N' Roses",
       "cover": "https://cdn-images.dzcdn.net/images/cover/8bfe7b3b0985d9ff0751090fb2b6f73f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 70322139,
+      "title": "Why'd You Only Call Me When You're High?",
+      "artist": "Arctic Monkeys",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 715954,
@@ -375,12 +397,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/fc457d27a8c0b7fc6f9b56fb94e22a0d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 131742260,
-      "title": "Say You Won't Let Go",
-      "artist": "James Arthur",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c80a5faa09d5e77071217ad3fcfd699e/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 680516,
       "title": "Dani California",
       "artist": "Red Hot Chili Peppers",
@@ -401,10 +417,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3906424801,
-      "title": "The Dark Forest",
-      "artist": "Muse",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/15f362eec97e06eacddfb61b404a3fdb/250x250-000000-80-0-0.jpg"
+      "id": 138546819,
+      "title": "Jigsaw Falling Into Place",
+      "artist": "Radiohead",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a175af9b7d329bc678cb4d26fc13d6de/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3551769431,
@@ -413,22 +429,24 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/81045a8cf4b276512a24923c8a70103a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 577487242,
-      "title": "You Give Love A Bad Name",
-      "artist": "Bon Jovi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/58ca1d20e8d19c1e5f8e821d07412c74/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 1483825242,
       "title": "The Unforgiven (Remastered 2021)",
       "artist": "Metallica",
       "cover": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3906424811,
-      "title": "Nightshift Superstar",
-      "artist": "Muse",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/15f362eec97e06eacddfb61b404a3fdb/250x250-000000-80-0-0.jpg"
+      "id": 538586982,
+      "title": "Always",
+      "artist": "Bon Jovi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f513327c13908b0def56f1fa0ca79789/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 84572613,
+      "title": "Wonderwall (Remastered)",
+      "artist": "Oasis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d63b6ce2589b96cee3e6aa85d996023a/250x250-000000-80-0-0.jpg",
+      "youtubeId": "irrkX4yKfMo",
+      "ytDuration": 259
     },
     {
       "id": 127354207,
@@ -437,24 +455,6 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/250x250-000000-80-0-0.jpg",
       "youtubeId": "FzufzXXZMLo",
       "ytDuration": 172
-    },
-    {
-      "id": 3906424881,
-      "title": "Hush",
-      "artist": "Muse",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/15f362eec97e06eacddfb61b404a3fdb/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4092326601,
-      "title": "Radio Ga Ga",
-      "artist": "Queen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9a3d400b9397879df564df1d0a66c69a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4311597,
-      "title": "The Pretender",
-      "artist": "Foo Fighters",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 116348452,
@@ -469,16 +469,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ddb9659de210aae7c26c0c1d9c845994/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4311599,
+      "title": "Learn to Fly",
+      "artist": "Foo Fighters",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 138539977,
       "title": "Exit Music (For A Film)",
       "artist": "Radiohead",
       "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 70322139,
-      "title": "Why'd You Only Call Me When You're High?",
-      "artist": "Arctic Monkeys",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 70322136,
@@ -505,28 +505,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 138546819,
-      "title": "Jigsaw Falling Into Place",
-      "artist": "Radiohead",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/a175af9b7d329bc678cb4d26fc13d6de/250x250-000000-80-0-0.jpg"
+      "id": 94613616,
+      "title": "Break Stuff",
+      "artist": "Limp Bizkit",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/997093089e97966606459e719848329f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4311599,
-      "title": "Learn to Fly",
-      "artist": "Foo Fighters",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 538586982,
-      "title": "Always",
-      "artist": "Bon Jovi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f513327c13908b0def56f1fa0ca79789/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4092326581,
-      "title": "A Kind Of Magic",
-      "artist": "Queen",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9a3d400b9397879df564df1d0a66c69a/250x250-000000-80-0-0.jpg"
+      "id": 778429,
+      "title": "Good Riddance (Time of Your Life)",
+      "artist": "Green Day",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8cd4171fbf80c3b8df26b0690b11eb86/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 575867572,
@@ -541,16 +529,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/a175af9b7d329bc678cb4d26fc13d6de/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3906424881,
+      "title": "Hush",
+      "artist": "Muse",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/15f362eec97e06eacddfb61b404a3fdb/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 13791931,
       "title": "In Bloom",
       "artist": "Nirvana",
       "cover": "https://cdn-images.dzcdn.net/images/cover/f0282817b697279e56df13909962a54a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 116348610,
-      "title": "Help! (Remastered 2015)",
-      "artist": "The Beatles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c65b3bd84e81056e060be144381c06c8/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3590214,
@@ -559,16 +547,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3a2d055d82de71b1d370d01cf2ca33d9/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4125279901,
+      "title": "Wicked Game",
+      "artist": "Chris Isaak",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/374e712eb27b2a0ab0869597e934ad5b/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 136338504,
       "title": "For Whom The Bell Tolls (Remastered)",
       "artist": "Metallica",
       "cover": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 778429,
-      "title": "Good Riddance (Time of Your Life)",
-      "artist": "Green Day",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/8cd4171fbf80c3b8df26b0690b11eb86/250x250-000000-80-0-0.jpg"
+      "id": 4195715,
+      "title": "Undisclosed Desires",
+      "artist": "Muse",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/79845461299661387ade37f8e34d643c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 74628110,
+      "title": "Bed Of Roses",
+      "artist": "Bon Jovi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4a2821c5cfa61955ddd982c15cc21882/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 10287076,
@@ -583,16 +583,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/03a4debd84fd2769cf1beb7c2e7c40a4/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 99756342,
-      "title": "Roses (feat. ROZES)",
-      "artist": "The Chainsmokers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dca2f32070d5bebf548ce450f969bcc8/250x250-000000-80-0-0.jpg"
+      "id": 3824093,
+      "title": "Feeling Good",
+      "artist": "Muse",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/dfab07432c4282b10e339dfb7139458c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 552496552,
+      "title": "What's My Age Again?",
+      "artist": "blink-182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c25db71db5267c6919391c5f6d8b0d37/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 116348612,
       "title": "Yesterday (Remastered 2015)",
       "artist": "The Beatles",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c65b3bd84e81056e060be144381c06c8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 127673047,
+      "title": "I Miss You",
+      "artist": "blink-182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1eb33a9229dc458e5c45a84f10d3a215/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3829140,
@@ -611,16 +623,40 @@
       "ytDuration": 516
     },
     {
+      "id": 4315310,
+      "title": "I Bet You Look Good On The Dancefloor",
+      "artist": "Arctic Monkeys",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f7a0a1ca91431861989efe5a22aad557/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 92720038,
+      "title": "Shoot to Thrill",
+      "artist": "AC/DC",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/41041b14873956eff0459c8ea2c296a8/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 4311595,
       "title": "Best of You",
       "artist": "Foo Fighters",
       "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 1143496,
+      "title": "My Way",
+      "artist": "Limp Bizkit",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f17a6d764d4eea95dab085c917e1ce7f/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 116348614,
       "title": "Day Tripper (Remastered 2015)",
       "artist": "The Beatles",
       "cover": "https://cdn-images.dzcdn.net/images/cover/c65b3bd84e81056e060be144381c06c8/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 70466230,
+      "title": "Dumb",
+      "artist": "Nirvana",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4d0dfaf6d522f5323aebcc85903d92ac/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 4311594,
@@ -653,10 +689,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d6b738c64650ac1d5b73ca476b9198d3/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 70078209,
-      "title": "Hail to the King",
-      "artist": "Avenged Sevenfold",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/250x250-000000-80-0-0.jpg"
+      "id": 829185532,
+      "title": "Alone, Pt. II",
+      "artist": "Alan Walker",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5950c85f789a083d4be4dfaba9054483/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 136338506,
@@ -671,28 +707,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/e4598a2fe01c6f65b0a2520aec20656e/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 4311598,
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 70322140,
       "title": "Snap Out Of It",
       "artist": "Arctic Monkeys",
       "cover": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 74628110,
-      "title": "Bed Of Roses",
-      "artist": "Bon Jovi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4a2821c5cfa61955ddd982c15cc21882/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2315240,
-      "title": "Vertigo",
-      "artist": "U2",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/74985254012fb1794c487fe3f5aa3840/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4311598,
-      "title": "My Hero",
-      "artist": "Foo Fighters",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/250x250-000000-80-0-0.jpg"
+      "id": 2171221,
+      "title": "A Sunday Kind Of Love",
+      "artist": "Etta James",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 676590,
@@ -713,16 +743,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/ba5eaf2f3a49768164d0728b7ba64372/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 3087241,
+      "title": "21 Guns",
+      "artist": "Green Day",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ebd6fc49c3c87cbd5441424f151c04f2/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 678053,
       "title": "When I Come Around",
       "artist": "Green Day",
       "cover": "https://cdn-images.dzcdn.net/images/cover/1e17054b7bfa6576f64ea867b71ef479/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 4315310,
-      "title": "I Bet You Look Good On The Dancefloor",
-      "artist": "Arctic Monkeys",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f7a0a1ca91431861989efe5a22aad557/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2723257,
@@ -731,16 +761,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/7f8a4d742317d145cb1495e5940bd562/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1105746,
-      "title": "Where Did You Sleep Last Night (Live)",
+      "id": 1105733,
+      "title": "About A Girl (Live)",
       "artist": "Nirvana",
       "cover": "https://cdn-images.dzcdn.net/images/cover/fe1082c5ef54876802146897e76b592e/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 538586992,
-      "title": "Wanted Dead Or Alive",
-      "artist": "Bon Jovi",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f513327c13908b0def56f1fa0ca79789/250x250-000000-80-0-0.jpg"
+      "id": 65732147,
+      "title": "Still into You",
+      "artist": "Paramore",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 505510202,
@@ -755,16 +785,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/b43c1a8f1be9a9ee3654562e5a949426/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 125173830,
-      "title": "First Date",
-      "artist": "blink-182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 15615738,
       "title": "Times Like These",
       "artist": "Foo Fighters",
       "cover": "https://cdn-images.dzcdn.net/images/cover/106f595f32552192b5af96fde11317c1/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 125173830,
+      "title": "First Date",
+      "artist": "blink-182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 785938,
@@ -785,34 +815,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1346bb36e5d61b9fea447a9b3ea50f54/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3087241,
-      "title": "21 Guns",
-      "artist": "Green Day",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ebd6fc49c3c87cbd5441424f151c04f2/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 65732147,
-      "title": "Still into You",
-      "artist": "Paramore",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/485d7cab7695e48f1420182647273de4/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 490821062,
-      "title": "Tieduprightnow",
-      "artist": "Parcels",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bde761c4db175eab7504fc50d9ffb451/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 127354209,
       "title": "Adam's Song",
       "artist": "blink-182",
       "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 61644196,
-      "title": "Kiss You",
-      "artist": "One Direction",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d1458579e53353f4278f2e77ffc75b3b/250x250-000000-80-0-0.jpg"
+      "id": 532435,
+      "title": "Stand by Me",
+      "artist": "Oasis",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/f556c10ce772480402cf2f4804cf77a2/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 993641082,
+      "title": "Wildfires",
+      "artist": "Sault",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/36c70fe5103486da0eede9a2c399cbf2/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 65732144,
@@ -827,28 +845,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1346bb36e5d61b9fea447a9b3ea50f54/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3614317,
-      "title": "This Must Be the Place (Naive Melody) (2005 Remaster)",
-      "artist": "Talking Heads",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/70db13b9aec041ca74d0ec2b815846e9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 116348406,
-      "title": "Here, There And Everywhere (Remastered 2009)",
-      "artist": "The Beatles",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6e1e24a3e4311371abd2c888b1f0e13e/250x250-000000-80-0-0.jpg"
-    },
-    {
       "id": 785961,
       "title": "I'm Not Okay (I Promise)",
       "artist": "My Chemical Romance",
       "cover": "https://cdn-images.dzcdn.net/images/cover/9aba5b418a311c0bbefb6699ebc58a4b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 733720842,
-      "title": "Everybody Here Wants You",
-      "artist": "Jeff Buckley",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/aaaa3d909afea07f06cb1545c3f285ca/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3829144,
@@ -857,10 +857,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/1a48b36fe9dd29b2bef2f5058cbe0c25/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 532435,
-      "title": "Stand by Me",
-      "artist": "Oasis",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f556c10ce772480402cf2f4804cf77a2/250x250-000000-80-0-0.jpg"
+      "id": 3345513301,
+      "title": "Burning Blue",
+      "artist": "Mariah The Scientist",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7ff8036482a0ff11d824533276efd308/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 138539989,
@@ -869,16 +869,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/05a186e0a859a36f9cd51cdae2158fe1/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 127673043,
+      "title": "Feeling This",
+      "artist": "blink-182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1eb33a9229dc458e5c45a84f10d3a215/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 676594,
       "title": "Famous Last Words",
       "artist": "My Chemical Romance",
       "cover": "https://cdn-images.dzcdn.net/images/cover/0f23ab7de2b53c5298044ef1de148c50/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 71955241,
-      "title": "All These Things That I've Done",
-      "artist": "The Killers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/727528cdf2e2a99d397e872fe2bd856e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 676576,
@@ -899,22 +899,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 15188883,
-      "title": "Lay, Lady, Lay",
-      "artist": "Bob Dylan",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/e86d8a1f281ba785532663fb30bad0f9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3667363,
-      "title": "You're the Inspiration (2003 Remaster)",
-      "artist": "Chicago",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/dafda9e0f86905405a02d43d20f0ee8b/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3345513301,
-      "title": "Burning Blue",
-      "artist": "Mariah The Scientist",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/7ff8036482a0ff11d824533276efd308/250x250-000000-80-0-0.jpg"
+      "id": 125173838,
+      "title": "Stay Together For The Kids",
+      "artist": "blink-182",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4f57b6d9f1e1d3a063b3beb0b3577eb5/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 7718385,
@@ -941,10 +929,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/49b073f55550d41055e02c493f9a7d39/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 787220,
-      "title": "Wake Me up When September Ends",
-      "artist": "Green Day",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c14f698c45f445a5ba9dba395f26d642/250x250-000000-80-0-0.jpg"
+      "id": 67929404,
+      "title": "God Is Dead?",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 725235,
+      "title": "Fire and Rain",
+      "artist": "James Taylor",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6268803eebc31691608f283c276813b3/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 407173132,
@@ -953,22 +947,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/9011a35cfee665303d7dea98f1977a72/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 92722890,
-      "title": "Shoot to Thrill",
-      "artist": "AC/DC",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f5cb12b6f789aeec02b245100c8f1bcc/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 910533,
-      "title": "I Miss You",
-      "artist": "blink-182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/9628e1cad0709c01a9ea4b0a0d583722/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 2537712321,
-      "title": "Hysteria",
-      "artist": "Muse",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/539072bad64079ad057642901cf00a71/250x250-000000-80-0-0.jpg"
+      "id": 116913990,
+      "title": "San Tropez",
+      "artist": "Pink Floyd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/fc6e0a55a477939478b15a5cf35f1933/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3110784481,
@@ -977,28 +959,22 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d7a02444be048c2121b92addd4875340/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 124088586,
-      "title": "No Woman",
-      "artist": "Whitney",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ffb9e577d16a38b20e222ea73944bac4/250x250-000000-80-0-0.jpg"
+      "id": 88003865,
+      "title": "Going to California (Remaster)",
+      "artist": "Led Zeppelin",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/460a0edd96f743be03b7405eac38c633/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 953706,
-      "title": "Wonderwall",
-      "artist": "Ryan Adams",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/c73993558ee78bc23646c17c0dbf6650/250x250-000000-80-0-0.jpg"
+      "id": 2537712321,
+      "title": "Hysteria",
+      "artist": "Muse",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/539072bad64079ad057642901cf00a71/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 127354205,
-      "title": "What's My Age Again?",
-      "artist": "blink-182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3110784641,
-      "title": "RUB A DUB",
-      "artist": "FAUVE",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ad6243e92195fd64c776bed48d19f164/250x250-000000-80-0-0.jpg"
+      "id": 787220,
+      "title": "Wake Me up When September Ends",
+      "artist": "Green Day",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c14f698c45f445a5ba9dba395f26d642/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 15596520,
@@ -1007,22 +983,46 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/807022475dba6041ce009ac3d906f4e4/250x250-000000-80-0-0.jpg"
     },
     {
+      "id": 124088586,
+      "title": "No Woman",
+      "artist": "Whitney",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ffb9e577d16a38b20e222ea73944bac4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 13132634,
+      "title": "The Pretender",
+      "artist": "Foo Fighters",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eeb97de903db1fd395c03da4a26ef8f5/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 4092336101,
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7d9ac548995daae90ebad9b694e132c5/250x250-000000-80-0-0.jpg"
+    },
+    {
       "id": 1521864792,
       "title": "Everything In Its Right Place",
       "artist": "Radiohead",
       "cover": "https://cdn-images.dzcdn.net/images/cover/53ea5c29e10b55dfcf018530390df458/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 14635510,
-      "title": "Baby, I Love You",
-      "artist": "Ramones",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/31e8126ac53be1b1170bd52172a19921/250x250-000000-80-0-0.jpg"
+      "id": 4092338881,
+      "title": "Killer Queen",
+      "artist": "Queen",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/3856be3ba91c7009c6e469d9e57c7ea9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3110783901,
-      "title": "JUILLET (1998)",
-      "artist": "FAUVE",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6705c8667b6feba70a45fb52a6ee5781/250x250-000000-80-0-0.jpg"
+      "id": 116348166,
+      "title": "Help! (Remastered 2009)",
+      "artist": "The Beatles",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/45591b70e9b45e897dd7b65b54825c47/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 699067112,
+      "title": "Right Down the Line",
+      "artist": "Sam Evian",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8d7a4f17f0293b1b5137d28651f3102e/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 2794330,
@@ -1031,16 +1031,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/2cc429d96d3b86aa2f58c4ccf1c942a5/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3110783911,
-      "title": "PARAFFINE",
-      "artist": "FAUVE",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6705c8667b6feba70a45fb52a6ee5781/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1200386682,
-      "title": "About A Girl (Live)",
-      "artist": "Nirvana",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/4aa68bcb9d7f8e687cf1bbb4c44ac47b/250x250-000000-80-0-0.jpg"
+      "id": 29360171,
+      "title": "Queen of California",
+      "artist": "John Mayer",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b837c752814a563139c24c7375916814/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71937627,
@@ -1049,40 +1043,76 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d913f22c6778aab9ce1739e4ac05d3ce/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3297324,
-      "title": "Lunatic Fringe",
-      "artist": "Red Rider",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/bd243b0839dd96cf368ff18d82838ee4/250x250-000000-80-0-0.jpg"
+      "id": 577487272,
+      "title": "Wanted Dead Or Alive",
+      "artist": "Bon Jovi",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/58ca1d20e8d19c1e5f8e821d07412c74/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3110784601,
-      "title": "COCK MUSIC SMART MUSIC / RAG #1",
-      "artist": "FAUVE",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/ad6243e92195fd64c776bed48d19f164/250x250-000000-80-0-0.jpg"
+      "id": 67929406,
+      "title": "Loner",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 76563092,
-      "title": "Sweet November",
-      "artist": "SZA",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1159962710260d77e5e18fa66bfd92e4/250x250-000000-80-0-0.jpg"
+      "id": 67929403,
+      "title": "End Of The Beginning",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 119127104,
-      "title": "You Can't Hurry Love (2016 Remaster)",
-      "artist": "Phil Collins",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/49ca3593b640855753049f12a9e003bc/250x250-000000-80-0-0.jpg"
+      "id": 3309780971,
+      "title": "Boots on the Ground",
+      "artist": "803Fresh",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/51293cc6cd721e4c28999e6b79e749c7/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 127354219,
-      "title": "Feeling This",
-      "artist": "blink-182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/250x250-000000-80-0-0.jpg"
+      "id": 651408492,
+      "title": "The Remedy",
+      "artist": "Polaris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7151b04d2ce935eb3be13ba2fb4dd1ea/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 127354213,
-      "title": "The Rock Show",
-      "artist": "blink-182",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/50627ad1a5ce0215359f0e8b2e37a01f/250x250-000000-80-0-0.jpg"
+      "id": 71955239,
+      "title": "Smile Like You Mean It",
+      "artist": "The Killers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/727528cdf2e2a99d397e872fe2bd856e/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 93791640,
+      "title": "Oh My Love",
+      "artist": "The Score",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/2c4f4a7d183fe8aaa67df8a1200f5574/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3826708,
+      "title": "Birds",
+      "artist": "Neil Young",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c70b87aafe4669ce22bc75436c7c0c8c/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 651408482,
+      "title": "Lucid",
+      "artist": "Polaris",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7151b04d2ce935eb3be13ba2fb4dd1ea/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929414,
+      "title": "Damaged Soul",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929408,
+      "title": "Zeitgeist",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 760295,
+      "title": "Diamond Girl",
+      "artist": "Seals & Crofts",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/64576874f913c7d6c9e572a8bdade09c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1999233477,
@@ -1091,10 +1121,46 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/68ef6582be8af87fb79d0d0d344e0219/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 725227,
-      "title": "Country Road",
-      "artist": "James Taylor",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/6268803eebc31691608f283c276813b3/250x250-000000-80-0-0.jpg"
+      "id": 75718261,
+      "title": "Cinco De Mayo Shit Show",
+      "artist": "Marietta",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc42b212af439d33fa902057406d4a5a/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 477778512,
+      "title": "Haqq al-Yaqin",
+      "artist": "Om",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc86aaa61958c59753cb281bafa7f1a4/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929412,
+      "title": "Live Forever",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929415,
+      "title": "Dear Father",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929410,
+      "title": "Age Of Reason",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 71937629,
+      "title": "All These Things That I've Done",
+      "artist": "The Killers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d913f22c6778aab9ce1739e4ac05d3ce/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 67929418,
+      "title": "Pariah",
+      "artist": "Black Sabbath",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 3919196631,
@@ -1103,10 +1169,28 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/3785a8bf8b2c849486a13337e79d287a/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 144259328,
-      "title": "I Think We're Alone Now",
-      "artist": "Tommy James & The Shondells",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/47463fedb7178e3c9cd24b951751d427/250x250-000000-80-0-0.jpg"
+      "id": 7029201,
+      "title": "You Need A Hero",
+      "artist": "Pages",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/6e7d4b8e7fa7dbef7cb9244263851335/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 71238337,
+      "title": "Morning Song",
+      "artist": "The Avett Brothers",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/97473fc69acd650ec1fbc0034fd68caa/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 2386760975,
+      "title": "Terbuang Dalam Waktu",
+      "artist": "Barasuara",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/5414d0f98f582437934f93860f2a0429/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 116535580,
+      "title": "Drown (Live from Maida Vale)",
+      "artist": "Bring Me The Horizon",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/c5a98ba96f6518e44f7500013ecd48df/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 1008357712,
@@ -1115,28 +1199,16 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/f8b4455c9118c4423c18e70c716ecd88/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 1331382182,
-      "title": "Main Hati",
-      "artist": "Andra & The Backbone",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/39b1107653c0beec78c24b14842737c7/250x250-000000-80-0-0.jpg"
+      "id": 483495502,
+      "title": "Castle On The Hill",
+      "artist": "Boyce Avenue",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7a772e1dbc5b86f107992aba063632bf/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 3957914311,
-      "title": "Sejati",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914291,
-      "title": "Matinya Kepakaran",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914331,
-      "title": "Senarai Feses",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
+      "id": 75718262,
+      "title": "You've Got the Map Backwards, Matt",
+      "artist": "Marietta",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/bc42b212af439d33fa902057406d4a5a/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71937633,
@@ -1145,40 +1217,10 @@
       "cover": "https://cdn-images.dzcdn.net/images/cover/d913f22c6778aab9ce1739e4ac05d3ce/250x250-000000-80-0-0.jpg"
     },
     {
-      "id": 4116937851,
-      "title": "Sandiwara Semu",
-      "artist": "rumahsakit",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/53a85ed42f1e63daf544c162abca38e1/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914341,
-      "title": "Perang Bintang",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914371,
-      "title": "Membungkam 98",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914351,
-      "title": "Sang Lelaki",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 71937628,
-      "title": "Smile Like You Mean It",
-      "artist": "The Killers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/d913f22c6778aab9ce1739e4ac05d3ce/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 543102922,
-      "title": "Sunday Morning",
-      "artist": "The Velvet Underground",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/f5e3bdb447ff459bc7d585352a92a6f5/250x250-000000-80-0-0.jpg"
+      "id": 681370332,
+      "title": "METEOR",
+      "artist": "DIVELA",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a7fd79c09d95ae716fc10cd5134e2b8c/250x250-000000-80-0-0.jpg"
     },
     {
       "id": 71937631,
@@ -1191,36 +1233,6 @@
       "title": "Brand New Day",
       "artist": "Albert Hammond",
       "cover": "https://cdn-images.dzcdn.net/images/cover/dbe9beb1cb8d7f5a99623570b76d0f9e/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3957914361,
-      "title": "N.P.D.A",
-      "artist": "Seringai",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/491357876d1e23d904fbc0da10ef9a32/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3558950541,
-      "title": "Translating The Name (Live)",
-      "artist": "Saosin",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/59157c69c30ff09a5fe04271588efba9/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3540059231,
-      "title": "Graduation Song (at Pelatar Live)",
-      "artist": "Murphy Radio",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/24dc9f0db7a71baefdfaf3e8e4348db0/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 3332949721,
-      "title": "Kehilangan",
-      "artist": "Rocket Rockers",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/889039aa64135820d02717c89b2b326a/250x250-000000-80-0-0.jpg"
-    },
-    {
-      "id": 1008563082,
-      "title": "Hitzeheizt",
-      "artist": "Ondolut",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/57d6f7f7405f63e414c99e71f181ec5b/250x250-000000-80-0-0.jpg"
     }
   ]
 }
