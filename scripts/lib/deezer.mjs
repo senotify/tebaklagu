@@ -46,7 +46,7 @@ export const topTracks = (artistId, limit) =>
   api(`/artist/${artistId}/top?limit=${limit}`).then((r) => (r.data ?? []).filter(isPlayable))
 
 /** Whether a search result is plausibly the artist that was asked for. */
-function namesMatch(requested, found) {
+export function namesMatch(requested, found) {
   const a = normalize(requested)
   const b = normalize(found)
   if (a === b) return true
@@ -54,6 +54,40 @@ function namesMatch(requested, found) {
   // but only when the shorter side is substantial enough to mean something.
   const shorter = a.length <= b.length ? a : b
   return shorter.length >= 4 && (a.includes(b) || b.includes(a))
+}
+
+/**
+ * Is this a version other than the song everyone knows? Judged on the bracketed
+ * parts of the title only — "(GAMEBOYS RMX) (Radio Edit)", "(Soul Seekerz Radio
+ * Edit)", "(Live)" — while a plain "(Radio Edit)" of the original is fine.
+ */
+function isAlternateVersion(title) {
+  return (title.match(/[([][^)\]]*[)\]]/g) ?? []).some((part) => {
+    const p = part.slice(1, -1).trim().toLowerCase()
+    if (/\b(remix|rmx|mix|live|acoustic|karaoke|instrumental|cover|sped up|slowed|demo|tribute)\b/.test(p)) return true
+    return /\bedit\b/.test(p) && !/^(radio|single) edit$/.test(p)
+  })
+}
+
+/**
+ * Finds one specific song, for hand-picked lists. Search results mix in remixes,
+ * karaoke and tribute uploads, so only the named artist's own recording of that
+ * exact title is accepted; among those, the most-played version wins, which is
+ * almost always the original single.
+ */
+export async function findSong(artist, title) {
+  const { data = [] } = await api(
+    '/search?q=' + encodeURIComponent(`${artist} ${title}`) + '&limit=25',
+  )
+  const bareTitle = (s) => normalize(s.replace(/\s*[([].*$/, ''))
+  return (
+    data
+      .filter(isPlayable)
+      .filter((t) => namesMatch(artist, t.artist.name))
+      .filter((t) => bareTitle(t.title) === bareTitle(title))
+      .filter((t) => !isAlternateVersion(t.title))
+      .sort((a, b) => b.rank - a.rank)[0] ?? null
+  )
 }
 
 /**
