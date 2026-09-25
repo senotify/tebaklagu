@@ -66,9 +66,38 @@ export function pickDailyTrack<T>(pool: readonly T[], date: string): T {
   return pool[hashString(date) % pool.length]
 }
 
-export function pickRandomTrack<T>(pool: readonly T[], exclude?: T): T {
-  const options = exclude && pool.length > 1 ? pool.filter((t) => t !== exclude) : pool
-  return options[Math.floor(Math.random() * options.length)]
+/** Songs in one free-play run. */
+export const RUN_LENGTH = 10
+
+/** Best possible run: every song on the first clip. */
+export const MAX_RUN_SCORE = RUN_LENGTH * MAX_ATTEMPTS
+
+/** 6 points on the first clip down to 1 on the last; nothing for a miss. */
+export const scoreForRound = (won: boolean, attempts: number): number =>
+  won ? MAX_ATTEMPTS + 1 - attempts : 0
+
+function shuffle<T>(items: T[]): T[] {
+  for (let i = items.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[items[i], items[j]] = [items[j], items[i]]
+  }
+  return items
+}
+
+/**
+ * Picks a run's songs, avoiding ones already heard today. A list smaller than
+ * what's been heard still gives a full run: it tops up from the heard songs
+ * rather than cutting the run short.
+ */
+export function pickRunTracks<T extends { id: number }>(
+  pool: readonly T[],
+  count: number,
+  exclude: ReadonlySet<number>,
+): T[] {
+  const fresh = shuffle(pool.filter((t) => !exclude.has(t.id)))
+  if (fresh.length >= count) return fresh.slice(0, count)
+  const heard = shuffle(pool.filter((t) => exclude.has(t.id)))
+  return [...fresh, ...heard].slice(0, count)
 }
 
 export function buildShareText(

@@ -80,3 +80,47 @@ export function recordDaily(result: DailyResult): Stats {
 }
 
 export const resultForDate = (date: string): DailyResult | undefined => loadStats().results[date]
+
+const SEEN_KEY = 'tebaklagu.seen.v1'
+
+/**
+ * Free-play songs this device has been dealt today (WIB). Stored with the date
+ * so the list empties itself at midnight rather than growing forever.
+ */
+export function seenToday(date: string): Set<number> {
+  try {
+    const raw = localStorage.getItem(SEEN_KEY)
+    const parsed = raw ? (JSON.parse(raw) as { date?: string; ids?: number[] }) : null
+    return new Set(parsed?.date === date ? (parsed.ids ?? []) : [])
+  } catch {
+    return new Set()
+  }
+}
+
+export function markSeen(date: string, ids: readonly number[]) {
+  try {
+    const all = seenToday(date)
+    for (const id of ids) all.add(id)
+    localStorage.setItem(SEEN_KEY, JSON.stringify({ date, ids: [...all] }))
+  } catch {
+    // Storage unavailable; songs may repeat, which is harmless.
+  }
+}
+
+const USERNAME_KEY = 'tebaklagu.username.v1'
+
+export function loadUsername(): string {
+  try {
+    return localStorage.getItem(USERNAME_KEY) ?? ''
+  } catch {
+    return ''
+  }
+}
+
+export function saveUsername(name: string) {
+  try {
+    localStorage.setItem(USERNAME_KEY, name)
+  } catch {
+    // Not remembered next time; nothing else depends on it.
+  }
+}

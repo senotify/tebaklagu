@@ -13,6 +13,8 @@ export default defineConfig({
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api\/deezer/, ''),
       },
+      // Leaderboard API from `npm run api`; nginx proxies to its container in production
+      '/api/scores': 'http://localhost:8787',
     },
   },
 })

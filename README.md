@@ -135,6 +135,44 @@ This is how the current seeds were built. It is worth the paranoia: while
 seeding, two ids that looked right turned out to be a Sinéad O'Connor video and
 a Russian cartoon.
 
+## Free play: scored runs and the leaderboard
+
+"Main bebas" deals a run of **10 songs** from the chosen list. Each song scores
+6 points if guessed on the first clip, down to 1 on the sixth; a miss scores 0,
+so a run is worth up to 60. Five spare songs are dealt too: if a YouTube ad blocks
+an intro round, "Lagu lain" swaps in a spare instead of scoring the song.
+
+A device won't be dealt the same song twice in one WIB day, across all lists
+(`tebaklagu.seen.v1` in localStorage). A song counts as heard when its round
+starts. If a list runs out of unheard songs, the run tops up from heard ones.
+
+At the end the player enters a name and submits the score to a shared board, one
+per playlist and clip mode. The board is served by `server/index.mjs`, a small
+Node API with no dependencies, which stores scores in SQLite (`node:sqlite`):
+
+| | |
+| --- | --- |
+| `GET /api/scores?playlist=rock&mode=hook` | Top 20; ties go to the earlier score |
+| `POST /api/scores` | `{ username, playlist, mode, score, songs }`, returns `{ id, rank }` |
+
+Scores are submitted by the browser, so they can be forged. The API only checks
+that each one is something a real run could produce: a known playlist, a valid
+mode, 0–60 points, 10 songs, and a name of 2–20 characters. It also accepts at
+most 10 submissions per minute per IP.
+
+Local development runs both:
+
+```bash
+npm run api        # :8787, writes ./scores.db (gitignored)
+npm run dev        # vite proxies /api/scores to it
+```
+
+In production the API is its own container, `tebaklagu-api`, built from the
+Dockerfile's `api` target. It keeps the database in the named volume
+`tebaklagu-scores`, so scores survive redeploys. nginx proxies `/api/scores` to it
+over `proxy-network`, resolving the address per request, so the site still loads
+while the API is down.
+
 ## Deezer rate limit
 
 Deezer allows 50 requests per 5 seconds **per IP**, and in production every
