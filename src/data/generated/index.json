@@ -36,6 +36,13 @@
       "introCount": 40
     },
     {
+      "id": "billboard",
+      "title": "Top Billboard",
+      "emoji": "🏆",
+      "count": 131,
+      "introCount": 46
+    },
+    {
       "id": "western-2000s",
       "title": "Barat 2000-an",
       "emoji": "📀",

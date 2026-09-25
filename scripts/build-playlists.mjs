@@ -13,7 +13,7 @@
 // in the generated files are reused rather than looked up again.
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
-import { api, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
+import { api, findSong, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
 import { blockedInCountry, pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
 import { DAILY_POOL, PLAYLISTS } from './sources.mjs'
 
@@ -55,6 +55,12 @@ async function collect(name, spec) {
       continue
     }
     tracks.push(...(await topTracks(entry.id, spec.tracksPerArtist ?? 8)))
+  }
+
+  for (const [artist, title] of spec.songs ?? []) {
+    const found = await findSong(artist, title)
+    if (found) tracks.push(found)
+    else console.log(`   ! not on Deezer: ${artist} — ${title}`)
   }
 
   for (const genre of spec.charts ?? []) {
@@ -125,6 +131,13 @@ const VIDEO_ID = /^[A-Za-z0-9_-]{11}$/
 const lengthAgrees = (videoSeconds, trackSeconds) =>
   !trackSeconds || (videoSeconds >= trackSeconds * 0.5 && videoSeconds <= trackSeconds * 2.5 + 60)
 
+/**
+ * Deezer id -> video id from every playlist's previous build. The same song can
+ * sit in several lists — "Uptown Funk" is in Global Hits and Top Billboard — and
+ * a mapping vetted for one is just as good for the other, without a search.
+ */
+const catalogYt = new Map()
+
 /** Deezer track ids whose video was rejected, so the schedule can drop it too. */
 const rejected = new Set()
 
@@ -184,7 +197,11 @@ async function ensureRegions(videoIds) {
     const { tracks = [] } = JSON.parse(
       await readFile(new URL(`${name}.json`, OUT_DIR), 'utf8').catch(() => '{"tracks":[]}'),
     )
-    for (const t of tracks) if (t.youtubeId) known.add(t.youtubeId)
+    for (const t of tracks) {
+      if (!t.youtubeId) continue
+      known.add(t.youtubeId)
+      catalogYt.set(t.id, t.youtubeId)
+    }
   }
   const previousSchedule = JSON.parse(
     await readFile(new URL('daily-schedule.json', OUT_DIR), 'utf8').catch(() => '{}'),
@@ -214,9 +231,14 @@ for (const name of names) {
   const drafts = []
   for (const t of raw) {
     // Audio remaps win, then hand-verified seeds, then ids from the previous
-    // build, then a fresh search. Only newly found ids need vetting — the
+    // build (this list's, then any other list's), then a fresh search. Only newly found ids need vetting — the
     // others were vetted once.
-    let yt = remaps[String(t.id)]?.videoId ?? seed[String(t.id)] ?? knownYt.get(t.id) ?? null
+    let yt =
+      remaps[String(t.id)]?.videoId ??
+      seed[String(t.id)] ??
+      knownYt.get(t.id) ??
+      catalogYt.get(t.id) ??
+      null
 
     if (!yt && YT_KEY && !quotaGone && !noSearch) {
       try {
