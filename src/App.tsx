@@ -100,7 +100,12 @@ export default function App() {
     setError(null)
     try {
       const playlist = await loadPlaylist(info)
-      const dealt = pickRunTracks(tracksForMode(playlist, mode), RUN_LENGTH + SPARES, seenToday(date))
+      const exclude = seenToday(date)
+      // Today's daily song never turns up in free play, played yet or not —
+      // hearing it here first would give the daily away.
+      const daily = await loadDailyTrack(date).catch(() => null)
+      if (daily) exclude.add(daily.id)
+      const dealt = pickRunTracks(tracksForMode(playlist, mode), RUN_LENGTH + SPARES, exclude)
       const tracks = dealt.slice(0, RUN_LENGTH)
       if (!tracks.length) throw new Error('Playlist kosong')
       playRunRound({
