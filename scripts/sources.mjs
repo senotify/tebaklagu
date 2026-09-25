@@ -110,6 +110,14 @@ export const PLAYLISTS = {
       'Bon Jovi', 'Metallica', 'AC/DC', 'The Beatles',
     ],
   },
+  // A single-artist list: deep enough that a fan gets past the radio hits, and
+  // that 30 or more survive YouTube mapping so it can open in intro mode.
+  'the-weeknd': {
+    title: 'The Weeknd',
+    emoji: '🌃',
+    tracksPerArtist: 50,
+    artists: ['The Weeknd'],
+  },
   kpop: {
     title: 'K-Pop',
     emoji: '💜',
