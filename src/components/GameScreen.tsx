@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import type { Playlist } from '../data/playlists'
 import { useAudioClip } from '../hooks/useAudioClip'
 import { useYouTubeClip } from '../hooks/useYouTubeClip'
+import { launchConfetti } from '../lib/confetti'
 import { fetchPreviewUrl, type Suggestion, type Track } from '../lib/deezer'
 import {
   isCorrectGuess,
@@ -46,6 +47,8 @@ export function GameScreen({
   const [guesses, setGuesses] = useState<Guess[]>([])
   const [finished, setFinished] = useState<null | { won: boolean }>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
+  // `key` restarts the animation, so two wrong guesses in a row both flash.
+  const [flash, setFlash] = useState<null | { correct: boolean; key: number }>(null)
   const recorded = useRef(false)
 
   // Both engines are instantiated (hooks can't be conditional) but only the one
@@ -128,6 +131,9 @@ export function GameScreen({
 
   const onGuess = (choice: Suggestion) => {
     const correct = isCorrectGuess(choice, track)
+    // A skip is a choice, not a mistake, so only real guesses get feedback.
+    setFlash((prev) => ({ correct, key: (prev?.key ?? 0) + 1 }))
+    if (correct) launchConfetti()
     addGuess({
       outcome: correct ? 'correct' : 'wrong',
       label: `${choice.title} — ${choice.artist}`,
@@ -144,6 +150,16 @@ export function GameScreen({
 
   return (
     <div className="flex w-full flex-col gap-6">
+      {flash && (
+        <div
+          key={flash.key}
+          aria-hidden
+          className={`guess-flash pointer-events-none fixed inset-0 z-50 ${
+            flash.correct ? 'bg-emerald-400' : 'bg-rose-500'
+          }`}
+        />
+      )}
+
       <div className="flex items-center justify-between text-xs text-white/40">
         <button type="button" onClick={onHome} className="transition hover:text-white">
           ← Menu

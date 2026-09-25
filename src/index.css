@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+/* Full-screen tint after a guess: green for right, red for wrong. */
+@keyframes guess-flash {
+  from {
+    opacity: 0.35;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.guess-flash {
+  animation: guess-flash 600ms ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .guess-flash {
+    animation-duration: 300ms;
+  }
+}
