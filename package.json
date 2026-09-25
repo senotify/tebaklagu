@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
+    "api": "DB_PATH=./scores.db node --disable-warning=ExperimentalWarning server/index.mjs",
     "catalog:resolve": "node scripts/resolve-artists.mjs",
     "catalog:verify": "node scripts/verify-artists.mjs",
     "catalog:audit": "node scripts/audit-artists.mjs",

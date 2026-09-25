@@ -4,7 +4,7 @@ import {
   supportsIntro,
   type PlaylistInfo,
 } from '../data/playlists'
-import type { ClipMode } from '../lib/game'
+import { RUN_LENGTH, type ClipMode } from '../lib/game'
 import { resultForDate } from '../lib/storage'
 
 type Props = {
@@ -12,6 +12,7 @@ type Props = {
   onClipMode: (mode: ClipMode) => void
   onDaily: () => void
   onUnlimited: (playlist: PlaylistInfo) => void
+  onLeaderboard: () => void
   date: string
   loading?: boolean
 }
@@ -21,6 +22,7 @@ export function HomeScreen({
   onClipMode,
   onDaily,
   onUnlimited,
+  onLeaderboard,
   date,
   loading = false,
 }: Props) {
@@ -117,9 +119,18 @@ export function HomeScreen({
       </section>
 
       <section>
-        <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-white/40">
-          Main bebas
-        </h2>
+        <div className="mb-2 flex items-baseline justify-between">
+          <h2 className="text-xs font-medium uppercase tracking-wide text-white/40">
+            Main bebas · {RUN_LENGTH} lagu
+          </h2>
+          <button
+            type="button"
+            onClick={onLeaderboard}
+            className="text-xs text-emerald-400 transition hover:text-emerald-300"
+          >
+            🏆 Papan skor
+          </button>
+        </div>
         <div className="grid grid-cols-2 gap-2">
           {PLAYLISTS.map((playlist) => {
             const available = clipMode === 'hook' || supportsIntro(playlist)

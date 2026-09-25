@@ -19,6 +19,8 @@ permissions:
 env:
   IMAGE: ghcr.io/senotify/tebaklagu
   CONTAINER: tebaklagu
+  API_IMAGE: ghcr.io/senotify/tebaklagu-api
+  API_CONTAINER: tebaklagu-api
 
 jobs:
   build:
@@ -55,10 +57,23 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
+          target: web
           push: true
           tags: |
             ${{ env.IMAGE }}:${{ github.sha }}
             ${{ env.IMAGE }}:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - if: steps.exists.outputs.skip == 'false'
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          target: api
+          push: true
+          tags: |
+            ${{ env.API_IMAGE }}:${{ github.sha }}
+            ${{ env.API_IMAGE }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
@@ -83,9 +98,24 @@ jobs:
 
           ssh -i ~/.ssh/deploy -o IdentitiesOnly=yes "$USER@$HOST" \
             IMAGE='${{ env.IMAGE }}' CONTAINER='${{ env.CONTAINER }}' \
+            API_IMAGE='${{ env.API_IMAGE }}' API_CONTAINER='${{ env.API_CONTAINER }}' \
             TAG="$TAG" TOKEN="$TOKEN" ACTOR="$ACTOR" 'bash -euo pipefail -s' <<'REMOTE'
             echo "$TOKEN" | docker login ghcr.io -u "$ACTOR" --password-stdin
             trap 'docker logout ghcr.io >/dev/null 2>&1 || true' EXIT
+
+            # The API first, so the web container finds it on its first request.
+            # Scores live in a named volume that outlives every redeploy.
+            # A rollback to a commit from before the API existed has no API image;
+            # leave whatever API is running rather than failing the rollback.
+            if docker pull "$API_IMAGE:$TAG"; then
+              docker rm -f "$API_CONTAINER" 2>/dev/null || true
+              docker run -d --name "$API_CONTAINER" \
+                --network proxy-network --restart unless-stopped \
+                -v tebaklagu-scores:/data \
+                "$API_IMAGE:$TAG"
+            else
+              echo "no $API_IMAGE:$TAG, keeping the current API container"
+            fi
 
             docker pull "$IMAGE:$TAG"
             docker rm -f "$CONTAINER" 2>/dev/null || true
@@ -114,7 +144,16 @@ jobs:
                 exit 1
               fi
               echo "Deezer proxy OK"
-              exit 0
+              # The API may still be opening its database; give it a few tries.
+              for j in $(seq 1 5); do
+                api=$(curl -sS -m 15 --resolve "tebaklagu.senotify.com:443:${{ secrets.VPS_HOST }}" \
+                        -o /dev/null -w '%{http_code}' \
+                        "https://tebaklagu.senotify.com/api/scores?playlist=rock&mode=hook" || echo 000)
+                echo "scores api attempt $j: HTTP $api"
+                [ "$api" = "200" ] && exit 0
+                sleep 4
+              done
+              echo "scores api did not return 200"; exit 1
             fi
             sleep 6
           done

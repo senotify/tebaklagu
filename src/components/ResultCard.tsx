@@ -1,6 +1,12 @@
 import { useState } from 'react'
 import type { Track } from '../lib/deezer'
-import { buildShareText, type ClipMode, type Guess, type PlayMode } from '../lib/game'
+import {
+  buildShareText,
+  scoreForRound,
+  type ClipMode,
+  type Guess,
+  type PlayMode,
+} from '../lib/game'
 
 type Props = {
   track: Track
@@ -11,6 +17,8 @@ type Props = {
   date: string
   onNext: () => void
   onHome: () => void
+  /** The run's final song, so "next" leads to the score screen instead. */
+  lastInRun?: boolean
 }
 
 export function ResultCard({
@@ -22,6 +30,7 @@ export function ResultCard({
   date,
   onNext,
   onHome,
+  lastInRun = false,
 }: Props) {
   const [shared, setShared] = useState(false)
 
@@ -42,6 +51,7 @@ export function ResultCard({
     <div className="flex w-full flex-col items-center gap-4 text-center">
       <p className={`text-sm font-medium ${won ? 'text-emerald-400' : 'text-rose-400'}`}>
         {won ? `Benar dalam ${guesses.length} tebakan!` : 'Belum berhasil kali ini'}
+        {playMode === 'unlimited' && ` · +${scoreForRound(won, guesses.length)} poin`}
       </p>
 
       {track.cover && (
@@ -74,7 +84,7 @@ export function ResultCard({
             onClick={onNext}
             className="w-full rounded-xl bg-emerald-500 py-3 font-medium text-black transition hover:bg-emerald-400"
           >
-            Lagu berikutnya
+            {lastInRun ? 'Lihat skor' : 'Lagu berikutnya'}
           </button>
         )}
 

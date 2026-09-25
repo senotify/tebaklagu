@@ -30,6 +30,10 @@ type Props = {
   onFallbackHook: () => void
   /** This round already fell back from intro mode, so say why. */
   fellBack?: boolean
+  /** Free play only: where this round sits in its run. */
+  run?: { index: number; total: number; score: number }
+  /** Told once the round is decided, so a run can total its points. */
+  onFinish?: (won: boolean, attempts: number) => void
 }
 
 export function GameScreen({
@@ -42,6 +46,8 @@ export function GameScreen({
   onHome,
   onFallbackHook,
   fellBack,
+  run,
+  onFinish,
 }: Props) {
   const stages = STAGES[clipMode]
   const [guesses, setGuesses] = useState<Guess[]>([])
@@ -110,12 +116,13 @@ export function GameScreen({
     (won: boolean, finalGuesses: Guess[]) => {
       setFinished({ won })
       stop()
+      onFinish?.(won, finalGuesses.length)
       if (playMode === 'daily' && !recorded.current) {
         recorded.current = true
         recordDaily({ date, won, attempts: finalGuesses.length, clipMode })
       }
     },
-    [clipMode, date, playMode, stop],
+    [clipMode, date, onFinish, playMode, stop],
   )
 
   const addGuess = (guess: Guess) => {
@@ -167,6 +174,7 @@ export function GameScreen({
         <span>
           {playMode === 'daily' ? `Harian · ${date}` : playlist.title} ·{' '}
           {clipMode === 'intro' ? 'Intro' : 'Reff'}
+          {run && ` · Lagu ${run.index + 1}/${run.total} · ${run.score} poin`}
         </span>
       </div>
 
@@ -260,6 +268,7 @@ export function GameScreen({
                   date={date}
                   onNext={onNext}
                   onHome={onHome}
+                  lastInRun={run ? run.index + 1 >= run.total : false}
                 />
               ) : (
                 <>
