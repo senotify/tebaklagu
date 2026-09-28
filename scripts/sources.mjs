@@ -193,6 +193,14 @@ export const PLAYLISTS = {
     tracksPerArtist: 50,
     artists: ['The Weeknd'],
   },
+  'ariana-grande': {
+    title: 'Ariana Grande',
+    emoji: '🎀',
+    tracksPerArtist: 50,
+    artists: ['Ariana Grande'],
+    ownTracksOnly: true,
+    keepFeatures: [['The Weeknd', 'Save Your Tears']],
+  },
   kpop: {
     title: 'K-Pop',
     emoji: '💜',
