@@ -34,11 +34,13 @@ const artistIds = JSON.parse(
   await readFile(new URL('./artist-ids.json', import.meta.url), 'utf8'),
 )
 
+const bareTitle = (title) => normalize(title.replace(/\s*[([].*$/, ''))
+
 /** Same song twice (remaster, re-release, "Perih (Perih)") is a bad round. */
 function dedupe(tracks) {
   const best = new Map()
   for (const t of tracks) {
-    const key = `${t.artist.id}::${normalize(t.title.replace(/\s*[([].*$/, ''))}`
+    const key = `${t.artist.id}::${bareTitle(t.title)}`
     const prev = best.get(key)
     if (!prev || t.rank > prev.rank) best.set(key, t)
   }
@@ -54,7 +56,16 @@ async function collect(name, spec) {
       console.log(`   ! ${artistName}: no id, run resolve-artists.mjs`)
       continue
     }
-    tracks.push(...(await topTracks(entry.id, spec.tracksPerArtist ?? 8)))
+    let top = await topTracks(entry.id, spec.tracksPerArtist ?? 8)
+    // An artist's top tracks include songs they only feature on, filed under the
+    // lead artist — in a single-artist list that answer reads like a bug.
+    if (spec.ownTracksOnly) {
+      const keep = new Set((spec.keepFeatures ?? []).map(([a, t]) => `${normalize(a)}::${bareTitle(t)}`))
+      top = top.filter(
+        (t) => t.artist.id === entry.id || keep.has(`${normalize(t.artist.name)}::${bareTitle(t.title)}`),
+      )
+    }
+    tracks.push(...top)
   }
 
   for (const [artist, title] of spec.songs ?? []) {

@@ -1,0 +1,358 @@
+{
+  "title": "Ariana Grande",
+  "emoji": "🎀",
+  "tracks": [
+    {
+      "id": 4045817471,
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/020b1804e8c8a2aba6770f5b2763847b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "v1t4MTqdfyI",
+      "ytDuration": 198
+    },
+    {
+      "id": 1352360622,
+      "title": "Save Your Tears (Remix)",
+      "artist": "The Weeknd",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/4acc3760e12996fe21a77115fc67760b/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 629899842,
+      "title": "7 rings",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "BMA8w5BHC98",
+      "ytDuration": 179
+    },
+    {
+      "id": 2690050002,
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 83844556,
+      "title": "Love Me Harder",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5021d5a88c44071a97416c65d4dbdd9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "8ytBMWGjjRM",
+      "ytDuration": 237
+    },
+    {
+      "id": 629899852,
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EEhZAHZQyf4",
+      "ytDuration": 208
+    },
+    {
+      "id": 1375215242,
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Q4KZaI_jtKs",
+      "ytDuration": 242
+    },
+    {
+      "id": 1375215222,
+      "title": "Dangerous Woman",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "TFrMDGfW_Sg",
+      "ytDuration": 236
+    },
+    {
+      "id": 542389552,
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5d4fa5c1b97100bf128909d766f06f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 124995668,
+      "title": "Side To Side",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/e5bf0368c12f211bdafe91deba06cdda/250x250-000000-80-0-0.jpg",
+      "youtubeId": "h0JrKnBE3nI",
+      "ytDuration": 226
+    },
+    {
+      "id": 83844534,
+      "title": "Problem",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/b5021d5a88c44071a97416c65d4dbdd9/250x250-000000-80-0-0.jpg",
+      "youtubeId": "zAbDLXFHz2o",
+      "ytDuration": 193
+    },
+    {
+      "id": 4182548192,
+      "title": "petal",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4mQyEqbaUOU",
+      "ytDuration": 184
+    },
+    {
+      "id": 4182548282,
+      "title": "like i do",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Pjq0RF3og-4",
+      "ytDuration": 167
+    },
+    {
+      "id": 542389502,
+      "title": "God is a woman",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8a5d4fa5c1b97100bf128909d766f06f/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1375215262,
+      "title": "Let Me Love You",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xbiv2QHcGYU",
+      "ytDuration": 224
+    },
+    {
+      "id": 629899762,
+      "title": "needy",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Km__cJEJ3JI",
+      "ytDuration": 173
+    },
+    {
+      "id": 2614318122,
+      "title": "yes, and?",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/eca6766746c9ad358c208df95fc3ec2c/250x250-000000-80-0-0.jpg",
+      "youtubeId": "b-PyeJvGfwA",
+      "ytDuration": 215
+    },
+    {
+      "id": 4182548252,
+      "title": "big feelings",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "arrDOc5I0uk",
+      "ytDuration": 174
+    },
+    {
+      "id": 953769542,
+      "title": "Stuck with U",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1177b6a9a7204c4d5db714ab4ffc2448/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1126047002,
+      "title": "positions",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82043641a4e2852b1794110b74a302e8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xuOOAQoDKN0",
+      "ytDuration": 172
+    },
+    {
+      "id": 4182547582,
+      "title": "kiss me",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "b-9gJ1Gc8rE",
+      "ytDuration": 220
+    },
+    {
+      "id": 629899862,
+      "title": "break up with your girlfriend, i'm bored",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 3294514251,
+      "title": "twilight zone",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0924ef037bd95dc8589af0316f64524b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "5UE2kT5LxE0",
+      "ytDuration": 198
+    },
+    {
+      "id": 629899782,
+      "title": "bloodline",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "uKqRAC-JNOM",
+      "ytDuration": 218
+    },
+    {
+      "id": 4182548302,
+      "title": "bad thing (bunny hop)",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "xtKJAAJqrfA",
+      "ytDuration": 208
+    },
+    {
+      "id": 724038592,
+      "title": "boyfriend",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/7dacf0810eabd79c77303aeff4af8f7d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 1375215292,
+      "title": "Everyday",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "M3fxC5QDcxg",
+      "ytDuration": 195
+    },
+    {
+      "id": 4182548262,
+      "title": "freak",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "wE91LVz8JXg",
+      "ytDuration": 200
+    },
+    {
+      "id": 1126047052,
+      "title": "34+35",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82043641a4e2852b1794110b74a302e8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "lR5raZbD7fE",
+      "ytDuration": 174
+    },
+    {
+      "id": 2690049982,
+      "title": "the boy is mine",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/250x250-000000-80-0-0.jpg",
+      "youtubeId": "RQda8pD9tEQ",
+      "ytDuration": 174
+    },
+    {
+      "id": 2690049922,
+      "title": "bye",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/250x250-000000-80-0-0.jpg",
+      "youtubeId": "PlaiDnJyabE",
+      "ytDuration": 165
+    },
+    {
+      "id": 4182548312,
+      "title": "nowhere, nobody",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "k7SDstVAD78",
+      "ytDuration": 172
+    },
+    {
+      "id": 3294514281,
+      "title": "past life",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0924ef037bd95dc8589af0316f64524b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "EHf3H6GE25U",
+      "ytDuration": 216
+    },
+    {
+      "id": 1126047062,
+      "title": "motive",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/82043641a4e2852b1794110b74a302e8/250x250-000000-80-0-0.jpg",
+      "youtubeId": "HD_zikcnT64",
+      "ytDuration": 168
+    },
+    {
+      "id": 4182547612,
+      "title": "stay",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "0J6tGMnBLlM",
+      "ytDuration": 148
+    },
+    {
+      "id": 4182547622,
+      "title": "oh well",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "_lKbPBS5HEQ",
+      "ytDuration": 196
+    },
+    {
+      "id": 2690049962,
+      "title": "supernatural",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/250x250-000000-80-0-0.jpg",
+      "youtubeId": "4bwnO0FQp1s",
+      "ytDuration": 164
+    },
+    {
+      "id": 111052058,
+      "title": "Focus",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/96cbf20ca08cd1ec39b268bd08d8296d/250x250-000000-80-0-0.jpg"
+    },
+    {
+      "id": 629899822,
+      "title": "ghostin",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Z1pmpDRrQhU",
+      "ytDuration": 272
+    },
+    {
+      "id": 1375215272,
+      "title": "Greedy",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nw8zdCwp3k4",
+      "ytDuration": 215
+    },
+    {
+      "id": 4182547692,
+      "title": "never get over me",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/d7353e7f013511372451627aed94c974/250x250-000000-80-0-0.jpg",
+      "youtubeId": "pBAzAia8cB4",
+      "ytDuration": 229
+    },
+    {
+      "id": 83837260,
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c754191d3fb33491c5673a3bec98e4f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "Wg92RrNhB8s",
+      "ytDuration": 199
+    },
+    {
+      "id": 83837266,
+      "title": "Best Mistake",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/8c754191d3fb33491c5673a3bec98e4f/250x250-000000-80-0-0.jpg",
+      "youtubeId": "6H6dRxGT_ww",
+      "ytDuration": 234
+    },
+    {
+      "id": 3294514091,
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0924ef037bd95dc8589af0316f64524b/250x250-000000-80-0-0.jpg",
+      "youtubeId": "o9WoiasD49w",
+      "ytDuration": 92
+    },
+    {
+      "id": 542373662,
+      "title": "breathin",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ec1976679a176cb4f448b12ce5966802/250x250-000000-80-0-0.jpg",
+      "youtubeId": "1BYr1br2Ee4",
+      "ytDuration": 197
+    },
+    {
+      "id": 1249621242,
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ae761e611a4d248509d53bd08562c6cb/250x250-000000-80-0-0.jpg",
+      "youtubeId": "nQJEp-k-ogs",
+      "ytDuration": 203
+    }
+  ]
+}
