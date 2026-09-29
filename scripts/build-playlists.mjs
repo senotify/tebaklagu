@@ -13,7 +13,7 @@
 // in the generated files are reused rather than looked up again.
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
-import { api, findSong, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
+import { api, findSong, isAlternateVersion, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
 import { blockedInCountry, pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
 import { pickCovers } from './lib/covers.mjs'
 import { DAILY_POOL, PLAYLISTS } from './sources.mjs'
@@ -37,13 +37,21 @@ const artistIds = JSON.parse(
 
 const bareTitle = (title) => normalize(title.replace(/\s*[([].*$/, ''))
 
-/** Same song twice (remaster, re-release, "Perih (Perih)") is a bad round. */
+/**
+ * Same song twice (remaster, re-release, "Perih (Perih)") is a bad round. The
+ * original wins over a remix or extended cut even when that outranks it, since
+ * the original is the one people know; otherwise the most-played version does.
+ */
 function dedupe(tracks) {
   const best = new Map()
+  const better = (a, b) =>
+    isAlternateVersion(a.title) !== isAlternateVersion(b.title)
+      ? !isAlternateVersion(a.title)
+      : a.rank > b.rank
   for (const t of tracks) {
     const key = `${t.artist.id}::${bareTitle(t.title)}`
     const prev = best.get(key)
-    if (!prev || t.rank > prev.rank) best.set(key, t)
+    if (!prev || better(t, prev)) best.set(key, t)
   }
   return [...best.values()]
 }

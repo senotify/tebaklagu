@@ -196,7 +196,7 @@ export const PLAYLISTS = {
   'ariana-grande': {
     title: 'Ariana Grande',
     icon: 'ribbon',
-    tracksPerArtist: 50,
+    tracksPerArtist: 100,
     artists: ['Ariana Grande'],
     ownTracksOnly: true,
     keepFeatures: [['The Weeknd', 'Save Your Tears']],

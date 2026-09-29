@@ -61,10 +61,10 @@ export function namesMatch(requested, found) {
  * parts of the title only — "(GAMEBOYS RMX) (Radio Edit)", "(Soul Seekerz Radio
  * Edit)", "(Live)" — while a plain "(Radio Edit)" of the original is fine.
  */
-function isAlternateVersion(title) {
+export function isAlternateVersion(title) {
   return (title.match(/[([][^)\]]*[)\]]/g) ?? []).some((part) => {
     const p = part.slice(1, -1).trim().toLowerCase()
-    if (/\b(remix|rmx|mix|live|acoustic|karaoke|instrumental|cover|sped up|slowed|demo|tribute)\b/.test(p)) return true
+    if (/\b(remix|rmx|mix|live|acoustic|karaoke|instrumental|cover|sped up|slowed|demo|tribute|extended)\b/.test(p)) return true
     return /\bedit\b/.test(p) && !/^(radio|single) edit$/.test(p)
   })
 }
