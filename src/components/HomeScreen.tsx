@@ -126,7 +126,7 @@ export function HomeScreen({
             type="button"
             onClick={onDaily}
             disabled={loading}
-            className="btn-primary justify-start gap-4 px-4 py-4 text-left"
+            className="btn-primary justify-start gap-4 px-4 py-4 text-left hover:-translate-y-0.5 hover:shadow-[3px_5px_0_var(--color-ink)] hover:brightness-110 active:translate-y-0 active:shadow-none disabled:hover:translate-y-0 disabled:hover:shadow-[3px_3px_0_var(--color-ink)] disabled:hover:brightness-100"
           >
             <DateStamp date={date} />
             <span className="border-l-2 border-card/30 pl-4">
