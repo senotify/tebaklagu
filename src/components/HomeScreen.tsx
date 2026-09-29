@@ -174,11 +174,6 @@ export function HomeScreen({
                   <span className="display min-w-0 text-base leading-none">{playlist.title}</span>
                   <span className="shrink-0 font-mono text-[10px] text-ink/60">{playlist.count}</span>
                 </div>
-                {!available && (
-                  <span className="-mt-1.5 block px-2.5 pb-2 text-[11px] text-ink/70">
-                    Mode intro belum siap
-                  </span>
-                )}
               </button>
             )
           })}
