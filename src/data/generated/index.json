@@ -3,85 +3,151 @@
     {
       "id": "indo-pop",
       "title": "Pop Indonesia",
-      "emoji": "🇮🇩",
+      "icon": "flag",
       "count": 162,
-      "introCount": 111
+      "introCount": 111,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/dc4160374b1b9b68d1a7bc9002cbe3db/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/0c7aabd30e3715fd7a0009d5c81bf42d/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/74b0d760c13a4a5de62e0458f0938560/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/d440bc019c6926d6a55dfa28c0b84a78/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "indo-kekinian",
       "title": "Indo Kekinian",
-      "emoji": "✨",
+      "icon": "sparkles",
       "count": 192,
-      "introCount": 0
+      "introCount": 0,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/6304182dea555267d1ecd48e63fb8a9b/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/50e3f4ee6744351845c720db3e766453/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/f4824c26b02812fc0c095f6731743821/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/747e319ba1372e0ed5eee0d1929b9b5f/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "dangdut",
       "title": "Dangdut",
-      "emoji": "🎤",
+      "icon": "mic",
       "count": 81,
-      "introCount": 0
+      "introCount": 0,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/d207a3e1bf523f8857984c0b7b62c12d/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/81ba70faa999dd7a3579fe29a34b636d/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/e97268b7bfa5d6e468817e84d6278843/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/b8c37e8e16d4d52b3d530d7b92fc5bde/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "global-hits",
       "title": "Global Hits",
-      "emoji": "🌍",
+      "icon": "globe",
       "count": 496,
-      "introCount": 39
+      "introCount": 39,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/020b1804e8c8a2aba6770f5b2763847b/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/89e0e671e88f4ad96a635beaa3d12b8d/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/4bd5903f4ce8f2601916bfadb44efe8a/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "legendaris",
       "title": "Lagu Legendaris",
-      "emoji": "🌟",
+      "icon": "star",
       "count": 406,
-      "introCount": 40
+      "introCount": 40,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/bc5cd6526b7b34cfc0eb5a6ed46b5524/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/e0ce8977ab98d73bcea00fc838ece034/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/316afdaed93c4a18cf730389648d03d6/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "billboard",
       "title": "Top Billboard",
-      "emoji": "🏆",
+      "icon": "trophy",
       "count": 131,
-      "introCount": 46
+      "introCount": 46,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/258e6042338ce64bb4157c0c94b232ac/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/f0282817b697279e56df13909962a54a/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/5199f89d5113a83b5086463d5d0c9415/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "western-2000s",
       "title": "Barat 2000-an",
-      "emoji": "📀",
+      "icon": "disc",
       "count": 157,
-      "introCount": 53
+      "introCount": 53,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/91276466fbc876d96be9e6926060af60/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/033a271b5ec10842c287827c39244fb5/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/fe781ecd9879a82beed80f6d3e80745b/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "rock",
       "title": "Rock",
-      "emoji": "🎸",
+      "icon": "guitar",
       "count": 193,
-      "introCount": 37
+      "introCount": 37,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/1dd56fd8824492e1a5106c99a00a85ec/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/0b56f4eee05fa1ea753c5654b2cdb70c/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/5e61e8290a4d1d64ca58920656c9602d/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "the-weeknd",
       "title": "The Weeknd",
-      "emoji": "🌃",
+      "icon": "xo",
       "count": 49,
-      "introCount": 48
+      "introCount": 48,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/9bd2f0768b8b53cb3338f546526796ec/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/66ae12120936d9660d3e30a7db7627b8/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/b5021d5a88c44071a97416c65d4dbdd9/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "ariana-grande",
       "title": "Ariana Grande",
-      "emoji": "🎀",
+      "icon": "ribbon",
       "count": 46,
-      "introCount": 38
+      "introCount": 38,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/4acc3760e12996fe21a77115fc67760b/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/49e86e935da829b44cb5ffae16826e55/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/9349b2fcb4bd060060a33f054a619e83/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/1a8f399e9ddbb8ec2530232c0dfd953f/250x250-000000-80-0-0.jpg"
+      ]
     },
     {
       "id": "kpop",
       "title": "K-Pop",
-      "emoji": "💜",
+      "icon": "heart",
       "count": 127,
-      "introCount": 0
+      "introCount": 0,
+      "covers": [
+        "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/84ed07b8a200ffbf6676eba8cbb1647c/250x250-000000-80-0-0.jpg",
+        "https://cdn-images.dzcdn.net/images/cover/0c22c441eb7f5519886c8a386a963e7c/250x250-000000-80-0-0.jpg"
+      ]
     }
   ],
   "daily": {
     "id": "daily-pool",
     "title": "Tantangan Harian",
-    "emoji": "📅",
+    "icon": "calendar",
     "count": 243,
     "introCount": 243,
     "bothModes": true,

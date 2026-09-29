@@ -1,7 +1,7 @@
 // A one-shot confetti burst on a throwaway full-screen canvas. Hand-rolled
 // rather than a dependency: a few dozen lines covers what a win needs.
 
-const COLORS = ['#34d399', '#fbbf24', '#f472b6', '#60a5fa', '#a78bfa', '#f87171']
+const COLORS = ['#b8402a', '#e2a93b', '#4d7a3c', '#2a211b', '#efe4cc']
 const PIECES = 160
 const GRAVITY = 0.25
 const DRAG = 0.985

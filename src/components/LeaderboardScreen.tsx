@@ -1,7 +1,9 @@
+import { ArrowLeft } from 'lucide-react'
 import { useState } from 'react'
 import { PLAYLISTS, supportsIntro } from '../data/playlists'
 import type { ClipMode } from '../lib/game'
 import { Leaderboard } from './Leaderboard'
+import { PlaylistPicker } from './PlaylistPicker'
 
 type Props = {
   clipMode: ClipMode
@@ -18,23 +20,24 @@ export function LeaderboardScreen({ clipMode: initialMode, onHome }: Props) {
 
   return (
     <div className="flex w-full flex-col gap-6">
-      <div className="flex items-center justify-between text-xs text-white/40">
-        <button type="button" onClick={onHome} className="transition hover:text-white">
-          ← Menu
+      <div className="flex items-center justify-between font-mono text-xs text-ink/60">
+        <button type="button" onClick={onHome} className="flex items-center gap-1 transition hover:text-ink">
+          <ArrowLeft aria-hidden className="size-3.5" />
+          Menu
         </button>
-        <span>Papan skor</span>
+        <h1 className="display font-sans text-2xl text-ink">Papan Skor</h1>
       </div>
 
-      <div className="grid grid-cols-2 gap-2">
+      <div role="radiogroup" aria-label="Jenis potongan" className="paper grid grid-cols-2 p-1">
         {(['hook', 'intro'] as const).map((mode) => (
           <button
             key={mode}
             type="button"
             onClick={() => setClipMode(mode)}
-            className={`rounded-xl border px-3 py-2 text-sm transition ${
-              clipMode === mode
-                ? 'border-emerald-400/60 bg-emerald-400/10 text-white'
-                : 'border-white/10 text-white/60 hover:bg-white/5'
+            role="radio"
+            aria-checked={clipMode === mode}
+            className={`rounded-sm px-3 py-1.5 text-sm font-bold transition ${
+              clipMode === mode ? 'bg-ink text-card' : 'text-ink/70 hover:bg-ink/5'
             }`}
           >
             {mode === 'intro' ? 'Intro' : 'Reff'}
@@ -42,27 +45,14 @@ export function LeaderboardScreen({ clipMode: initialMode, onHome }: Props) {
         ))}
       </div>
 
-      <div className="flex flex-wrap gap-1.5">
-        {available.map((p) => (
-          <button
-            key={p.id}
-            type="button"
-            onClick={() => setPlaylistId(p.id)}
-            className={`rounded-full border px-3 py-1 text-xs transition ${
-              p.id === selected
-                ? 'border-emerald-400/60 bg-emerald-400/10 text-white'
-                : 'border-white/10 text-white/60 hover:bg-white/5'
-            }`}
-          >
-            {p.emoji} {p.title}
-          </button>
-        ))}
-      </div>
+      {selected && (
+        <PlaylistPicker playlists={available} value={selected} onChange={setPlaylistId} />
+      )}
 
       {selected ? (
         <Leaderboard playlistId={selected} clipMode={clipMode} />
       ) : (
-        <p className="text-center text-sm text-white/40">Belum ada daftar lagu untuk mode ini.</p>
+        <p className="text-center text-sm text-ink/60">Belum ada daftar lagu untuk mode ini.</p>
       )}
     </div>
   )

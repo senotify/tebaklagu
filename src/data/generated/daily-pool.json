@@ -1,7 +1,7 @@
 {
   "id": "daily-pool",
   "title": "Tantangan Harian",
-  "emoji": "📅",
+  "icon": "calendar",
   "count": 243,
   "introCount": 243,
   "bothModes": true,

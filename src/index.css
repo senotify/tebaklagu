@@ -1,5 +1,85 @@
 @import "tailwindcss";
 
+/*
+ * Cassette palette, light: the page is the paper insert, ink is the print on
+ * it, and red, mustard and green are the stripes on an old tape label. The
+ * cassette shell and tape stay dark, as the plastic would.
+ */
+@theme {
+  --font-sans: "Archivo", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --color-paper: #f2ead8;
+  --color-card: #fbf6ea;
+  --color-ink: #2a211b;
+  --color-cream: #efe4cc;
+  --color-cream-dim: #cdbf9f;
+  --color-tape-red: #b8402a;
+  --color-tape-mustard: #e2a93b;
+  --color-tape-green: #4d7a3c;
+  --color-tape: #3a2a20;
+  --color-shell: #211c18;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  /* A little paper grain, so the page reads as printed card, not flat fill. */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16 0 0 0 0 0.13 0 0 0 0 0.1 0 0 0 .07 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@layer components {
+  /* Condensed heavy type, like the printing on a tape label. */
+  .display {
+    font-weight: 850;
+    font-stretch: 70%;
+    letter-spacing: -0.01em;
+    word-spacing: 0.15em;
+    text-transform: uppercase;
+    line-height: 0.95;
+  }
+
+  /* Buttons are printed card with a hard offset shadow that they press into. */
+  .btn-primary,
+  .btn-secondary {
+    @apply flex w-full items-center justify-center gap-2 rounded-md border-2 border-ink py-3 font-semibold transition-[transform,box-shadow] outline-none focus-visible:ring-2 focus-visible:ring-tape-mustard disabled:cursor-not-allowed disabled:opacity-50;
+    box-shadow: 3px 3px 0 var(--color-ink);
+  }
+
+  .btn-primary:not(:disabled):active,
+  .btn-secondary:not(:disabled):active {
+    transform: translate(3px, 3px);
+    box-shadow: none;
+  }
+
+  .btn-primary {
+    @apply bg-tape-red text-card;
+  }
+
+  .btn-secondary {
+    @apply bg-card text-ink;
+  }
+
+  /* A card of printed paper sitting on the page. */
+  .paper {
+    @apply rounded-md border-2 border-ink bg-card;
+  }
+
+  /* The three stripes that run across a tape label. */
+  .stripes {
+    height: 9px;
+    background: linear-gradient(
+      var(--color-tape-red) 0 3px,
+      var(--color-tape-mustard) 3px 6px,
+      var(--color-tape-green) 6px 9px
+    );
+  }
+}
+
 /* Full-screen tint after a guess: green for right, red for wrong. */
 @keyframes guess-flash {
   from {
@@ -14,8 +94,31 @@
   animation: guess-flash 600ms ease-out forwards;
 }
 
+/* Cassette reels turn while audio plays. Paused rather than removed when it
+   stops, so they hold their angle instead of snapping back to the start. */
+@keyframes reel-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.reel {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: reel-spin 2.4s linear infinite;
+  animation-play-state: paused;
+}
+
+.reel[data-playing='true'] {
+  animation-play-state: running;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .guess-flash {
     animation-duration: 300ms;
+  }
+
+  .reel {
+    animation: none;
   }
 }

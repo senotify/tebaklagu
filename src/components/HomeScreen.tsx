@@ -1,3 +1,4 @@
+import { ArrowDown, PartyPopper, Trophy } from 'lucide-react'
 import {
   dailySupportsIntro,
   PLAYLISTS,
@@ -6,6 +7,7 @@ import {
 } from '../data/playlists'
 import { RUN_LENGTH, type ClipMode } from '../lib/game'
 import { resultForDate } from '../lib/storage'
+import { CoverMosaic } from './CoverMosaic'
 
 type Props = {
   clipMode: ClipMode
@@ -15,6 +17,21 @@ type Props = {
   onLeaderboard: () => void
   date: string
   loading?: boolean
+}
+
+const MONTHS = ['JAN', 'FEB', 'MAR', 'APR', 'MEI', 'JUN', 'JUL', 'AGU', 'SEP', 'OKT', 'NOV', 'DES']
+
+/** Today's date stamped on the daily card, split so the day can print large. */
+function DateStamp({ date, className = '' }: { date: string; className?: string }) {
+  const [, month, day] = date.split('-')
+  return (
+    <span className={`flex w-14 shrink-0 flex-col items-center ${className}`}>
+      <span className="display text-4xl tabular-nums">{Number(day)}</span>
+      <span className="font-mono text-[11px] font-semibold tracking-widest">
+        {MONTHS[Number(month) - 1]}
+      </span>
+    </span>
+  )
 }
 
 export function HomeScreen({
@@ -34,72 +51,73 @@ export function HomeScreen({
   const dailyReady = clipMode === 'hook' || dailySupportsIntro()
   const playedToday = resultForDate(date)
 
+  const modes = [
+    { mode: 'hook', label: 'Reff', hint: 'Bagian tengah lagu', ready: true },
+    { mode: 'intro', label: 'Intro', hint: introReady ? 'Dari detik pertama' : 'Belum tersedia', ready: introReady },
+  ] as const
+
   return (
     <div className="flex w-full flex-col gap-8">
-      <header className="text-center">
-        <h1 className="text-3xl font-bold tracking-tight text-white">
-          Tebak <span className="text-emerald-400">Lagu</span>
-        </h1>
-        <p className="mt-2 text-sm text-white/50">
+      <header>
+        <h1 className="display text-6xl">Tebak Lagu</h1>
+        <div className="stripes mt-3" />
+        <p className="mt-3 text-sm text-ink/70">
           Dengar potongan singkat, tebak lagunya. Salah tebak = potongan makin panjang.
         </p>
       </header>
 
       <section>
-        <h2 className="mb-2 text-xs font-medium uppercase tracking-wide text-white/40">
-          Jenis potongan
-        </h2>
-        <div className="grid grid-cols-2 gap-2">
-          <button
-            type="button"
-            onClick={() => onClipMode('hook')}
-            className={`rounded-xl border px-3 py-3 text-left transition ${
-              clipMode === 'hook'
-                ? 'border-emerald-400/60 bg-emerald-400/10'
-                : 'border-white/10 hover:bg-white/5'
-            }`}
-          >
-            <span className="block text-sm font-medium text-white">Reff</span>
-            <span className="mt-0.5 block text-xs text-white/45">
-              Bagian tengah lagu, mulai 0,1 detik
-            </span>
-          </button>
-
-          <button
-            type="button"
-            onClick={() => introReady && onClipMode('intro')}
-            disabled={!introReady}
-            className={`rounded-xl border px-3 py-3 text-left transition ${
-              clipMode === 'intro'
-                ? 'border-emerald-400/60 bg-emerald-400/10'
-                : 'border-white/10 hover:bg-white/5'
-            } disabled:cursor-not-allowed disabled:opacity-40`}
-          >
-            <span className="block text-sm font-medium text-white">Intro</span>
-            <span className="mt-0.5 block text-xs text-white/45">
-              {introReady ? 'Dari detik pertama lagu' : 'Belum tersedia'}
-            </span>
-          </button>
+        <h2 className="mb-2 font-mono text-xs text-ink/60">Jenis potongan</h2>
+        <div role="radiogroup" aria-label="Jenis potongan" className="paper grid grid-cols-2 p-1">
+          {modes.map(({ mode, label, hint, ready }) => (
+            <button
+              key={mode}
+              type="button"
+              role="radio"
+              aria-checked={clipMode === mode}
+              onClick={() => ready && onClipMode(mode)}
+              disabled={!ready}
+              className={`rounded-sm px-3 py-2 text-left transition disabled:cursor-not-allowed disabled:opacity-40 ${
+                clipMode === mode ? 'bg-ink text-card' : 'hover:bg-ink/5'
+              }`}
+            >
+              <span className="block text-sm font-bold">{label}</span>
+              <span className={`block text-xs ${clipMode === mode ? 'text-card/70' : 'text-ink/60'}`}>
+                {hint}
+              </span>
+            </button>
+          ))}
         </div>
       </section>
 
       <section>
+        <h2 className="mb-2 font-mono text-xs text-ink/60">Sisi A · Tantangan harian</h2>
         {/* Replaying a finished daily would reveal the answer again and produce a
             second, different share result for the same date. */}
         {playedToday ? (
-          <div className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-4">
-            <p className="font-semibold text-white">Tantangan Harian</p>
-            <p className="mt-0.5 text-sm text-white/50">
-              {playedToday.won
-                ? `Selesai dalam ${playedToday.attempts} tebakan 🎉`
-                : 'Sudah dimainkan hari ini'}
-            </p>
-            <p className="mt-2 text-xs text-white/35">Lagu baru besok. Main bebas di bawah 👇</p>
+          <div className="paper flex items-center gap-4 px-4 py-4">
+            <DateStamp date={date} className="text-ink/50" />
+            <div>
+              <p className="flex items-center gap-1.5 font-bold">
+                {playedToday.won ? (
+                  <>
+                    Selesai dalam {playedToday.attempts} tebakan
+                    <PartyPopper aria-hidden className="size-4 text-tape-green" />
+                  </>
+                ) : (
+                  'Sudah dimainkan hari ini'
+                )}
+              </p>
+              <p className="mt-1 flex items-center gap-1 text-xs text-ink/60">
+                Lagu baru besok. Main bebas di bawah
+                <ArrowDown aria-hidden className="size-3" />
+              </p>
+            </div>
           </div>
         ) : !dailyReady ? (
-          <div className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-4">
-            <p className="font-semibold text-white/60">Tantangan Harian</p>
-            <p className="mt-0.5 text-sm text-white/40">
+          <div className="paper flex items-center gap-4 px-4 py-4 text-ink/60">
+            <DateStamp date={date} />
+            <p className="text-sm">
               Belum tersedia untuk mode Intro — pilih mode Reff untuk memainkannya.
             </p>
           </div>
@@ -108,11 +126,14 @@ export function HomeScreen({
             type="button"
             onClick={onDaily}
             disabled={loading}
-            className="w-full rounded-xl bg-emerald-500 px-4 py-4 text-left text-black transition hover:bg-emerald-400 disabled:opacity-60"
+            className="btn-primary justify-start gap-4 px-4 py-4 text-left"
           >
-            <span className="block font-semibold">Tantangan Harian</span>
-            <span className="mt-0.5 block text-sm text-black/70">
-              Satu lagu yang sama untuk semua orang
+            <DateStamp date={date} />
+            <span className="border-l-2 border-card/30 pl-4">
+              <span className="display block text-2xl leading-none">Tantangan Harian</span>
+              <span className="mt-1 block text-sm font-normal text-card/85">
+                Satu lagu yang sama untuk semua orang
+              </span>
             </span>
           </button>
         )}
@@ -120,34 +141,44 @@ export function HomeScreen({
 
       <section>
         <div className="mb-2 flex items-baseline justify-between">
-          <h2 className="text-xs font-medium uppercase tracking-wide text-white/40">
-            Main bebas · {RUN_LENGTH} lagu
-          </h2>
+          <h2 className="font-mono text-xs text-ink/60">Sisi B · Main bebas, {RUN_LENGTH} lagu</h2>
           <button
             type="button"
             onClick={onLeaderboard}
-            className="text-xs text-emerald-400 transition hover:text-emerald-300"
+            className="flex items-center gap-1 text-xs font-semibold text-tape-red underline-offset-2 transition hover:underline"
           >
-            🏆 Papan skor
+            <Trophy aria-hidden className="size-3.5" />
+            Papan skor
           </button>
         </div>
-        <div className="grid grid-cols-2 gap-2">
+        <div className="grid grid-cols-2 gap-3">
           {PLAYLISTS.map((playlist) => {
             const available = clipMode === 'hook' || supportsIntro(playlist)
-            const count = clipMode === 'intro' ? playlist.introCount : playlist.count
+            // Styled as a cassette's J-card: the covers are the art, the strip
+            // below is the label someone wrote the title on.
             return (
               <button
                 key={playlist.id}
                 type="button"
                 disabled={!available || loading}
                 onClick={() => onUnlimited(playlist)}
-                className="rounded-xl border border-white/10 px-3 py-3 text-left transition hover:bg-white/5 disabled:cursor-not-allowed disabled:opacity-30"
+                className="paper group overflow-hidden text-left shadow-[3px_3px_0_var(--color-ink)] outline-none transition-[transform,box-shadow] hover:-translate-y-0.5 hover:shadow-[3px_5px_0_var(--color-ink)] focus-visible:ring-2 focus-visible:ring-tape-mustard disabled:cursor-not-allowed disabled:opacity-45 disabled:shadow-none disabled:hover:translate-y-0"
               >
-                <span className="block text-lg">{playlist.emoji}</span>
-                <span className="mt-1 block text-sm font-medium text-white">{playlist.title}</span>
-                <span className="block text-xs text-white/40">
-                  {available ? `${count} lagu` : 'Mode intro belum siap'}
-                </span>
+                <CoverMosaic
+                  covers={playlist.covers}
+                  icon={playlist.icon}
+                  className={`border-b-2 border-ink ${available ? '' : 'grayscale'}`}
+                />
+                <div className="stripes" />
+                <div className="flex items-baseline justify-between gap-2 px-2.5 pt-1.5 pb-2">
+                  <span className="display min-w-0 text-base leading-none">{playlist.title}</span>
+                  <span className="shrink-0 font-mono text-[10px] text-ink/60">{playlist.count}</span>
+                </div>
+                {!available && (
+                  <span className="-mt-1.5 block px-2.5 pb-2 text-[11px] text-ink/70">
+                    Mode intro belum siap
+                  </span>
+                )}
               </button>
             )
           })}

@@ -84,15 +84,15 @@ export function GuessInput({ disabled, onGuess }: Props) {
           onKeyDown={onKeyDown}
           onFocus={() => results.length && setOpen(true)}
           placeholder="Ketik judul lagu atau penyanyi…"
-          className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-white placeholder:text-white/30 outline-none transition focus:border-emerald-400/60 disabled:opacity-40"
+          className="w-full rounded-md border-2 border-ink bg-card px-4 py-3 text-ink placeholder:text-ink/45 outline-none transition focus:ring-2 focus:ring-tape-mustard disabled:opacity-40"
           autoComplete="off"
         />
         {loading && (
-          <span className="absolute right-4 top-1/2 -translate-y-1/2 text-xs text-white/40">…</span>
+          <span className="absolute right-4 top-1/2 -translate-y-1/2 text-xs text-ink/50">…</span>
         )}
 
         {open && visible.length > 0 && (
-          <ul className="absolute z-20 mt-2 max-h-72 w-full overflow-y-auto rounded-xl border border-white/10 bg-neutral-900 shadow-xl">
+          <ul className="absolute z-20 mt-2 max-h-72 w-full overflow-y-auto rounded-md border-2 border-ink bg-card shadow-[3px_3px_0_var(--color-ink)]">
             {visible.map((track, i) => (
               <li key={track.key}>
                 <button
@@ -100,15 +100,15 @@ export function GuessInput({ disabled, onGuess }: Props) {
                   onMouseEnter={() => setHighlight(i)}
                   onClick={() => submit(track)}
                   className={`flex w-full items-center gap-3 px-3 py-2 text-left transition ${
-                    i === highlight ? 'bg-white/10' : 'hover:bg-white/5'
+                    i === highlight ? 'bg-tape-mustard/30' : 'hover:bg-ink/5'
                   }`}
                 >
                   {track.cover && (
-                    <img src={track.cover} alt="" className="h-9 w-9 rounded object-cover" />
+                    <img src={track.cover} alt="" className="h-9 w-9 rounded-sm object-cover" />
                   )}
                   <span className="min-w-0">
-                    <span className="block truncate text-sm text-white">{track.title}</span>
-                    <span className="block truncate text-xs text-white/45">{track.artist}</span>
+                    <span className="block truncate text-sm font-semibold text-ink">{track.title}</span>
+                    <span className="block truncate text-xs text-ink/60">{track.artist}</span>
                   </span>
                 </button>
               </li>

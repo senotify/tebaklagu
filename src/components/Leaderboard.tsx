@@ -1,3 +1,4 @@
+import { Medal } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import type { ClipMode } from '../lib/game'
 import { fetchLeaderboard, type ScoreEntry } from '../lib/leaderboard'
@@ -11,7 +12,8 @@ type Props = {
   refreshKey?: number
 }
 
-const MEDALS = ['🥇', '🥈', '🥉']
+/** Gold, silver and bronze for the top three. */
+const MEDALS = ['text-tape-mustard', 'text-ink/45', 'text-tape-red']
 
 export function Leaderboard({ playlistId, clipMode, highlightId, refreshKey = 0 }: Props) {
   const [scores, setScores] = useState<ScoreEntry[] | null>(null)
@@ -29,25 +31,27 @@ export function Leaderboard({ playlistId, clipMode, highlightId, refreshKey = 0 
     return () => controller.abort()
   }, [playlistId, clipMode, refreshKey])
 
-  if (failed) return <p className="py-4 text-center text-sm text-rose-400">Gagal memuat papan skor.</p>
-  if (!scores) return <p className="py-4 text-center text-sm text-white/40">Memuat…</p>
+  if (failed) return <p className="py-4 text-center text-sm text-tape-red">Gagal memuat papan skor.</p>
+  if (!scores) return <p className="py-4 text-center font-mono text-sm text-ink/55">Memuat…</p>
   if (!scores.length)
-    return <p className="py-4 text-center text-sm text-white/40">Belum ada skor. Jadilah yang pertama!</p>
+    return <p className="py-4 text-center text-sm text-ink/60">Belum ada skor. Jadilah yang pertama!</p>
 
   return (
-    <ol className="flex w-full flex-col gap-1.5">
+    <ol className="flex w-full flex-col">
       {scores.map((entry, i) => (
         <li
           key={entry.id}
-          className={`flex items-center gap-3 rounded-lg border px-3 py-2 text-sm ${
+          className={`flex items-center gap-3 border-b-2 px-2 py-2 text-sm ${
             entry.id === highlightId
-              ? 'border-emerald-400/50 bg-emerald-400/10 text-emerald-100'
-              : 'border-white/10 bg-white/5 text-white/80'
+              ? 'rounded-sm border-ink bg-tape-mustard/35 font-semibold'
+              : 'border-ink/15'
           }`}
         >
-          <span className="w-6 shrink-0 text-center text-xs text-white/50">{MEDALS[i] ?? i + 1}</span>
+          <span className="flex w-6 shrink-0 justify-center font-mono text-xs text-ink/55">
+            {MEDALS[i] ? <Medal aria-label={`Peringkat ${i + 1}`} strokeWidth={2.5} className={`size-4 ${MEDALS[i]}`} /> : i + 1}
+          </span>
           <span className="min-w-0 flex-1 truncate text-left">{entry.username}</span>
-          <span className="shrink-0 font-semibold tabular-nums">{entry.score}</span>
+          <span className="shrink-0 font-mono font-semibold tabular-nums">{entry.score}</span>
         </li>
       ))}
     </ol>

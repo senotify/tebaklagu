@@ -19,7 +19,7 @@ export const ARTIST_OVERRIDES = {
 export const PLAYLISTS = {
   'indo-pop': {
     title: 'Pop Indonesia',
-    emoji: '🇮🇩',
+    icon: 'flag',
     tracksPerArtist: 8,
     artists: [
       'Sheila On 7', 'Dewa 19', 'Padi', 'Slank', 'Ungu',
@@ -30,7 +30,7 @@ export const PLAYLISTS = {
   },
   'indo-kekinian': {
     title: 'Indo Kekinian',
-    emoji: '✨',
+    icon: 'sparkles',
     tracksPerArtist: 8,
     artists: [
       'Tulus', 'Raisa', 'Isyana Sarasvati', 'Hindia', 'Pamungkas', 'Fourtwnty',
@@ -42,7 +42,7 @@ export const PLAYLISTS = {
   },
   dangdut: {
     title: 'Dangdut',
-    emoji: '🎤',
+    icon: 'mic',
     tracksPerArtist: 10,
     artists: [
       'Rhoma Irama', 'Didi Kempot', 'Via Vallen', 'Nella Kharisma',
@@ -55,7 +55,7 @@ export const PLAYLISTS = {
   // which belongs here rather than under the legendary list.
   'global-hits': {
     title: 'Global Hits',
-    emoji: '🌍',
+    icon: 'globe',
     charts: [0, 132, 116],
     chartLimit: 100,
     // Same reason legendaris goes deep: an active artist's top six by Deezer rank
@@ -73,7 +73,7 @@ export const PLAYLISTS = {
   // is settled, so their top tracks are the classics rather than new singles.
   legendaris: {
     title: 'Lagu Legendaris',
-    emoji: '🌟',
+    icon: 'star',
     // Deeper than the other lists: a legendary artist's best-known song is often
     // not their most-streamed one, so ABBA's top 8 misses "Dancing Queen".
     tracksPerArtist: 14,
@@ -88,7 +88,7 @@ export const PLAYLISTS = {
   },
   'western-2000s': {
     title: 'Barat 2000-an',
-    emoji: '📀',
+    icon: 'disc',
     tracksPerArtist: 8,
     artists: [
       'Britney Spears', 'Backstreet Boys', 'Linkin Park', 'Avril Lavigne',
@@ -99,7 +99,7 @@ export const PLAYLISTS = {
   },
   rock: {
     title: 'Rock',
-    emoji: '🎸',
+    icon: 'guitar',
     tracksPerArtist: 8,
     charts: [152],
     chartLimit: 50,
@@ -119,7 +119,7 @@ export const PLAYLISTS = {
   // live takes or remixes of them.
   billboard: {
     title: 'Top Billboard',
-    emoji: '🏆',
+    icon: 'trophy',
     songs: [
       // 2020s
       ['The Weeknd', 'Blinding Lights'], ['Harry Styles', 'As It Was'],
@@ -189,13 +189,13 @@ export const PLAYLISTS = {
   // that 30 or more survive YouTube mapping so it can open in intro mode.
   'the-weeknd': {
     title: 'The Weeknd',
-    emoji: '🌃',
+    icon: 'xo',
     tracksPerArtist: 50,
     artists: ['The Weeknd'],
   },
   'ariana-grande': {
     title: 'Ariana Grande',
-    emoji: '🎀',
+    icon: 'ribbon',
     tracksPerArtist: 50,
     artists: ['Ariana Grande'],
     ownTracksOnly: true,
@@ -203,7 +203,7 @@ export const PLAYLISTS = {
   },
   kpop: {
     title: 'K-Pop',
-    emoji: '💜',
+    icon: 'heart',
     tracksPerArtist: 8,
     artists: [
       'BTS', 'BLACKPINK', 'TWICE', 'EXO', 'Red Velvet', 'SEVENTEEN',

@@ -1,3 +1,4 @@
+import { Check, ChevronRight, X } from 'lucide-react'
 import { MAX_ATTEMPTS, type Guess } from '../lib/game'
 
 export function GuessHistory({ guesses }: { guesses: readonly Guess[] }) {
@@ -8,16 +9,28 @@ export function GuessHistory({ guesses }: { guesses: readonly Guess[] }) {
       {rows.map((guess: Guess | null, i) => (
         <li
           key={i}
-          className={`flex items-center gap-2 rounded-lg border px-3 py-2 text-sm ${
+          // Laid out like a tape's tracklist: numbered lines, filled in as you go.
+          className={`flex items-center gap-2 border-b-2 px-2 py-2 text-sm ${
             guess
               ? guess.outcome === 'correct'
-                ? 'border-emerald-400/40 bg-emerald-400/10 text-emerald-200'
-                : 'border-white/10 bg-white/5 text-white/60'
-              : 'border-white/5 bg-white/[0.02] text-white/20'
+                ? 'border-tape-green bg-tape-green/15 font-semibold text-tape-green'
+                : guess.outcome === 'wrong'
+                  ? 'border-ink/15 text-ink/80'
+                  : 'border-ink/15 text-ink/55'
+              : 'border-dashed border-ink/15 text-ink/30'
           }`}
         >
-          <span className="w-4 shrink-0 text-center text-xs">
-            {guess?.outcome === 'correct' ? '✓' : guess?.outcome === 'skip' ? '›' : guess ? '✗' : ''}
+          <span className="w-4 shrink-0 font-mono text-xs text-ink/45">{i + 1}</span>
+          <span
+            className={`flex w-4 shrink-0 justify-center ${guess?.outcome === 'wrong' ? 'text-tape-red' : ''}`}
+          >
+            {guess?.outcome === 'correct' ? (
+              <Check aria-hidden className="size-3.5" />
+            ) : guess?.outcome === 'skip' ? (
+              <ChevronRight aria-hidden className="size-3.5" />
+            ) : guess ? (
+              <X aria-hidden className="size-3.5" />
+            ) : null}
           </span>
           <span className="truncate">{guess ? guess.label : '—'}</span>
         </li>

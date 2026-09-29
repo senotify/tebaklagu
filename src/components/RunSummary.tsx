@@ -1,3 +1,4 @@
+import { X } from 'lucide-react'
 import { useState, type FormEvent } from 'react'
 import type { PlaylistInfo } from '../data/playlists'
 import type { Track } from '../lib/deezer'
@@ -5,6 +6,7 @@ import { MAX_ATTEMPTS, type ClipMode } from '../lib/game'
 import { cleanUsername, submitScore, USERNAME_MAX, USERNAME_MIN } from '../lib/leaderboard'
 import { loadUsername, saveUsername } from '../lib/storage'
 import { Leaderboard } from './Leaderboard'
+import { PlaylistIcon } from './PlaylistIcon'
 
 export type RunResult = { track: Track; won: boolean; attempts: number; points: number }
 
@@ -53,36 +55,37 @@ export function RunSummary({ playlist, clipMode, results, onPlayAgain, onHome }:
   return (
     <div className="flex w-full flex-col gap-6">
       <header className="text-center">
-        <p className="text-xs uppercase tracking-wide text-white/40">
-          {playlist.emoji} {playlist.title} · {clipMode === 'intro' ? 'Intro' : 'Reff'}
+        <p className="flex items-center justify-center gap-1.5 font-mono text-xs text-ink/60">
+          <PlaylistIcon name={playlist.icon} className="size-3.5" />
+          {playlist.title} · {clipMode === 'intro' ? 'Intro' : 'Reff'}
         </p>
-        <p className="mt-2 text-5xl font-bold text-emerald-400 tabular-nums">{total}</p>
-        <p className="text-sm text-white/50">dari {max} poin</p>
+        <p className="display mt-3 text-8xl text-tape-red tabular-nums">{total}</p>
+        <p className="mt-1 font-mono text-sm text-ink/60">dari {max} poin</p>
       </header>
 
-      <ul className="flex flex-col gap-1.5">
+      <ul className="flex flex-col">
         {results.map(({ track, won, attempts, points }) => (
           <li
             key={track.id}
-            className="flex items-center gap-3 rounded-lg border border-white/10 bg-white/5 px-3 py-2 text-sm"
+            className="flex items-center gap-3 border-b-2 border-ink/15 px-1 py-2 text-sm"
           >
-            {track.cover && <img src={track.cover} alt="" className="h-8 w-8 shrink-0 rounded object-cover" />}
+            {track.cover && <img src={track.cover} alt="" className="h-8 w-8 shrink-0 rounded-sm border border-ink/30 object-cover" />}
             <span className="min-w-0 flex-1 truncate">
-              <span className="text-white">{track.title}</span>
-              <span className="text-white/40"> — {track.artist}</span>
+              <span className="font-semibold">{track.title}</span>
+              <span className="text-ink/60"> — {track.artist}</span>
             </span>
-            <span className={`shrink-0 text-xs ${won ? 'text-emerald-400' : 'text-rose-400'}`}>
-              {won ? `${attempts}× · +${points}` : '✗'}
+            <span className={`shrink-0 font-mono text-xs ${won ? 'text-tape-green' : 'text-tape-red'}`}>
+              {won ? `${attempts}× · +${points}` : <X aria-label="Gagal" className="size-4" />}
             </span>
           </li>
         ))}
       </ul>
 
       <section className="flex flex-col gap-3">
-        <h2 className="text-xs font-medium uppercase tracking-wide text-white/40">Papan skor</h2>
+        <h2 className="font-mono text-xs text-ink/60">Papan skor</h2>
 
         {submitted ? (
-          <p className="text-center text-sm text-emerald-300">
+          <p className="text-center text-sm font-semibold text-tape-green">
             Skor terkirim — peringkat #{submitted.rank}
           </p>
         ) : (
@@ -93,18 +96,18 @@ export function RunSummary({ playlist, clipMode, results, onPlayAgain, onHome }:
               maxLength={USERNAME_MAX}
               placeholder="Nama kamu"
               aria-label="Nama kamu"
-              className="min-w-0 flex-1 rounded-xl border border-white/10 bg-white/5 px-3 py-2.5 text-sm text-white placeholder:text-white/30 focus:border-emerald-400/60 focus:outline-none"
+              className="min-w-0 flex-1 rounded-md border-2 border-ink bg-card px-3 py-2.5 text-sm text-ink placeholder:text-ink/45 focus:outline-none focus:ring-2 focus:ring-tape-mustard"
             />
             <button
               type="submit"
               disabled={status === 'sending'}
-              className="shrink-0 rounded-xl bg-emerald-500 px-4 py-2.5 text-sm font-medium text-black transition hover:bg-emerald-400 disabled:opacity-60"
+              className="btn-primary w-auto shrink-0 px-4 py-2.5 text-sm"
             >
               {status === 'sending' ? 'Mengirim…' : 'Kirim skor'}
             </button>
           </form>
         )}
-        {error && <p className="text-center text-xs text-rose-400">{error}</p>}
+        {error && <p className="text-center text-xs text-tape-red">{error}</p>}
 
         <Leaderboard
           playlistId={playlist.id}
@@ -114,18 +117,18 @@ export function RunSummary({ playlist, clipMode, results, onPlayAgain, onHome }:
         />
       </section>
 
-      <div className="flex flex-col gap-2">
+      <div className="flex flex-col gap-3">
         <button
           type="button"
           onClick={onPlayAgain}
-          className="w-full rounded-xl bg-emerald-500 py-3 font-medium text-black transition hover:bg-emerald-400"
+          className="btn-primary"
         >
           Main lagi
         </button>
         <button
           type="button"
           onClick={onHome}
-          className="w-full rounded-xl border border-white/10 py-3 text-sm text-white/70 transition hover:bg-white/5"
+          className="btn-secondary text-sm"
         >
           Menu utama
         </button>

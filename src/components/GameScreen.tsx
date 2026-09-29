@@ -1,3 +1,4 @@
+import { ArrowLeft, Headphones } from 'lucide-react'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import type { Playlist } from '../data/playlists'
 import { useAudioClip } from '../hooks/useAudioClip'
@@ -162,16 +163,17 @@ export function GameScreen({
           key={flash.key}
           aria-hidden
           className={`guess-flash pointer-events-none fixed inset-0 z-50 ${
-            flash.correct ? 'bg-emerald-400' : 'bg-rose-500'
+            flash.correct ? 'bg-tape-green' : 'bg-tape-red'
           }`}
         />
       )}
 
-      <div className="flex items-center justify-between text-xs text-white/40">
-        <button type="button" onClick={onHome} className="transition hover:text-white">
-          ← Menu
+      <div className="flex items-center justify-between gap-3 text-xs text-ink/60">
+        <button type="button" onClick={onHome} className="flex shrink-0 items-center gap-1 transition hover:text-ink">
+          <ArrowLeft aria-hidden className="size-3.5" />
+          Menu
         </button>
-        <span>
+        <span className="truncate text-right">
           {playMode === 'daily' ? `Harian · ${date}` : playlist.title} ·{' '}
           {clipMode === 'intro' ? 'Intro' : 'Reff'}
           {run && ` · Lagu ${run.index + 1}/${run.total} · ${run.score} poin`}
@@ -179,18 +181,18 @@ export function GameScreen({
       </div>
 
       {fellBack && (
-        <p className="rounded-lg bg-white/5 px-3 py-2 text-center text-xs text-white/50">
+        <p className="rounded-md bg-tape-mustard/25 px-3 py-2 text-center text-xs text-ink/80">
           Iklan YouTube menghalangi mode intro, jadi ronde ini pakai potongan reff.
         </p>
       )}
 
       {loadError ? (
         <div className="flex flex-col items-center gap-3 py-8 text-center">
-          <p className="text-sm text-rose-400">{loadError}</p>
+          <p className="text-sm text-tape-red">{loadError}</p>
           <button
             type="button"
             onClick={() => void loadPreview()}
-            className="rounded-lg border border-white/10 px-4 py-2 text-sm text-white/70 transition hover:bg-white/5"
+            className="btn-secondary w-auto px-4 py-2 text-sm"
           >
             Coba lagi
           </button>
@@ -198,14 +200,14 @@ export function GameScreen({
       ) : (
         <>
           {isIntro && (
-            <div className="relative aspect-video w-full overflow-hidden rounded-xl bg-black">
+            <div className="relative aspect-video w-full overflow-hidden rounded-md border-2 border-ink bg-black">
               <div ref={youtube.containerRef} className="h-full w-full" />
               {/* The video frame names the song, so it stays covered until the
                   round is over — the audio is the puzzle. */}
               {!finished && (
-                <div className="absolute inset-0 flex flex-col items-center justify-center gap-1 bg-neutral-900 text-center">
-                  <span className="text-2xl">🎧</span>
-                  <span className="text-xs text-white/35">Dengarkan, jangan mengintip</span>
+                <div className="absolute inset-0 flex flex-col items-center justify-center gap-1 bg-shell text-center">
+                  <Headphones aria-hidden className="size-7 text-cream/70" />
+                  <span className="font-mono text-xs text-cream/60">Dengarkan, jangan mengintip</span>
                 </div>
               )}
             </div>
@@ -215,8 +217,8 @@ export function GameScreen({
               of the song, and a guess spent on that is a guess wasted. So the
               round stops here and offers a way out instead. */}
           {blocked && !finished ? (
-            <div className="flex flex-col items-center gap-3 rounded-xl border border-amber-500/20 bg-amber-500/5 px-4 py-6 text-center">
-              <p className="text-sm text-amber-300">
+            <div className="paper flex flex-col items-center gap-3 border-tape-mustard px-4 py-6 text-center">
+              <p className="text-sm text-ink/80">
                 YouTube memutar iklan sebelum lagu ini, jadi mode intro tidak bisa dipakai.
               </p>
               <div className="flex flex-wrap justify-center gap-2">
@@ -224,7 +226,7 @@ export function GameScreen({
                   <button
                     type="button"
                     onClick={onNext}
-                    className="rounded-lg bg-white/10 px-4 py-2 text-sm text-white transition hover:bg-white/15"
+                    className="btn-secondary w-auto px-4 py-2 text-sm"
                   >
                     Lagu lain
                   </button>
@@ -232,7 +234,7 @@ export function GameScreen({
                 <button
                   type="button"
                   onClick={onFallbackHook}
-                  className="rounded-lg bg-white/10 px-4 py-2 text-sm text-white transition hover:bg-white/15"
+                  className="btn-secondary w-auto px-4 py-2 text-sm"
                 >
                   Pakai mode Reff
                 </button>
@@ -255,7 +257,7 @@ export function GameScreen({
               />
 
               {error && !loadError && (
-                <p className="text-center text-xs text-amber-400">{error}</p>
+                <p className="text-center text-xs text-tape-red">{error}</p>
               )}
 
               {finished ? (

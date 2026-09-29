@@ -169,7 +169,7 @@ export default function App() {
   const runScore = run?.results.reduce((sum, r) => sum + (r?.points ?? 0), 0) ?? 0
 
   return (
-    <div className="min-h-dvh bg-neutral-950 px-5 py-8 text-white">
+    <div className="min-h-dvh px-5 py-8">
       <main className="mx-auto w-full max-w-md">
         {view === 'round' && round ? (
           <GameScreen
@@ -213,7 +213,7 @@ export default function App() {
               date={date}
               loading={loading}
             />
-            {error && <p className="mt-4 text-center text-sm text-rose-400">{error}</p>}
+            {error && <p className="mt-4 text-center text-sm text-tape-red">{error}</p>}
           </>
         )}
       </main>

@@ -49,7 +49,7 @@ export function ResultCard({
 
   return (
     <div className="flex w-full flex-col items-center gap-4 text-center">
-      <p className={`text-sm font-medium ${won ? 'text-emerald-400' : 'text-rose-400'}`}>
+      <p className={`font-mono text-sm font-semibold ${won ? 'text-tape-green' : 'text-tape-red'}`}>
         {won ? `Benar dalam ${guesses.length} tebakan!` : 'Belum berhasil kali ini'}
         {playMode === 'unlimited' && ` · +${scoreForRound(won, guesses.length)} poin`}
       </p>
@@ -58,21 +58,21 @@ export function ResultCard({
         <img
           src={track.cover}
           alt=""
-          className="h-36 w-36 rounded-xl object-cover shadow-lg shadow-black/40"
+          className="h-40 w-40 rounded-sm border-2 border-ink object-cover shadow-[4px_4px_0_var(--color-ink)]"
         />
       )}
 
       <div>
-        <h2 className="text-xl font-semibold text-white">{track.title}</h2>
-        <p className="text-white/50">{track.artist}</p>
+        <h2 className="display text-3xl leading-none">{track.title}</h2>
+        <p className="mt-1 text-ink/70">{track.artist}</p>
       </div>
 
-      <div className="flex w-full flex-col gap-2">
+      <div className="mt-2 flex w-full flex-col gap-3">
         {playMode === 'daily' && (
           <button
             type="button"
             onClick={share}
-            className="w-full rounded-xl bg-emerald-500 py-3 font-medium text-black transition hover:bg-emerald-400"
+            className="btn-primary"
           >
             {shared ? 'Tersalin!' : 'Bagikan hasil'}
           </button>
@@ -82,7 +82,7 @@ export function ResultCard({
           <button
             type="button"
             onClick={onNext}
-            className="w-full rounded-xl bg-emerald-500 py-3 font-medium text-black transition hover:bg-emerald-400"
+            className="btn-primary"
           >
             {lastInRun ? 'Lihat skor' : 'Lagu berikutnya'}
           </button>
@@ -91,7 +91,7 @@ export function ResultCard({
         <button
           type="button"
           onClick={onHome}
-          className="w-full rounded-xl border border-white/10 py-3 text-sm text-white/70 transition hover:bg-white/5"
+          className="btn-secondary text-sm"
         >
           Menu utama
         </button>

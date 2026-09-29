@@ -15,6 +15,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { api, findSong, isPlayable, normalize, topTracks } from './lib/deezer.mjs'
 import { blockedInCountry, pickBestVideo, QuotaError, videoDurations } from './lib/youtube.mjs'
+import { pickCovers } from './lib/covers.mjs'
 import { DAILY_POOL, PLAYLISTS } from './sources.mjs'
 
 const OUT_DIR = new URL('../src/data/generated/', import.meta.url)
@@ -122,6 +123,8 @@ for (const entry of Object.values(remaps)) {
 await mkdir(OUT_DIR, { recursive: true })
 const names = only.length ? only : Object.keys(PLAYLISTS)
 const summary = []
+/** Covers already on a tile, so no two playlists open with the same art. */
+const tileCovers = new Set()
 let quotaGone = false
 
 /** A single non-id in a batch makes videos.list reject the whole request. */
@@ -323,10 +326,10 @@ for (const name of names) {
   console.log(tracks.slice(0, 12).map((t) => `     ${t.title} — ${t.artist}`).join('\n'))
 
   if (!dryRun) {
-    const payload = { title: spec.title, emoji: spec.emoji, tracks }
+    const payload = { title: spec.title, icon: spec.icon, tracks }
     await writeFile(outFile, JSON.stringify(payload, null, 2) + '\n')
   }
-  summary.push({ name, total: tracks.length, withYt })
+  summary.push({ name, total: tracks.length, withYt, covers: pickCovers(tracks, tileCovers) })
 }
 
 // The daily song must be the same in both clip modes, so the pool only takes
@@ -350,7 +353,7 @@ if (!only.length) {
   dailySummary = {
     id: 'daily-pool',
     title: 'Tantangan Harian',
-    emoji: '📅',
+    icon: 'calendar',
     count: chosen.length,
     introCount: chosen.filter((t) => t.youtubeId).length,
     // True only when every track in the pool works in either mode, which is
@@ -476,7 +479,14 @@ if (!only.length) {
 if (!only.length && !dryRun) {
   const playlists = Object.entries(PLAYLISTS).map(([id, spec]) => {
     const found = summary.find((s) => s.name === id)
-    return { id, title: spec.title, emoji: spec.emoji, count: found.total, introCount: found.withYt }
+    return {
+      id,
+      title: spec.title,
+      icon: spec.icon,
+      count: found.total,
+      introCount: found.withYt,
+      covers: found.covers,
+    }
   })
   // The daily pool gets its own entry: its intro readiness is a property of the
   // pool itself, not something derivable by summing the other playlists.

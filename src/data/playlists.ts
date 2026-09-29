@@ -12,10 +12,13 @@ import index from './generated/index.json'
 export type PlaylistInfo = {
   id: string
   title: string
-  emoji: string
+  /** Lucide icon name, rendered by PlaylistIcon. */
+  icon: string
   count: number
   /** How many of the tracks have a YouTube id, i.e. are playable in intro mode. */
   introCount: number
+  /** A few album covers for the home-screen tile. Absent on the daily pool, whose art would spoil it. */
+  covers?: string[]
   /** Daily pool only: every track works in either clip mode. */
   bothModes?: boolean
 }
